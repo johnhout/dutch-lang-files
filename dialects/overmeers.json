@@ -1,0 +1,686 @@
+{
+    "proverbs": [
+        [
+            "Ben je alleen thuis?",
+            "Zette mee den thuiswacht?"
+        ],
+        [
+            "beurs met veel geld",
+            "nen dikken portemonnee"
+        ],
+        [
+            "blaadjes voor sigaretten",
+            "'n boeksken blaadses"
+        ],
+        [
+            "de gevolgen van een val in dronken toestand",
+            "kasseibrand"
+        ],
+        [
+            "een bak aal",
+            "nen bak beir"
+        ],
+        [
+            "een beetje zout",
+            "e snuifken zaat"
+        ],
+        [
+            "een bokaaltje pickels",
+            "'n bekalleken piekels"
+        ],
+        [
+            "een bol breigaren",
+            "nen bol tsette"
+        ],
+        [
+            "een bos brandnetels",
+            "nen bos teengels"
+        ],
+        [
+            "een boterham eten",
+            "nen boot eten"
+        ],
+        [
+            "een bui regen",
+            "'n bijze regen"
+        ],
+        [
+            "een bundel hout",
+            "'n spinse haat"
+        ],
+        [
+            "een bus benzine",
+            "nen bidon nafte"
+        ],
+        [
+            "EEN BUS GAS",
+            "EEN BUS GAZE"
+        ],
+        [
+            "een bus gas",
+            "nen does gaze"
+        ],
+        [
+            "een dikte van een duim",
+            "nen duim dikke"
+        ],
+        [
+            "een doos papieren",
+            "'n dueuze papieren"
+        ],
+        [
+            "een druppel water",
+            "nen dreupel woatre"
+        ],
+        [
+            "een dubbele kin",
+            "'n dobbele kinne"
+        ],
+        [
+            "een eind worst",
+            "nen end sosiezen"
+        ],
+        [
+            "een emmer aal",
+            "'n loete beir"
+        ],
+        [
+            "een fles jenever",
+            "'n pulle zenuvre"
+        ],
+        [
+            "een groep renners",
+            "'n rekke koereurs"
+        ],
+        [
+            "een grote kar steenkool",
+            "ne waugen stieënkool"
+        ],
+        [
+            "een haarlok",
+            "'n klesse hoar"
+        ],
+        [
+            "een hand gras",
+            "nen dots gas"
+        ],
+        [
+            "een handvol kersen",
+            "'n affel kazen"
+        ],
+        [
+            "een handvol stro",
+            "ne frots strueu"
+        ],
+        [
+            "een hap brood",
+            "'n bete brueud"
+        ],
+        [
+            "een hoeveelheid klein geld",
+            "'n kardoeze klotergeld"
+        ],
+        [
+            "een hoop hooi",
+            "nen opper hoeï"
+        ],
+        [
+            "een hoop ruzie",
+            "nen hueup ambras"
+        ],
+        [
+            "een hoopje aarde",
+            "'n heupken eirde"
+        ],
+        [
+            "een ijskreem",
+            "nen toeter ijska , e kreimeken"
+        ],
+        [
+            "een kaartspel",
+            "nen boek koarten"
+        ],
+        [
+            "een kan petrolium",
+            "'n kanne ole"
+        ],
+        [
+            "een kar bieten",
+            "'n kerre bieëten"
+        ],
+        [
+            "een kleine rest",
+            "'n treutsen overschot"
+        ],
+        [
+            "een klontje suiker",
+            "'n broksken suikre"
+        ],
+        [
+            "een klos garen",
+            "'n klosse goaren of 'n tuite goaren (twijn) "
+        ],
+        [
+            "een kluitje boter",
+            "'n kloontsen bootre"
+        ],
+        [
+            "een kom vlaaien",
+            "'n teste vloan"
+        ],
+        [
+            "een korf eieren",
+            "ne kurf eiren"
+        ],
+        [
+            "een korf peren",
+            "ne kaba peiren"
+        ],
+        [
+            "een korst brood",
+            "'n kuste brueud"
+        ],
+        [
+            "een kruiwagen rapen",
+            "ne kurrewaugen lueuf"
+        ],
+        [
+            "een kuip vlees (gezouten) ",
+            "'n kuipe vlieës"
+        ],
+        [
+            "een kwak azijn",
+            "'n geute azijn of 'n scheut azijn"
+        ],
+        [
+            "een lege geldtas",
+            "ne legen portemenee"
+        ],
+        [
+            "een lepel mayonaise",
+            "ne lek majeneize"
+        ],
+        [
+            "een maatje verf",
+            "'n mautsen veirve"
+        ],
+        [
+            "een man met een ronde buik",
+            "'n buiksken bier"
+        ],
+        [
+            "een mand aardappelen",
+            "'n mande petatten"
+        ],
+        [
+            "een nest biggen",
+            "'n lot viggens"
+        ],
+        [
+            "een nest vogels",
+            "nen nest veugeljonskens"
+        ],
+        [
+            "een nip likeur",
+            "e sloksken likeur"
+        ],
+        [
+            "een oppervlak aardappelen",
+            "'n roe petatten"
+        ],
+        [
+            "een oppervlakte grond",
+            "e voatzoad land"
+        ],
+        [
+            "een oven brood",
+            "'n bakte brueud"
+        ],
+        [
+            "een pak hooi",
+            "'n botte hoei"
+        ],
+        [
+            "een pak slaag",
+            "'n pak slaugen of een rammelinge"
+        ],
+        [
+            "een palmtakje",
+            "'n taksken palm"
+        ],
+        [
+            "een pan haring",
+            "'n panne heirink"
+        ],
+        [
+            "een perkje spinazie",
+            "'n beddeken spinauze"
+        ],
+        [
+            "een plak kaas",
+            "'n schelle koas"
+        ],
+        [
+            "een portie paling",
+            "'n poose poalink"
+        ],
+        [
+            "een pruim tabak",
+            "'n tsieke toebak"
+        ],
+        [
+            "een put bieten",
+            "ne put bieëten of beitrauven"
+        ],
+        [
+            "een reeks houten klompen",
+            "'n wisse haten schoenen"
+        ],
+        [
+            "een reep chocolade",
+            "'n latte sokla"
+        ],
+        [
+            "een regen drip",
+            "'n drupken regen"
+        ],
+        [
+            "een rest brood",
+            "ne kant brueud"
+        ],
+        [
+            "een rij bomen",
+            "'n rote bueumen"
+        ],
+        [
+            "een rij krachtwoorden",
+            "ne resem vloeken"
+        ],
+        [
+            "een rol snoep (munt smaak) ",
+            "'n rolleken meuntses"
+        ],
+        [
+            "een schel rauwe ham",
+            "'n zole hepse"
+        ],
+        [
+            "een schoof stro",
+            "nen busselstrueu"
+        ],
+        [
+            "een schoof stro",
+            "ne schueuf strueu"
+        ],
+        [
+            "een slok bier",
+            "e klutsken bier"
+        ],
+        [
+            "een slok melk",
+            "ne slok melk"
+        ],
+        [
+            "een sneeuwvlokje",
+            "e vloksken snieë"
+        ],
+        [
+            "een spade diep",
+            "'n spoa diep"
+        ],
+        [
+            "een stapel graan",
+            "'n mijte groan"
+        ],
+        [
+            "een stel schoven koren",
+            "ne mangel kueuren"
+        ],
+        [
+            "een streng garen",
+            "'n stringe goaren"
+        ],
+        [
+            "een struikje netels",
+            "'n hulleken teengels"
+        ],
+        [
+            "een stuk brood",
+            "'n lokke brueud"
+        ],
+        [
+            "een stuk grond",
+            "'n lapken grond of ne veurschueut grond"
+        ],
+        [
+            "een stuk stam (boom) ",
+            "'n bole haat"
+        ],
+        [
+            "een stuk taart",
+            "'n spie toarte"
+        ],
+        [
+            "een stukje lommer",
+            "e streepken loemerte"
+        ],
+        [
+            "een stukje papier",
+            "e snibberken papier"
+        ],
+        [
+            "een stukje stof",
+            "'n krapken stoffe"
+        ],
+        [
+            "een teentje look",
+            "'n tientsen lueuk"
+        ],
+        [
+            "een teug bier",
+            "'n zeupken bier"
+        ],
+        [
+            "een vals gebit",
+            "ne mond tanden"
+        ],
+        [
+            "een vat bier",
+            "'n tonne bier"
+        ],
+        [
+            "een veld bieten",
+            "'n plekke beitrauve"
+        ],
+        [
+            "een vlucht spreeuwen",
+            "'n bende sprieën"
+        ],
+        [
+            "een volle emmer",
+            "ne vullen ieëmer"
+        ],
+        [
+            "een waterlek",
+            "'n stroeleken woatre"
+        ],
+        [
+            "een zak aardappelen",
+            "'n boale petatten"
+        ],
+        [
+            "een zak haver",
+            "ne zak hauvre"
+        ],
+        [
+            "een zak kolen",
+            "ne kluts kolen"
+        ],
+        [
+            "een zakje knikkers",
+            "'n buzze meirebollen"
+        ],
+        [
+            "een zakje pruimen",
+            "nen hoedvul pruimen"
+        ],
+        [
+            "een zode gras",
+            "'n zoei gas"
+        ],
+        [
+            "een zolder graan",
+            "ne zolder groan"
+        ],
+        [
+            "een zwerm vogels",
+            "'n zwesse veugels"
+        ],
+        [
+            "halve ton bier",
+            "'n halve tonne bier"
+        ],
+        [
+            "Hij heeft het zitten , hij is er aan",
+            "Hij eent oa zijne schreper"
+        ],
+        [
+            "iemand die zich hoog gedraagt",
+            "nen dikken nek"
+        ],
+        [
+            "je hebt mij laten wachten",
+            "Get mij op een zoeë gezet"
+        ],
+        [
+            "klontje suiker",
+            "e kluitsen suikre"
+        ],
+        [
+            "makrons (koekjes) ",
+            "'n vel makrons"
+        ],
+        [
+            "opgepot geld",
+            "'n ponke geld"
+        ],
+        [
+            "slecht gewassen",
+            "lokersen brand"
+        ],
+        [
+            "Toch wel",
+            "Ten doet"
+        ],
+        [
+            "Wij zijn aan 't overdrijven",
+            "Nou goamen ne gank he"
+        ],
+        [
+            "Zo dom als een kip",
+            "Zeu dom as een inne"
+        ]
+    ],
+    "words": [
+        [
+            "A"
+        ],
+        [
+            "as van kolen",
+            "schramoelden"
+        ],
+        [
+            "B"
+        ],
+        [
+            "bh",
+            "tettenkaba"
+        ],
+        [
+            "biggetje",
+            "tsjut"
+        ],
+        [
+            "D"
+        ],
+        [
+            "Daar heb ik veel zin in.",
+            "Da bijt in mijn bille."
+        ],
+        [
+            "dakgoot",
+            "cornisse"
+        ],
+        [
+            "diarhee",
+            "den dapperen"
+        ],
+        [
+            "dzaknonne",
+            "speelgoed tol aangedreven door zweepje"
+        ],
+        [
+            "E"
+        ],
+        [
+            "een gierigaard",
+            "een pinne"
+        ],
+        [
+            "een onweer",
+            "een vlauge"
+        ],
+        [
+            "een pijp tabak",
+            "'n pijpe toebak"
+        ],
+        [
+            "een schel kop",
+            "een schelle eufvlakke"
+        ],
+        [
+            "een schop aarde",
+            "'n schuppe eirde"
+        ],
+        [
+            "een tube zalf",
+            "'n tube zalve"
+        ],
+        [
+            "enkele",
+            "eenigte"
+        ],
+        [
+            "Erg , zeer",
+            "Nijg ( nijg werm nijg kaut..)"
+        ],
+        [
+            "G"
+        ],
+        [
+            "groot zakmes",
+            "puiloeter"
+        ],
+        [
+            "H"
+        ],
+        [
+            "haag",
+            "weire"
+        ],
+        [
+            "haagschaar",
+            "weirscheire"
+        ],
+        [
+            "huilebalk",
+            "tsjiepmuile , schriëtote"
+        ],
+        [
+            "I"
+        ],
+        [
+            "Ijsjesverkoper",
+            "Kreimkerre"
+        ],
+        [
+            "K"
+        ],
+        [
+            "Kersen",
+            "Kauzen"
+        ],
+        [
+            "Kuiken",
+            "Tsjiepken"
+        ],
+        [
+            "L"
+        ],
+        [
+            "LIEF",
+            "WIJRE"
+        ],
+        [
+            "luiken",
+            "zonnebloaren , woaterbloaren , blaffeturen"
+        ],
+        [
+            "M"
+        ],
+        [
+            "Mijn boodschappentas",
+            "Menne kabaa"
+        ],
+        [
+            "P"
+        ],
+        [
+            "pannekoek",
+            "slember"
+        ],
+        [
+            "perzik",
+            "pezerik"
+        ],
+        [
+            "R"
+        ],
+        [
+            "rolluik",
+            "persijne"
+        ],
+        [
+            "rondhangen",
+            "desteren"
+        ],
+        [
+            "S"
+        ],
+        [
+            "salami",
+            "beloende"
+        ],
+        [
+            "schaar",
+            "scheire"
+        ],
+        [
+            "schaatsen",
+            "schofferdijnen"
+        ],
+        [
+            "speelgoed tol",
+            "nonne"
+        ],
+        [
+            "V"
+        ],
+        [
+            "valsspeler",
+            "eurzak"
+        ],
+        [
+            "vrucht met insectensteek",
+            "moasteke"
+        ],
+        [
+            "W"
+        ],
+        [
+            "wij, jij, zij, hun",
+            "wulder, gulder, zulder, hulder"
+        ],
+        [
+            "Winterkoning",
+            "Keutsen. overmeersevogels.coolbb.net"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "zweep",
+            "Dzakke"
+        ]
+    ]
+}

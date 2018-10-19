@@ -1,0 +1,669 @@
+{
+    "proverbs": [
+        [
+            "binnen een jaar niet heeft gevonden",
+            "binne un joar nie hih gevonde"
+        ],
+        [
+            "de eerlijke vinder heeft het geld afgeleverd bij",
+            "dun irlukke vènder hih ut geld afgelivverd bè"
+        ],
+        [
+            "de oudere generatie doet het wel",
+            "bitter'n auw perd kapot als un jong overstuur"
+        ],
+        [
+            "de tafel dekken",
+            "de toafel ophoalen"
+        ],
+        [
+            "gauw terug",
+            "alé, vuruit, achteruit"
+        ],
+        [
+            "helemaal tot het einde",
+            "olling tot tène toe"
+        ],
+        [
+            "het geld te maken heeft met een criminele activiteit",
+            "ut geld te make hih mè un criminihle activitèt"
+        ],
+        [
+            "het is niet koud",
+            "'t is pas kouw as de boeruh ijs mellukuh"
+        ],
+        [
+            "ik ga naar het toilet",
+            "'k moe scheiten alzun jong veule mea kooi dérm"
+        ],
+        [
+            "je weet niet of",
+            "ge wit oit noit nie"
+        ],
+        [
+            "kijk eens of hij kijkt en als hij kijkt moete niet kijken",
+            "kik is of ie kikt dan moete nie kekken"
+        ],
+        [
+            "komt dat volgens de nederlandse wetgeving toe aan de vinder",
+            "kumt dah volgus dun nederlandse wetgiving toe aon dun vènder"
+        ],
+        [
+            "Met een riek wormen uit de grond halen",
+            "Piere döppe"
+        ],
+        [
+            "Ober, mogen wij nog wat te drinken?",
+            "He, doe hier es wa."
+        ],
+        [
+            "omdat zij het niet onwaarschijnlijk acht dat",
+            "umdè zellie ut nie onwoarskenluk aacht dah"
+        ],
+        [
+            "opschieten -kan opschieten vandaag",
+            "aveseren- m'n aveseerschoenen aan--"
+        ],
+        [
+            "Schijndele schooiers gaan op mooie schoenen naar school",
+            "Skendelse skoiers goan op skoan skoe'n noa skool"
+        ],
+        [
+            "Schijndelse kinderen gaan op mooie schoenen naar school.",
+            "Skendelse skoljong goan op skoan skoe'n noar skool"
+        ],
+        [
+            "Vissen met een tros pieren",
+            "Peuren"
+        ],
+        [
+            "woensdagavond vond langs een weg in het ulvenhoutsebos bij breda",
+            "dun woensige-oavond vond langs unne weg in't ulvenhoutsebos bè Breda"
+        ]
+    ],
+    "words": [
+        [
+            "A"
+        ],
+        [
+            "aanrechtblad",
+            "gutsteen"
+        ],
+        [
+            "aapje",
+            "epke"
+        ],
+        [
+            "aardappels",
+            "èrpul"
+        ],
+        [
+            "allemaal",
+            "ammul"
+        ],
+        [
+            "als de",
+            "es de"
+        ],
+        [
+            "B"
+        ],
+        [
+            "bagagedrager",
+            "pakkedrager"
+        ],
+        [
+            "beethebben",
+            "oan de féter"
+        ],
+        [
+            "big",
+            "bag"
+        ],
+        [
+            "bij jullie",
+            "bullie"
+        ],
+        [
+            "bij ons",
+            "bons"
+        ],
+        [
+            "bijna",
+            "bekant"
+        ],
+        [
+            "Bijt hij als ik hem aai",
+            "Bet ie ak em ei"
+        ],
+        [
+            "Boerenkool",
+            "Boeruhmoes"
+        ],
+        [
+            "boerenkoolstamppot",
+            "boeremoes"
+        ],
+        [
+            "bolhoed",
+            "n hondekooi"
+        ],
+        [
+            "bomen",
+            "bùm"
+        ],
+        [
+            "boom",
+            "bòm"
+        ],
+        [
+            "Broek",
+            "Boks"
+        ],
+        [
+            "brood",
+            "mik"
+        ],
+        [
+            "Brutaal",
+            "Strant"
+        ],
+        [
+            "buik",
+            "bukske"
+        ],
+        [
+            "burgemeester",
+            "burgemister"
+        ],
+        [
+            "C"
+        ],
+        [
+            "Centerparcs",
+            "Hùske mee un wèrm zwembad"
+        ],
+        [
+            "Chocolade",
+            "Kwatta"
+        ],
+        [
+            "Chocoladereep",
+            "Kwatta"
+        ],
+        [
+            "D"
+        ],
+        [
+            "daar heb ik geen zin in",
+            "dè zuuk ik nie"
+        ],
+        [
+            "Daar wordt ik niet bang van",
+            "Ge makt munne zeik nie lauw"
+        ],
+        [
+            "Dat meent u niet",
+            "Da minde nie"
+        ],
+        [
+            "dat zie ik wel zitten",
+            "da zuuk 'k wel"
+        ],
+        [
+            "de eigenaar",
+            "dun eigenoar"
+        ],
+        [
+            "de eigenaar van het geld",
+            "dun eigenaor vant gelt"
+        ],
+        [
+            "de schoolmeester",
+            "de mister"
+        ],
+        [
+            "de tafel afruimen",
+            "de toafel afzetten"
+        ],
+        [
+            "doen zij dat vaak?",
+            "doe de die dè dik?"
+        ],
+        [
+            "drop",
+            "sepke"
+        ],
+        [
+            "dropwater",
+            "sepnat"
+        ],
+        [
+            "dropwater",
+            "sepwotter"
+        ],
+        [
+            "E"
+        ],
+        [
+            "een onderzoek",
+            "un onderzuuk"
+        ],
+        [
+            "eey alles goed",
+            "eey als gu"
+        ],
+        [
+            "Er waait een harde koude wind",
+            "Ut wéejt ur mar locht"
+        ],
+        [
+            "F"
+        ],
+        [
+            "Fluitketel",
+            "Moor"
+        ],
+        [
+            "G"
+        ],
+        [
+            "geen",
+            " gin "
+        ],
+        [
+            "geen",
+            "gin"
+        ],
+        [
+            "Gineinder",
+            "Bewoner van Schorsbos"
+        ],
+        [
+            "goed gezond",
+            "hèl"
+        ],
+        [
+            "graag",
+            "gère"
+        ],
+        [
+            "grootmoeder",
+            "grutje"
+        ],
+        [
+            "grote steenpuist",
+            "een negenoog"
+        ],
+        [
+            "H"
+        ],
+        [
+            "haan",
+            "haon"
+        ],
+        [
+            "heb jij",
+            "hedde gè"
+        ],
+        [
+            "helemaal",
+            "hi'mmel"
+        ],
+        [
+            "helemaal",
+            "olling"
+        ],
+        [
+            "het bedrag zat in een plastic zak die een passant",
+            "ut bedrag zaat in un plestiek zekske die unne passaant"
+        ],
+        [
+            "het erf",
+            "de misse"
+        ],
+        [
+            "hond",
+            "nond"
+        ],
+        [
+            "horen",
+            "heuren"
+        ],
+        [
+            "horloge",
+            "lòzzie"
+        ],
+        [
+            "hun",
+            "hullie"
+        ],
+        [
+            "I"
+        ],
+        [
+            "iemand die zeurt",
+            "mouwsjees"
+        ],
+        [
+            "ik zal hem is",
+            "xammes"
+        ],
+        [
+            "in het centrum",
+            "int turrup"
+        ],
+        [
+            "J"
+        ],
+        [
+            "Jenever",
+            "Proatwotter"
+        ],
+        [
+            "jenever",
+            "snevul"
+        ],
+        [
+            "jonge koe",
+            "maol"
+        ],
+        [
+            "jongetje",
+            "jungske"
+        ],
+        [
+            "jongetje, schop die bal eens even",
+            "jungske, skupt diën bol es efkes"
+        ],
+        [
+            "K"
+        ],
+        [
+            "Kapot maken",
+            "Verbellemonten"
+        ],
+        [
+            "katjesdrop",
+            "sepkètjes"
+        ],
+        [
+            "keuken",
+            "geut"
+        ],
+        [
+            "kinderbad",
+            "poelliebadje"
+        ],
+        [
+            "kip",
+            "kiep"
+        ],
+        [
+            "kop koffie",
+            "bakske koffie/kumke koffie"
+        ],
+        [
+            "krentebrood",
+            "krentemik"
+        ],
+        [
+            "kruiwagen",
+            "kreuge"
+        ],
+        [
+            "L"
+        ],
+        [
+            "ladder",
+            "leer"
+        ],
+        [
+            "lopen zoenen met",
+            "ligè plekken mea"
+        ],
+        [
+            "M"
+        ],
+        [
+            "machinaal gebreid ondergoed",
+            "interlok"
+        ],
+        [
+            "markt",
+            "mèrt"
+        ],
+        [
+            "meisje",
+            "durske"
+        ],
+        [
+            "meisje",
+            "medje"
+        ],
+        [
+            "met deksels tegen elkaar slaan",
+            "dekselen"
+        ],
+        [
+            "Molenaar",
+            "Mulder"
+        ],
+        [
+            "molendijk",
+            "meulendijk"
+        ],
+        [
+            "mooi meisje",
+            "skun durske"
+        ],
+        [
+            "N"
+        ],
+        [
+            "naam beth en moeder",
+            "bethmoei"
+        ],
+        [
+            "naar",
+            "noar"
+        ],
+        [
+            "niet graag",
+            "nooi"
+        ],
+        [
+            "noch man noch vrouw",
+            "kwee"
+        ],
+        [
+            "O"
+        ],
+        [
+            "opbergzak gedragen onder de rok",
+            "n tes"
+        ],
+        [
+            "ordebewaarder in de kerk",
+            "swies suisse"
+        ],
+        [
+            "orthodontist",
+            "smoele smit"
+        ],
+        [
+            "overhemd",
+            "bazeloen"
+        ],
+        [
+            "P"
+        ],
+        [
+            "pannekoek",
+            "struif"
+        ],
+        [
+            "peultjes",
+            "haawkes"
+        ],
+        [
+            "Plaats waar de gootsteen in uitkomt",
+            "Gutgat"
+        ],
+        [
+            "politie",
+            "popo"
+        ],
+        [
+            "precies",
+            "krek"
+        ],
+        [
+            "S"
+        ],
+        [
+            "schijndel",
+            " skèndel "
+        ],
+        [
+            "Schijndel",
+            "Schorsbos"
+        ],
+        [
+            "schijndel",
+            "skendel"
+        ],
+        [
+            "school",
+            "skol"
+        ],
+        [
+            "school",
+            "skool"
+        ],
+        [
+            "schoon",
+            "skon betekent in schijndel mooi niet helder"
+        ],
+        [
+            "schort",
+            "scholluk"
+        ],
+        [
+            "Sintels",
+            "Omes"
+        ],
+        [
+            "slager",
+            "slagter"
+        ],
+        [
+            "speciale bank voor de armen",
+            "ermebenkus"
+        ],
+        [
+            "stamppot",
+            "betossi"
+        ],
+        [
+            "stamppot",
+            "betozzi"
+        ],
+        [
+            "stamppot",
+            "petassie"
+        ],
+        [
+            "stof opwaaien",
+            "stubbelen"
+        ],
+        [
+            "Stroper",
+            "Streuper"
+        ],
+        [
+            "T"
+        ],
+        [
+            "tuinbonen",
+            "flodderbonne"
+        ],
+        [
+            "V"
+        ],
+        [
+            "Vaatdoekje",
+            "Skottulslet"
+        ],
+        [
+            "varken",
+            "vereke"
+        ],
+        [
+            "ver",
+            "wijt"
+        ],
+        [
+            "verlegen",
+            "skauw"
+        ],
+        [
+            "vinden",
+            "vènnu"
+        ],
+        [
+            "vork",
+            "vurkèt"
+        ],
+        [
+            "vroeger",
+            "vruger"
+        ],
+        [
+            "W"
+        ],
+        [
+            "Washandje",
+            "Badhandskoentje"
+        ],
+        [
+            "wat",
+            "wè"
+        ],
+        [
+            "Wat een onzin",
+            "Wanne klets"
+        ],
+        [
+            "Wat zeg je?",
+            "wè zedde gè"
+        ],
+        [
+            "weinig",
+            "wènnig"
+        ],
+        [
+            "Worstenbroodje",
+            "Wörstebreuke"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "zakdoek",
+            "tèsnuzzik"
+        ],
+        [
+            "zij heeft de euro's veilig opgeborgen in een kluis",
+            "zè hih de euro's veilig opgebùrge in un kluis"
+        ],
+        [
+            "zoek",
+            "zuuk"
+        ],
+        [
+            "zweetvoeten",
+            "stinkpeu"
+        ]
+    ]
+}

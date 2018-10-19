@@ -1,0 +1,749 @@
+{
+    "proverbs": [
+        [
+            "als je me niet geloofd, dan maak ik je wat anders wijs.",
+            "Es te miech neet geluifs, dan maak iech diech get anges wies."
+        ],
+        [
+            "ga naar bed!",
+            "Maak têch de kwoeaj één!"
+        ],
+        [
+            "Ik moest, ik kon, maar ik durfde niet",
+            "Iech mösh, iech kösh, ma iech dörsh neet"
+        ],
+        [
+            "Je bent te goed",
+            "Dich bes eu sjoop"
+        ]
+    ],
+    "words": [
+        [
+            "A"
+        ],
+        [
+            "aardappelen",
+            "ene eerpel"
+        ],
+        [
+            "Achter de brug in Boorsem",
+            "Achter de bruk in Boorsem"
+        ],
+        [
+            "aftrekker (voor dweil) ",
+            "ên pletsj"
+        ],
+        [
+            "appelmoes",
+            "appeleprotsj"
+        ],
+        [
+            "azijn",
+            "éétje"
+        ],
+        [
+            "B"
+        ],
+        [
+            "ballen",
+            "klitse"
+        ],
+        [
+            "blootvoets",
+            "berrêvês"
+        ],
+        [
+            "Boom",
+            "Baum"
+        ],
+        [
+            "bord",
+            "tleur"
+        ],
+        [
+            "bosbessen",
+            "waolbere"
+        ],
+        [
+            "braambessen",
+            "brommele"
+        ],
+        [
+            "D"
+        ],
+        [
+            "Daas",
+            "bléng oeus (zoals in soeur) "
+        ],
+        [
+            "dakgoot",
+            "kaangel"
+        ],
+        [
+            "de achterkamer (veranda) ",
+            "achter op de platform"
+        ],
+        [
+            "De borstel",
+            "de börstel"
+        ],
+        [
+            "de brug",
+            "de brük"
+        ],
+        [
+            "de buik",
+            "de bouk"
+        ],
+        [
+            "de hemel",
+            "den emel"
+        ],
+        [
+            "De hooizolder in de schuur",
+            "Op den den"
+        ],
+        [
+            "de kam",
+            "de kamp"
+        ],
+        [
+            "de koer, terras",
+            "het gleeg"
+        ],
+        [
+            "de maan",
+            "de moan"
+        ],
+        [
+            "de molen",
+            "de meule"
+        ],
+        [
+            "de pastoor",
+            "de pestoar"
+        ],
+        [
+            "de veldwachter",
+            "de boy"
+        ],
+        [
+            "de wc",
+            "êt uuske"
+        ],
+        [
+            "dorst",
+            "doos"
+        ],
+        [
+            "E"
+        ],
+        [
+            "een achterstraatje",
+            "het backstreutje"
+        ],
+        [
+            "een beetje koffie",
+            "een klats koffie"
+        ],
+        [
+            "een bord om op te eten",
+            "ene tleur of teijer"
+        ],
+        [
+            "een bord soep",
+            "eune tleur sop"
+        ],
+        [
+            "een dode",
+            "eune dooie"
+        ],
+        [
+            "Een draad om te naaien",
+            "ene vaam gare"
+        ],
+        [
+            "een duimspijker",
+            "eun pennees"
+        ],
+        [
+            "een fiets",
+            "eune fits"
+        ],
+        [
+            "een ford (oorlog) ",
+            "eu furdje of het furdje"
+        ],
+        [
+            "Een gebakje",
+            "Eu patéke"
+        ],
+        [
+            "een glas",
+            "eu glaas"
+        ],
+        [
+            "een kaars",
+            "eun keers"
+        ],
+        [
+            "een kast",
+            "eun kas"
+        ],
+        [
+            "een kauw (vogel) ",
+            "een dölke"
+        ],
+        [
+            "een kikker",
+            "eune kwakkert"
+        ],
+        [
+            "een klein kind (gestalte) ",
+            "eu klei keend"
+        ],
+        [
+            "Een klontje suiker",
+            "Eu klutsje sokker"
+        ],
+        [
+            "een knoop",
+            "eune knoup"
+        ],
+        [
+            "een koe",
+            "eun koo"
+        ],
+        [
+            "een kookpot",
+            "eune ketel"
+        ],
+        [
+            "een korst brood",
+            "een koors broad"
+        ],
+        [
+            "een kruisbes",
+            "een kronsjel"
+        ],
+        [
+            "een kuil met water, een waterplas",
+            "eun koel, aan de koelle"
+        ],
+        [
+            "een liefje",
+            "eune leefste"
+        ],
+        [
+            "een meisje",
+            "eu meesje"
+        ],
+        [
+            "een mes",
+            "eu mets"
+        ],
+        [
+            "een paadje",
+            "eu getske"
+        ],
+        [
+            "een paal",
+            "eune poal"
+        ],
+        [
+            "een paard",
+            "eu peerd"
+        ],
+        [
+            "een pad",
+            "een krodel"
+        ],
+        [
+            "een plas water",
+            "eune pool"
+        ],
+        [
+            "een roostertje voor onder de vlaai, om iets laten af te koelen",
+            "een uertsje"
+        ],
+        [
+            "een schaap",
+            "eu sjoop"
+        ],
+        [
+            "een spijker",
+            "eune nagel"
+        ],
+        [
+            "een stukje vlaai",
+            "eu stukske vlaai"
+        ],
+        [
+            "een tas koffie",
+            "ênne bak koffie"
+        ],
+        [
+            "een venster",
+            "een vinster"
+        ],
+        [
+            "een vlinder",
+            "eune pepel"
+        ],
+        [
+            "een vork",
+            "eun versjet"
+        ],
+        [
+            "een wind",
+            "eune drèèt"
+        ],
+        [
+            "een worm",
+            "eune wurm"
+        ],
+        [
+            "eigenaardig",
+            "kêmmik"
+        ],
+        [
+            "F"
+        ],
+        [
+            "feest",
+            "feesj"
+        ],
+        [
+            "G"
+        ],
+        [
+            "Ga weg",
+            "stappet them aaf"
+        ],
+        [
+            "gang",
+            "nere"
+        ],
+        [
+            "Gaws",
+            "Gans"
+        ],
+        [
+            "Gazon",
+            "Ploes"
+        ],
+        [
+            "Gelijk heb je, maar zwijgen zul je!",
+            "Geliek höbs te, ma zwiege zuls te!"
+        ],
+        [
+            "Groene kool",
+            "Greun moos"
+        ],
+        [
+            "H"
+        ],
+        [
+            "haas (dier) ",
+            "eune aas"
+        ],
+        [
+            "haren kammen",
+            "oare kumme"
+        ],
+        [
+            "heb jij dat niet",
+            "hebs dich dat neet"
+        ],
+        [
+            "Hek",
+            "Gaar"
+        ],
+        [
+            "herfst",
+            "herfs"
+        ],
+        [
+            "het dak",
+            "eut taak"
+        ],
+        [
+            "het gazon",
+            "het wetsje"
+        ],
+        [
+            "het gras",
+            "het graas"
+        ],
+        [
+            "Het komt in orde",
+            "’t Kòmp allemaol èn de se’kosj!"
+        ],
+        [
+            "het toilet",
+            "het tuuske"
+        ],
+        [
+            "hij deugt niet",
+            "ê douch néét"
+        ],
+        [
+            "Hoe gaat het met je",
+            "Wiej is het met dug"
+        ],
+        [
+            "hoe zeg je dit",
+            "Wij zek ste dat"
+        ],
+        [
+            "Hoop",
+            "Waatjs"
+        ],
+        [
+            "I"
+        ],
+        [
+            "ik heb pijn in mijn buik",
+            "ieg ub pien in menne bouk"
+        ],
+        [
+            "ik voel me niet goed",
+            "ieg veul meg neet tegooi"
+        ],
+        [
+            "Ik zie dat niet",
+            "ieg zeen dat neet"
+        ],
+        [
+            "J"
+        ],
+        [
+            "Jawel",
+            "Joot"
+        ],
+        [
+            "Je bent een valsspeler",
+            "Dich bes eune foettelèèr"
+        ],
+        [
+            "Je hebt een mooi kleed aan",
+            "Dech hebs eu sjoan klijd aan"
+        ],
+        [
+            "Je hebt rode wangen",
+            "Deg hebs roj kummekes"
+        ],
+        [
+            "K"
+        ],
+        [
+            "kaars",
+            "keers"
+        ],
+        [
+            "kachel",
+            "Stoof"
+        ],
+        [
+            "kanaal",
+            "knaal"
+        ],
+        [
+            "kanaal",
+            "knaar"
+        ],
+        [
+            "Kauw",
+            "Dol of dölke"
+        ],
+        [
+            "kei (steentje) ",
+            "ene klaw"
+        ],
+        [
+            "kikker",
+            "kwakkert"
+        ],
+        [
+            "Kip",
+            "Hin"
+        ],
+        [
+            "Knikker",
+            "uuf"
+        ],
+        [
+            "kompot",
+            "prootsj"
+        ],
+        [
+            "korst",
+            "koosj"
+        ],
+        [
+            "Koster heb je geen dorst",
+            "kuster up ste geine doas"
+        ],
+        [
+            "L"
+        ],
+        [
+            "laarsen, botten",
+            "stievellen"
+        ],
+        [
+            "Ladder",
+            "Lödder"
+        ],
+        [
+            "Lievenherenbeestje",
+            "meulepèèrdsje"
+        ],
+        [
+            "M"
+        ],
+        [
+            "Maak u weg",
+            "Maak tug eu weg"
+        ],
+        [
+            "merel",
+            "meelder"
+        ],
+        [
+            "mes",
+            "mets"
+        ],
+        [
+            "mier",
+            "oamzeik"
+        ],
+        [
+            "modder",
+            "sladder"
+        ],
+        [
+            "mooi",
+            "sjoan"
+        ],
+        [
+            "N"
+        ],
+        [
+            "naar huis",
+            "eivês"
+        ],
+        [
+            "neen",
+            "neej"
+        ],
+        [
+            "nooit meer",
+            "nots mé"
+        ],
+        [
+            "O"
+        ],
+        [
+            "olielamp",
+            "kenkée"
+        ],
+        [
+            "Oog",
+            "Aug"
+        ],
+        [
+            "P"
+        ],
+        [
+            "plassen",
+            "pissen"
+        ],
+        [
+            "portemonee",
+            "büürs"
+        ],
+        [
+            "R"
+        ],
+        [
+            "Regenworm",
+            "Peerlink"
+        ],
+        [
+            "rode bessen",
+            "wiemere"
+        ],
+        [
+            "S"
+        ],
+        [
+            "schoenveter",
+            "rijstartel"
+        ],
+        [
+            "schuilen",
+            "sjoulen"
+        ],
+        [
+            "Sneeuw",
+            "Sneè"
+        ],
+        [
+            "stal, stallen",
+            "in de stel"
+        ],
+        [
+            "stekelbessen",
+            "kroonsjele"
+        ],
+        [
+            "Stoep",
+            "Luif"
+        ],
+        [
+            "T"
+        ],
+        [
+            "thuis",
+            "heyvis"
+        ],
+        [
+            "V"
+        ],
+        [
+            "Vals spelen",
+            "Foetele"
+        ],
+        [
+            "Veel geld",
+            "ene waatjs geld"
+        ],
+        [
+            "Ver weg, verder",
+            "eel wieet, wijjer of wietter"
+        ],
+        [
+            "veters",
+            "riejstarttellen"
+        ],
+        [
+            "Vis",
+            "vösj"
+        ],
+        [
+            "vliegen",
+            "vleegen"
+        ],
+        [
+            "vlinder",
+            "eune pepel"
+        ],
+        [
+            "vlooien",
+            "Dich hebs vleu"
+        ],
+        [
+            "vork",
+            "vêrsjèt"
+        ],
+        [
+            "W"
+        ],
+        [
+            "Waar ben je mee bezig",
+            "Woa beste met bèzeg"
+        ],
+        [
+            "waar is de haan",
+            "Woa is denaan"
+        ],
+        [
+            "Waar zijn je kleren",
+            "Woa zeen dien kleier"
+        ],
+        [
+            "wang",
+            "kummêk"
+        ],
+        [
+            "Wat ben je aan het kijken",
+            "Wat bes te aan het kiekke"
+        ],
+        [
+            "wat een lawaai",
+            "Wat eu laweijt"
+        ],
+        [
+            "Wat zeg jij allemaal over mij",
+            "Wat zek sticg allemool uver micg"
+        ],
+        [
+            "wc",
+            "ut tuske"
+        ],
+        [
+            "Weggetje",
+            "Gats"
+        ],
+        [
+            "wei",
+            "weij"
+        ],
+        [
+            "wenkbrauwen",
+            "wéénkbreudjes"
+        ],
+        [
+            "wieken (van de molen) ",
+            "taipe (van de meule) "
+        ],
+        [
+            "Wiel",
+            "Raad"
+        ],
+        [
+            "wimper",
+            "plump"
+        ],
+        [
+            "wimpers",
+            "plumpen"
+        ],
+        [
+            "winter",
+            "wenter"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "Zak van broek of jas",
+            "Een maal"
+        ],
+        [
+            "zakdoek",
+            "Maalplak"
+        ],
+        [
+            "zakdoek",
+            "mapelak"
+        ],
+        [
+            "zakmes",
+            "kniep"
+        ],
+        [
+            "zet u op een stoel",
+            "zet dich op ene stool"
+        ],
+        [
+            "ziek",
+            "krank"
+        ],
+        [
+            "zolder",
+            "Zulder"
+        ]
+    ]
+}

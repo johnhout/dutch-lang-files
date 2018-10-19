@@ -1,0 +1,381 @@
+{
+    "proverbs": [
+        [
+            "een frivool meisje",
+            "un zotte spol"
+        ],
+        [
+            "een lelijk vaasje",
+            "un nut voske"
+        ],
+        [
+            "grote mond",
+            "un groat bakkes"
+        ],
+        [
+            "heb jij het gehoord?",
+            "hedde de gehurt?"
+        ],
+        [
+            "houd je mond",
+            "houw oew bakkes"
+        ],
+        [
+            "ik kan het niet vinden",
+            "kant nie vene"
+        ],
+        [
+            "wat een herrie",
+            "wa unne broelie"
+        ],
+        [
+            "Wat zegt u?",
+            "wa zidde ge?"
+        ],
+        [
+            "zo is het",
+            "tis krek zo"
+        ]
+    ],
+    "words": [
+        [
+            "A"
+        ],
+        [
+            "aardappel",
+            "erpel"
+        ],
+        [
+            "akker",
+            "ekker"
+        ],
+        [
+            "altijd je hand uitsteken als je van richting verandert",
+            "alted euw hand utsteke as ge afdraait mee uw fiets"
+        ],
+        [
+            "arm",
+            "errum"
+        ],
+        [
+            "B"
+        ],
+        [
+            "beeld",
+            "bild"
+        ],
+        [
+            "Bladel",
+            "Bloal"
+        ],
+        [
+            "bluts",
+            "bloesj"
+        ],
+        [
+            "bomen",
+            "beum"
+        ],
+        [
+            "bos (dennen-) ",
+            "mast"
+        ],
+        [
+            "D"
+        ],
+        [
+            "daag",
+            "houwdoe"
+        ],
+        [
+            "daarom",
+            "dorum"
+        ],
+        [
+            "dat",
+            "dé"
+        ],
+        [
+            "dennenappel",
+            "mastebolleke"
+        ],
+        [
+            "Direct",
+            "Subbiet"
+        ],
+        [
+            "E"
+        ],
+        [
+            "een",
+            "un (ne) "
+        ],
+        [
+            "Een doos eieren",
+            "Un duske aaier"
+        ],
+        [
+            "een gekke meid",
+            "un zotte spol"
+        ],
+        [
+            "een man",
+            "unne mens"
+        ],
+        [
+            "een zeis",
+            "un zicht"
+        ],
+        [
+            "G"
+        ],
+        [
+            "gedaan",
+            "gedoan"
+        ],
+        [
+            "gehoord",
+            "geheurd"
+        ],
+        [
+            "graag",
+            "gère"
+        ],
+        [
+            "H"
+        ],
+        [
+            "haar",
+            "heur"
+        ],
+        [
+            "haar (op hoofd) ",
+            "hoar"
+        ],
+        [
+            "had ik",
+            "haik"
+        ],
+        [
+            "harmonie",
+            "hermenie"
+        ],
+        [
+            "heb",
+            "hai"
+        ],
+        [
+            "heb je",
+            "hedde"
+        ],
+        [
+            "heel (heel de wereld) ",
+            "hil (hil de wirreld) "
+        ],
+        [
+            "huilen",
+            "schreuwe"
+        ],
+        [
+            "hun",
+            "hullie"
+        ],
+        [
+            "hun",
+            "hunne"
+        ],
+        [
+            "J"
+        ],
+        [
+            "ja",
+            "jot"
+        ],
+        [
+            "je",
+            "ge"
+        ],
+        [
+            "je nieuwe hoed",
+            "oewenoewenhoet"
+        ],
+        [
+            "jullie",
+            "gullie"
+        ],
+        [
+            "K"
+        ],
+        [
+            "kijken",
+            "kèke"
+        ],
+        [
+            "kind",
+            "kend"
+        ],
+        [
+            "kinderen",
+            "kender"
+        ],
+        [
+            "kip",
+            "hen"
+        ],
+        [
+            "M"
+        ],
+        [
+            "markt",
+            "mert"
+        ],
+        [
+            "mooi",
+            "schon"
+        ],
+        [
+            "morgen",
+            "merge"
+        ],
+        [
+            "N"
+        ],
+        [
+            "naast",
+            "neffe"
+        ],
+        [
+            "nee",
+            "nunt"
+        ],
+        [
+            "nu",
+            "nou"
+        ],
+        [
+            "O"
+        ],
+        [
+            "ondeugende jongen",
+            "snotjong"
+        ],
+        [
+            "P"
+        ],
+        [
+            "paard",
+            "pert"
+        ],
+        [
+            "pannekoeken",
+            "struif"
+        ],
+        [
+            "panonderzetter",
+            "treefje"
+        ],
+        [
+            "S"
+        ],
+        [
+            "sparappel of dennenappel",
+            "maastebolleke"
+        ],
+        [
+            "spelen",
+            "speule"
+        ],
+        [
+            "spugen",
+            "tuffe"
+        ],
+        [
+            "Stop",
+            "Ho"
+        ],
+        [
+            "Straks",
+            "Dalijk"
+        ],
+        [
+            "T"
+        ],
+        [
+            "trots",
+            "fréét"
+        ],
+        [
+            "V"
+        ],
+        [
+            "veel",
+            "veul"
+        ],
+        [
+            "vlaamse gaai",
+            "hikster"
+        ],
+        [
+            "vork",
+            "verket"
+        ],
+        [
+            "W"
+        ],
+        [
+            "waar",
+            "woar"
+        ],
+        [
+            "washandje",
+            "badhandschûntje"
+        ],
+        [
+            "washandje",
+            "waaslepke"
+        ],
+        [
+            "wat",
+            "wa"
+        ],
+        [
+            "wat is dat",
+            "was dé"
+        ],
+        [
+            "wc",
+            "plee"
+        ],
+        [
+            "wei",
+            "waai"
+        ],
+        [
+            "wereld",
+            "wirreld"
+        ],
+        [
+            "werken",
+            "wèèrke"
+        ],
+        [
+            "wind",
+            "wend"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "zanikert",
+            "zanikert"
+        ],
+        [
+            "zeef",
+            "vergiet"
+        ],
+        [
+            "zeef",
+            "zift"
+        ]
+    ]
+}

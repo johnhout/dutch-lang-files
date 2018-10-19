@@ -1,0 +1,502 @@
+{
+    "proverbs": [
+        [
+            "Ach wel nee mijn kind",
+            "Och, wel niiiint keind"
+        ],
+        [
+            "Dat hoef ik niet",
+            "Da mok nie"
+        ],
+        [
+            "Dat zei jij inderdaad",
+            "Da see jij ja"
+        ],
+        [
+            "een kopje koffie",
+            "een koppie leut"
+        ],
+        [
+            "Het maakt mij niet uit",
+            "Kan mij ut scheulen joh"
+        ],
+        [
+            "Hij praat een beetje plat Hardinxvelds",
+            "Hij proat un bietie plât Harinxvelds"
+        ],
+        [
+            "ieder huis krant, folders e.d.",
+            "huis ter mop brengen"
+        ],
+        [
+            "Ik stond daar",
+            "Ik sting te staan"
+        ],
+        [
+            "Moet je dat gezicht zien",
+            "Mojje da bakkus zien"
+        ],
+        [
+            "Natuurlijk!",
+            "Bejaat keind!"
+        ],
+        [
+            "op de dijk",
+            "op-tun daaik"
+        ],
+        [
+            "op je kop geven",
+            "op je harses sloan"
+        ],
+        [
+            "Waar heb je dat toch gelaten",
+            "Woar héjuh datoch geloatuh"
+        ],
+        [
+            "wat moet ik nu",
+            "wa mok nou"
+        ],
+        [
+            "welke doen we",
+            "hoeke doe me"
+        ],
+        [
+            "Welke moeten we nemen",
+            "Wafurre momme"
+        ],
+        [
+            "Wil je nog een kopje koffie/thee",
+            "Mojjuh nog un baksie"
+        ]
+    ],
+    "words": [
+        [
+            "A"
+        ],
+        [
+            "Aardappel",
+            "Aerepol"
+        ],
+        [
+            "aardbeien",
+            "errebese"
+        ],
+        [
+            "arm",
+            "Aarem"
+        ],
+        [
+            "B"
+        ],
+        [
+            "beetje",
+            "Bietjie"
+        ],
+        [
+            "Beneden",
+            "Beneeje"
+        ],
+        [
+            "bijna",
+            "bekaandt"
+        ],
+        [
+            "Bloemen",
+            "Blommen"
+        ],
+        [
+            "Bodem",
+            "Bojum (de o-klank als in boor) "
+        ],
+        [
+            "boekje",
+            "Boeksie"
+        ],
+        [
+            "bootje",
+            "boitie"
+        ],
+        [
+            "boter",
+            "butter"
+        ],
+        [
+            "boter koekjes",
+            "butter koeksies"
+        ],
+        [
+            "Boven",
+            "Bovuh"
+        ],
+        [
+            "Bruin brood",
+            "Taaruven broad"
+        ],
+        [
+            "C"
+        ],
+        [
+            "Coenraad (winkel) ",
+            "kakidee"
+        ],
+        [
+            "D"
+        ],
+        [
+            "Daarginds",
+            "Gunterwaait"
+        ],
+        [
+            "Dat had ik niet gedacht",
+            "Da ha'k nie gedocht"
+        ],
+        [
+            "dat heb ik niet",
+            "da he'k nie"
+        ],
+        [
+            "de dijk",
+            "den daik"
+        ],
+        [
+            "de dijki",
+            "den daik"
+        ],
+        [
+            "de werf",
+            "de warf"
+        ],
+        [
+            "Denk je dat ik het doe (deed).",
+            "Dochie dat ke dee."
+        ],
+        [
+            "Deze",
+            "Deuze"
+        ],
+        [
+            "Doosje",
+            "Doosie"
+        ],
+        [
+            "Droog",
+            "Droag"
+        ],
+        [
+            "Duizend",
+            "Duzend"
+        ],
+        [
+            "E"
+        ],
+        [
+            "een blaadje, bijvoorbeeld een onderzetter..",
+            "Bleddegie."
+        ],
+        [
+            "even",
+            "effe"
+        ],
+        [
+            "G"
+        ],
+        [
+            "gekomen",
+            "gekomme"
+        ],
+        [
+            "Gezicht",
+            "Bakkes"
+        ],
+        [
+            "graag",
+            "greg"
+        ],
+        [
+            "grind",
+            "biggels"
+        ],
+        [
+            "H"
+        ],
+        [
+            "Hark",
+            "Kluitenruif"
+        ],
+        [
+            "Heet",
+            "Hit (i-klank als in eerst) "
+        ],
+        [
+            "het gazon",
+            "den bleek"
+        ],
+        [
+            "het water staat hoog",
+            "'t woater stoat hôôg"
+        ],
+        [
+            "J"
+        ],
+        [
+            "jachtje (plezierbootje) ",
+            "jachie"
+        ],
+        [
+            "jongetje",
+            "jochie"
+        ],
+        [
+            "K"
+        ],
+        [
+            "Kapot",
+            "Verrot"
+        ],
+        [
+            "karweitje",
+            "Karwaaichie"
+        ],
+        [
+            "kind",
+            "kaaind"
+        ],
+        [
+            "Kinderen",
+            "Keinder"
+        ],
+        [
+            "klein",
+            "Klaain"
+        ],
+        [
+            "Kleine tuinhak",
+            "Schrepel"
+        ],
+        [
+            "klerenhanger",
+            "knaapie"
+        ],
+        [
+            "Koekje",
+            "Koeksie"
+        ],
+        [
+            "koolraap",
+            "knollen"
+        ],
+        [
+            "kopje koffie drinken",
+            "baksie doen"
+        ],
+        [
+            "Krantenbezorger",
+            "Krantenboer"
+        ],
+        [
+            "L"
+        ],
+        [
+            "Laarzen",
+            "Dompen"
+        ],
+        [
+            "laarzen",
+            "lerzen"
+        ],
+        [
+            "lekkerbek",
+            "snoepbakkus"
+        ],
+        [
+            "M"
+        ],
+        [
+            "meisje",
+            "massie"
+        ],
+        [
+            "met de slee van de dijk",
+            "karriotten"
+        ],
+        [
+            "mug",
+            "meuzik"
+        ],
+        [
+            "N"
+        ],
+        [
+            "Neehee",
+            "Neejuh"
+        ],
+        [
+            "O"
+        ],
+        [
+            "onkruid wieden",
+            "ruchten"
+        ],
+        [
+            "oprit naar de dijk",
+            "de stoep"
+        ],
+        [
+            "oude lap, lor",
+            "toddek"
+        ],
+        [
+            "Overall",
+            "Ketelpak"
+        ],
+        [
+            "P"
+        ],
+        [
+            "Pas geleden",
+            "Onderlest"
+        ],
+        [
+            "Poeder",
+            "Poeier"
+        ],
+        [
+            "R"
+        ],
+        [
+            "rode bieten",
+            "kroten"
+        ],
+        [
+            "rollen (een bal) ",
+            "trulen"
+        ],
+        [
+            "S"
+        ],
+        [
+            "schaap",
+            "Schaop"
+        ],
+        [
+            "schaatsen",
+            "schoatsen"
+        ],
+        [
+            "Schoteltje.",
+            "Schutteltie"
+        ],
+        [
+            "sliedrechter",
+            "kaailapper"
+        ],
+        [
+            "sneew",
+            "sniiiiw"
+        ],
+        [
+            "Spel met 2 houten stokjes van ongelijke lengte",
+            "Pappelillen"
+        ],
+        [
+            "Spelen",
+            "Speulle"
+        ],
+        [
+            "Stoepranden",
+            "Randjie stuite"
+        ],
+        [
+            "Stoffer en blik",
+            "Varken en blik"
+        ],
+        [
+            "stonden",
+            "stingen"
+        ],
+        [
+            "Straks",
+            "Drek"
+        ],
+        [
+            "straks",
+            "temee"
+        ],
+        [
+            "stroomafwaarts",
+            "laegeruit"
+        ],
+        [
+            "stroomopwaarts",
+            "hogerop"
+        ],
+        [
+            "T"
+        ],
+        [
+            "touwtje",
+            "touwechie"
+        ],
+        [
+            "U"
+        ],
+        [
+            "Uien",
+            "Juin"
+        ],
+        [
+            "V"
+        ],
+        [
+            "Veger en blik",
+            "'t vaerken en blik"
+        ],
+        [
+            "vies, smerig",
+            "ont"
+        ],
+        [
+            "Viezerik",
+            "Onterik"
+        ],
+        [
+            "vlieg",
+            "meuzik"
+        ],
+        [
+            "Vlieg",
+            "Mug"
+        ],
+        [
+            "Voorin",
+            "Veurin"
+        ],
+        [
+            "W"
+        ],
+        [
+            "wat waait het toch hard",
+            "wat un waaind hé..."
+        ],
+        [
+            "Wat zeg je",
+            "Hè"
+        ],
+        [
+            "Welja",
+            "Bejaat"
+        ],
+        [
+            "werkendammer",
+            "meuzik"
+        ],
+        [
+            "wind",
+            "waaind"
+        ],
+        [
+            "Wortels",
+            "Peeën"
+        ]
+    ]
+}

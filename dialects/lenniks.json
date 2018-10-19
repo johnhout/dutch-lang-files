@@ -1,0 +1,652 @@
+{
+    "proverbs": [
+        [
+            "De aap komt uit de mouw",
+            "De kat komt op de koor"
+        ],
+        [
+            "Een blonde Trappist drinken",
+            "nen bliejke Trappist in aa zjip giet'n"
+        ],
+        [
+            "Een mager persoon",
+            "Een ruibbe me een gat of 4 in"
+        ],
+        [
+            "Een wind / prot laten",
+            "Ne scheet loss'n"
+        ],
+        [
+            "een wind laten / prot laten",
+            "Zemme 't vuulen beve tot in 't hol van Pluto"
+        ],
+        [
+            "gij zijt de eerste mens die ik vandaag een hand geef",
+            "da's den iejste varkespuujt da'k vandoag vast pak"
+        ],
+        [
+            "iemand met een dik of blok-achtig gezicht",
+            "ne smoel veu petrellen op te pluu'n"
+        ],
+        [
+            "Iemand met grote tanden",
+            "Daane/dee zat op diejste root as de tann'n hemme uitgediltsj"
+        ],
+        [
+            "Klok",
+            "d'orlozje"
+        ],
+        [
+            "klop geven",
+            "nen trok verkuupen"
+        ],
+        [
+            "Maar ja...",
+            "Baa Joes..."
+        ],
+        [
+            "Zeer mager persoon",
+            "Nen omgekiejde buissel"
+        ],
+        [
+            "zich van de domme houden",
+            "veu krumme 'n hoes spelen"
+        ],
+        [
+            "Zo oud als de straatstenen",
+            "Zuu aat as 't stroet"
+        ],
+        [
+            "Zo zat als een patat",
+            "Een stuk in aa kluut'n hemm"
+        ]
+    ],
+    "words": [
+        [
+            "A"
+        ],
+        [
+            "aalmoes",
+            "ne cent"
+        ],
+        [
+            "aangetekende zending",
+            "recommandé"
+        ],
+        [
+            "afscheurkalender",
+            "almenak"
+        ],
+        [
+            "agent",
+            "azjent / nen smurf da stampe hijt gekrege"
+        ],
+        [
+            "allochtone medemens",
+            "ne vruimde"
+        ],
+        [
+            "asbak",
+            "ask'nbak"
+        ],
+        [
+            "auto",
+            "otto"
+        ],
+        [
+            "AVEVE",
+            "Den boerenbond"
+        ],
+        [
+            "B"
+        ],
+        [
+            "baas",
+            "boes"
+        ],
+        [
+            "bed",
+            "barre"
+        ],
+        [
+            "bier",
+            "biej"
+        ],
+        [
+            "boete",
+            "ammènde"
+        ],
+        [
+            "bui (regen)",
+            "een basj-sje"
+        ],
+        [
+            "burgemeester",
+            "beurremiejster"
+        ],
+        [
+            "Buurman",
+            "de gebuur"
+        ],
+        [
+            "Buurvrouw",
+            "de gebuur"
+        ],
+        [
+            "C"
+        ],
+        [
+            "cafe",
+            "stamené"
+        ],
+        [
+            "D"
+        ],
+        [
+            "de eerste",
+            "de iejst'n"
+        ],
+        [
+            "de laatste",
+            "de leste"
+        ],
+        [
+            "de middenste",
+            "de murreste"
+        ],
+        [
+            "deken",
+            "suizje"
+        ],
+        [
+            "Deurbel",
+            "de belle"
+        ],
+        [
+            "dommerik",
+            "meut'n"
+        ],
+        [
+            "dommerik",
+            "schiev'n"
+        ],
+        [
+            "dommerik",
+            "muit'n"
+        ],
+        [
+            "doof",
+            "duuf"
+        ],
+        [
+            "dorst",
+            "duist"
+        ],
+        [
+            "douche",
+            "(oud lenniks) stuirtbad"
+        ],
+        [
+            "dronkaard",
+            "zattekluut"
+        ],
+        [
+            "Druiven",
+            "Wainbezen"
+        ],
+        [
+            "E"
+        ],
+        [
+            "een koe die aan het bevallen is",
+            "kalver'n"
+        ],
+        [
+            "Een onhandig/belachelijk persoon",
+            "ne kâllll'n"
+        ],
+        [
+            "Eend",
+            "Enj-nje"
+        ],
+        [
+            "Eigenaardig",
+            "Skaa"
+        ],
+        [
+            "emmer",
+            "iejmer"
+        ],
+        [
+            "enorm (bijv. nmw.)",
+            "gralek"
+        ],
+        [
+            "erg / wreed (positief)",
+            "graalek"
+        ],
+        [
+            "F"
+        ],
+        [
+            "fietspad",
+            "vloboen"
+        ],
+        [
+            "G"
+        ],
+        [
+            "Ga uit de weg",
+            "Mâdj a"
+        ],
+        [
+            "gaasbeek",
+            "gosbeik"
+        ],
+        [
+            "geit",
+            "gaat"
+        ],
+        [
+            "Geuze",
+            "Geus"
+        ],
+        [
+            "Glas",
+            "een gelos"
+        ],
+        [
+            "Groenten",
+            "Legumen"
+        ],
+        [
+            "H"
+        ],
+        [
+            "Hard regenen",
+            "Drasj'n"
+        ],
+        [
+            "Hazelnoot",
+            "Hoezelnoot"
+        ],
+        [
+            "honger",
+            "hoenger"
+        ],
+        [
+            "huisdokter",
+            "(meneer) doktoor"
+        ],
+        [
+            "I"
+        ],
+        [
+            "Italië",
+            "Itôl-le"
+        ],
+        [
+            "J"
+        ],
+        [
+            "Jezus",
+            "Jéézeke"
+        ],
+        [
+            "K"
+        ],
+        [
+            "kassei",
+            "kassaa"
+        ],
+        [
+            "kasteel",
+            "kastiel"
+        ],
+        [
+            "Kip",
+            "Kiek"
+        ],
+        [
+            "koe",
+            "koej"
+        ],
+        [
+            "kolen (olie)",
+            "oelle"
+        ],
+        [
+            "kolenbak",
+            "oel'nbak"
+        ],
+        [
+            "krant",
+            "gazet"
+        ],
+        [
+            "krom",
+            "krum"
+        ],
+        [
+            "L"
+        ],
+        [
+            "Leep persoon",
+            "ne liejpe"
+        ],
+        [
+            "Lennikenaar",
+            "Wèndch-iej'r"
+        ],
+        [
+            "Loon",
+            "Poen"
+        ],
+        [
+            "M"
+        ],
+        [
+            "maand",
+            "montsj"
+        ],
+        [
+            "markt",
+            "met"
+        ],
+        [
+            "Markt (plaats)",
+            "de plosj"
+        ],
+        [
+            "marktkramer",
+            "ne metter"
+        ],
+        [
+            "mattentaarten",
+            "mattetoet'n"
+        ],
+        [
+            "mengelmoes",
+            "mishj-mashj"
+        ],
+        [
+            "Mercedes-Benz",
+            "Mèrcedès"
+        ],
+        [
+            "Mest (varkenspis)",
+            "Mès"
+        ],
+        [
+            "metselaar",
+            "mashjer"
+        ],
+        [
+            "Missing / Fout",
+            "Abuus"
+        ],
+        [
+            "Mok",
+            "een zjat"
+        ],
+        [
+            "mooi",
+            "skuun"
+        ],
+        [
+            "Mug",
+            "Meus"
+        ],
+        [
+            "N"
+        ],
+        [
+            "nagel",
+            "noagel"
+        ],
+        [
+            "neemt",
+            "langt"
+        ],
+        [
+            "O"
+        ],
+        [
+            "Okkernoot",
+            "Sloesjternoot"
+        ],
+        [
+            "Onnozelaar",
+            "Lekkr'n"
+        ],
+        [
+            "P"
+        ],
+        [
+            "paard",
+            "pjeid"
+        ],
+        [
+            "pastoor",
+            "pastuur"
+        ],
+        [
+            "Pens",
+            "Pänsj"
+        ],
+        [
+            "Persoon met mentale achterstand / kwibus",
+            "ne kobes"
+        ],
+        [
+            "pijn",
+            "sj-iej"
+        ],
+        [
+            "Pistool",
+            "Geweir"
+        ],
+        [
+            "pomp",
+            "poemp"
+        ],
+        [
+            "postbode",
+            "facteur"
+        ],
+        [
+            "praten",
+            "klappen"
+        ],
+        [
+            "prutsen",
+            "dashjter'n"
+        ],
+        [
+            "pull",
+            "verruis"
+        ],
+        [
+            "R"
+        ],
+        [
+            "Raam",
+            "vannnster"
+        ],
+        [
+            "Rode kool",
+            "Ruuj kuul"
+        ],
+        [
+            "roken",
+            "doempen"
+        ],
+        [
+            "rugzak / schooltas",
+            "(skool)kabas"
+        ],
+        [
+            "S"
+        ],
+        [
+            "schaap",
+            "skoap"
+        ],
+        [
+            "scheef",
+            "skief"
+        ],
+        [
+            "Scheef",
+            "Skiejf"
+        ],
+        [
+            "schoen",
+            "skoen"
+        ],
+        [
+            "sloef",
+            "slâsj"
+        ],
+        [
+            "Spanje",
+            "Sponj-ne"
+        ],
+        [
+            "Spleet",
+            "Vuujr"
+        ],
+        [
+            "spreken",
+            "spreiken"
+        ],
+        [
+            "statie",
+            "stoese"
+        ],
+        [
+            "straat",
+            "stroet"
+        ],
+        [
+            "Straks",
+            "Fleus"
+        ],
+        [
+            "T"
+        ],
+        [
+            "Tas",
+            "een zjat"
+        ],
+        [
+            "terug",
+            "venair"
+        ],
+        [
+            "Thuis",
+            "Toôshj"
+        ],
+        [
+            "trainer van de voetbal",
+            "ântreneur"
+        ],
+        [
+            "Trappelen",
+            "Daggern"
+        ],
+        [
+            "trui / pull",
+            "verruis"
+        ],
+        [
+            "tuinman",
+            "nen hofnier"
+        ],
+        [
+            "V"
+        ],
+        [
+            "verlegen",
+            "skäj"
+        ],
+        [
+            "vijs",
+            "vasjke"
+        ],
+        [
+            "Vlinder",
+            "Pepel"
+        ],
+        [
+            "vorige week",
+            "passéde wèèk"
+        ],
+        [
+            "vrachtwagen",
+            "camiong"
+        ],
+        [
+            "vrouw",
+            "vraa"
+        ],
+        [
+            "vuur",
+            "viej"
+        ],
+        [
+            "W"
+        ],
+        [
+            "water",
+            "woeter"
+        ],
+        [
+            "weegschaal",
+            "baskul"
+        ],
+        [
+            "Wei(land)",
+            "Een Wàà"
+        ],
+        [
+            "wijkagent en (hoofd)commissaris",
+            "de champetter"
+        ],
+        [
+            "winkelzak",
+            "kabas"
+        ],
+        [
+            "Witte kool",
+            "witte kuul"
+        ],
+        [
+            "Wonderbaarlijk",
+            "Miraculeus"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "Zakgeld",
+            "Poen"
+        ],
+        [
+            "zakgeld",
+            "pree"
+        ],
+        [
+            "zetpil",
+            "suppocitoir"
+        ],
+        [
+            "zeveraar",
+            "zjievereer"
+        ],
+        [
+            "Zeverende ambetanterik",
+            "Mettekow"
+        ]
+    ]
+}

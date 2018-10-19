@@ -1,0 +1,792 @@
+{
+    "proverbs": [
+        [
+            "bang doorgaan",
+            "ij goat der vendeur me zijne steirt tusse zen pote"
+        ],
+        [
+            "constipatie",
+            "nen droevige greindel"
+        ],
+        [
+            "een slag in het gezicht",
+            "een mot op a wezen"
+        ],
+        [
+            "Er is onweer op komst",
+            "Ze zijn een schip aant laje (laden) "
+        ],
+        [
+            "ga jij",
+            "godde gaa"
+        ],
+        [
+            "Ga weg voor ik je eruit gooi!",
+            "Maukt da ge weg zijt of 'k geef au nen trok in a ol"
+        ],
+        [
+            "gaan wij",
+            "gomme"
+        ],
+        [
+            "Geen sprake van!",
+            "Da ziede van ier"
+        ],
+        [
+            "geweldig pijn hebben",
+            "tu nijg zeer"
+        ],
+        [
+            "het is drukkend warm",
+            "tis doef"
+        ],
+        [
+            "het is drukkend warm",
+            "tis douf"
+        ],
+        [
+            "Het voetpad schuren",
+            "'tplasier schiere"
+        ],
+        [
+            "hij sloeg mee ne stok op zijn gezicht",
+            "hij sloeg mee ne klipper op zij wezen"
+        ],
+        [
+            "hij zat op het voetpad",
+            "hij zat opt plassier"
+        ],
+        [
+            "iemand die hoogmoedig is",
+            "die é et oog in zijnen bol"
+        ],
+        [
+            "ik zou eens een klap tegen uw oren geven",
+            "kzou ou ies een klets tegen au oere geve"
+        ],
+        [
+            "Loop naar de maan!",
+            "Springt in 't Schel!"
+        ],
+        [
+            "niet lenig",
+            "stijf as en ijzeren hekke"
+        ],
+        [
+            "Tegen uw vrak (vest) ",
+            "Tegen ou sjiep"
+        ],
+        [
+            "we hebben nogal gelachen",
+            "webbe nogal huile gelaten"
+        ],
+        [
+            "zelfs een gek weet dat",
+            "a ne zot zat graa"
+        ]
+    ],
+    "words": [
+        [
+            "1 tas /koffie",
+            "1 zjat"
+        ],
+        [
+            "1bord / etens",
+            "1 talloor"
+        ],
+        [
+            "A"
+        ],
+        [
+            "Aardappellen",
+            "petetten"
+        ],
+        [
+            "aardappelmesje",
+            "petatteschelder"
+        ],
+        [
+            "aardappelpuree",
+            "platte petatte"
+        ],
+        [
+            "aardappelpuree",
+            "gestampte petetten"
+        ],
+        [
+            "aardappelpuree",
+            "gedederde petetten"
+        ],
+        [
+            "aars",
+            "kakkerik"
+        ],
+        [
+            "appelmoes",
+            "appelspijs"
+        ],
+        [
+            "appelpuree",
+            "appelentrut"
+        ],
+        [
+            "assen van verbrande kolen",
+            "treizelinge"
+        ],
+        [
+            "auto",
+            "otto"
+        ],
+        [
+            "B"
+        ],
+        [
+            "bang zijn",
+            "benauwt zijn"
+        ],
+        [
+            "betonnen omheining",
+            "geleint"
+        ],
+        [
+            "bij de smit",
+            "das bij de maschaal"
+        ],
+        [
+            "bijna",
+            "ost"
+        ],
+        [
+            "bijna",
+            "bekanst"
+        ],
+        [
+            "bladeren",
+            "blaure"
+        ],
+        [
+            "boer (kaartspel ) ",
+            "ne zot"
+        ],
+        [
+            "boodschappentas",
+            "kabbas"
+        ],
+        [
+            "boom",
+            "boam"
+        ],
+        [
+            "braken",
+            "spauwen"
+        ],
+        [
+            "brievenbus",
+            "boat"
+        ],
+        [
+            "bundelsprokkelhout",
+            "das ne pijnshaard"
+        ],
+        [
+            "bundelsprokkelhout",
+            "das ne pijnsaard"
+        ],
+        [
+            "C"
+        ],
+        [
+            "chicorei",
+            "pardaf"
+        ],
+        [
+            "crème glacé",
+            "krimglas"
+        ],
+        [
+            "D"
+        ],
+        [
+            "daar",
+            "ginter"
+        ],
+        [
+            "dame van lichte zeden",
+            "een floriemuis"
+        ],
+        [
+            "De Schelde",
+            "'t Schel"
+        ],
+        [
+            "deken /bedsprei",
+            "sozzie"
+        ],
+        [
+            "deken /bedsprei",
+            "sozie"
+        ],
+        [
+            "den tuinwijk / kristus koning",
+            "t'korea"
+        ],
+        [
+            "dit",
+            "tees"
+        ],
+        [
+            "drop",
+            "kalissenzjap"
+        ],
+        [
+            "druipend nat",
+            "zjiekend nat"
+        ],
+        [
+            "E"
+        ],
+        [
+            "edgard tinnelplaats",
+            "t luizemartje"
+        ],
+        [
+            "eeckhoutdriesstraat",
+            "t'klanai"
+        ],
+        [
+            "eeen grote neus hebben",
+            "nen dikke domper emme"
+        ],
+        [
+            "een aardbei",
+            "een eirebees"
+        ],
+        [
+            "een bobbeltje op de huid",
+            "nenoebel"
+        ],
+        [
+            "een brandnetel",
+            "nen tingel"
+        ],
+        [
+            "een diaree hebben",
+            "den dappere emme"
+        ],
+        [
+            "een dikkop (zwarte larve kikker) ",
+            "nen oekendoel"
+        ],
+        [
+            "een dweil",
+            "nen dwaal"
+        ],
+        [
+            "een gans",
+            "een einzie"
+        ],
+        [
+            "een glij af",
+            "ne gatritser"
+        ],
+        [
+            "een haag",
+            "een wijr"
+        ],
+        [
+            "een haag",
+            "een weir"
+        ],
+        [
+            "Een haag",
+            "Un weir"
+        ],
+        [
+            "een handtas",
+            "een zjakos"
+        ],
+        [
+            "een hor",
+            "een vliegeroum"
+        ],
+        [
+            "een idioot",
+            "das ne mutte"
+        ],
+        [
+            "een ijsje",
+            "nen toep"
+        ],
+        [
+            "een kapoen",
+            "ne kastaar"
+        ],
+        [
+            "een kerk",
+            "een kaarek"
+        ],
+        [
+            "een kikker",
+            "ne puit"
+        ],
+        [
+            "een kus",
+            "nen toot"
+        ],
+        [
+            "een lichte oprisping",
+            "da roeidop"
+        ],
+        [
+            "een meikever",
+            "nen bomboart"
+        ],
+        [
+            "een minnaar",
+            "nen aunouwer"
+        ],
+        [
+            "een netel",
+            "nen tingel"
+        ],
+        [
+            "een oma",
+            "een pit"
+        ],
+        [
+            "een perzik",
+            "een paus"
+        ],
+        [
+            "een raamluik",
+            "een bordes"
+        ],
+        [
+            "een schaats",
+            "een schofferdein"
+        ],
+        [
+            "een schroevendraaier",
+            "een tournavies"
+        ],
+        [
+            "Een sleutel",
+            "Ne sleter"
+        ],
+        [
+            "een smeerlap",
+            "ne paljas"
+        ],
+        [
+            "een spin",
+            "een spinnekop"
+        ],
+        [
+            "een vislijn",
+            "een codde"
+        ],
+        [
+            "een warmwaterketel",
+            "nen bwaaler"
+        ],
+        [
+            "eenden",
+            "einsjies"
+        ],
+        [
+            "F"
+        ],
+        [
+            "fiets",
+            "ne velo"
+        ],
+        [
+            "fietsrem",
+            "ne frein"
+        ],
+        [
+            "fluiten",
+            "schuifele"
+        ],
+        [
+            "G"
+        ],
+        [
+            "garage",
+            "ottoboks"
+        ],
+        [
+            "gezicht",
+            "wezen"
+        ],
+        [
+            "gordijnen",
+            "draparies"
+        ],
+        [
+            "grimlachen",
+            "gremelen"
+        ],
+        [
+            "H"
+        ],
+        [
+            "Haag",
+            "weire"
+        ],
+        [
+            "het hoofdje van een klein kind",
+            "bollesiske"
+        ],
+        [
+            "hoogkamerstraat",
+            "op hoogkommere"
+        ],
+        [
+            "hoogmoedig zijn",
+            "neffe zen schoene lope"
+        ],
+        [
+            "I"
+        ],
+        [
+            "ik heb een lopende neus",
+            "keb ne snevering"
+        ],
+        [
+            "in den tuin",
+            "op den achteruit"
+        ],
+        [
+            "J"
+        ],
+        [
+            "jong kind",
+            "snotneus"
+        ],
+        [
+            "jongeren",
+            "snotapen"
+        ],
+        [
+            "jullie",
+            "gulder"
+        ],
+        [
+            "K"
+        ],
+        [
+            "kaas",
+            "keis"
+        ],
+        [
+            "Kaas",
+            "Kous"
+        ],
+        [
+            "kelder",
+            "spent"
+        ],
+        [
+            "kelder",
+            "speint"
+        ],
+        [
+            "kersen",
+            "da zijn kouzen"
+        ],
+        [
+            "kikkervisjes",
+            "da zijn hoekedoelen"
+        ],
+        [
+            "knikkers",
+            "da zij marrebollen"
+        ],
+        [
+            "L"
+        ],
+        [
+            "lade / kast",
+            "schuif"
+        ],
+        [
+            "lichte regen",
+            "motregen"
+        ],
+        [
+            "M"
+        ],
+        [
+            "mannen slaapkleed",
+            "tabord"
+        ],
+        [
+            "Meikever",
+            "Bomboart"
+        ],
+        [
+            "Meisjes",
+            "Maskes"
+        ],
+        [
+            "mier",
+            "muurezjieker"
+        ],
+        [
+            "moeilijk mens",
+            "ambetanterik"
+        ],
+        [
+            "morgen",
+            "maren"
+        ],
+        [
+            "N"
+        ],
+        [
+            "naar een begrafenis gaan",
+            "te lijken goan"
+        ],
+        [
+            "ne oorworm",
+            "das ne tenennijper"
+        ],
+        [
+            "nieuws (TV) ",
+            "'t nies"
+        ],
+        [
+            "niksnut",
+            "flierefluiter / bietskoemer"
+        ],
+        [
+            "nochtans",
+            "pertang"
+        ],
+        [
+            "O"
+        ],
+        [
+            "ongeduldig",
+            "kittig"
+        ],
+        [
+            "opnieuw",
+            "oppevas"
+        ],
+        [
+            "P"
+        ],
+        [
+            "paardenbloem",
+            "pisbloem"
+        ],
+        [
+            "peddelen",
+            "pagaaien"
+        ],
+        [
+            "petrollamp",
+            "das ne kinkee"
+        ],
+        [
+            "ph haumanstraat",
+            "t'foort"
+        ],
+        [
+            "pleister",
+            "lakske"
+        ],
+        [
+            "R"
+        ],
+        [
+            "regenworm",
+            "pillewuiter, pierewuiter"
+        ],
+        [
+            "rioolbuizen",
+            "canebaize"
+        ],
+        [
+            "rolluik",
+            "blaffetier"
+        ],
+        [
+            "rolluik",
+            "persienne"
+        ],
+        [
+            "S"
+        ],
+        [
+            "salami",
+            "sosies"
+        ],
+        [
+            "schaatsen",
+            "schofferdeinen"
+        ],
+        [
+            "scheldestraat",
+            "t'felstraotje"
+        ],
+        [
+            "scheldestraat",
+            "t'felstaotje"
+        ],
+        [
+            "schommel",
+            "bijs"
+        ],
+        [
+            "schommel",
+            "biezabijs"
+        ],
+        [
+            "schuren",
+            "schieren"
+        ],
+        [
+            "sluimererwten",
+            "schelparten"
+        ],
+        [
+            "smoutebollen",
+            "smotbolle"
+        ],
+        [
+            "soepterrine",
+            "pietossiekom"
+        ],
+        [
+            "st jorisstraat",
+            "den uil"
+        ],
+        [
+            "stukjes verbrande kolen (as) ",
+            "treizelingen"
+        ],
+        [
+            "T"
+        ],
+        [
+            "teenslipper",
+            "slokkers"
+        ],
+        [
+            "teenslippers",
+            "pielepote"
+        ],
+        [
+            "teenslippers",
+            "pielepote /tieensletse"
+        ],
+        [
+            "tegenwoordig",
+            "sinnewuireg"
+        ],
+        [
+            "Temse",
+            "Temst"
+        ],
+        [
+            "tube (van een fietsband) ",
+            "sjupape"
+        ],
+        [
+            "tuinhuis",
+            "brak"
+        ],
+        [
+            "Turnen",
+            "jumenas"
+        ],
+        [
+            "V"
+        ],
+        [
+            "vagina",
+            "spelezoal"
+        ],
+        [
+            "Verf",
+            "Vaaref"
+        ],
+        [
+            "vliegenraam",
+            "schijntje"
+        ],
+        [
+            "voetpad",
+            "plasier"
+        ],
+        [
+            "voetpad",
+            "plansier"
+        ],
+        [
+            "volwassen vrouw",
+            "vrameins"
+        ],
+        [
+            "vork /etens",
+            "verket"
+        ],
+        [
+            "vrachtwagen",
+            "camion"
+        ],
+        [
+            "W"
+        ],
+        [
+            "washandje",
+            "wazzeke"
+        ],
+        [
+            "washandje",
+            "zaekske"
+        ],
+        [
+            "waterketel",
+            "ne mooer"
+        ],
+        [
+            "wc /toilet",
+            "t'gemak, t'uiske"
+        ],
+        [
+            "wc /toilet",
+            "t'gemak"
+        ],
+        [
+            "wei",
+            "waai"
+        ],
+        [
+            "worm",
+            "pielewuiter"
+        ],
+        [
+            "worst",
+            "wuist"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "zenuwen",
+            "zinnewi-je"
+        ],
+        [
+            "zoethout",
+            "kaliesenhout"
+        ],
+        [
+            "zolder",
+            "t 'operste"
+        ]
+    ]
+}

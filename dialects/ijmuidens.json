@@ -1,0 +1,744 @@
+{
+    "proverbs": [
+        [
+            "Als iemand weg moet gaan",
+            "Zie dat je weg komt!"
+        ],
+        [
+            "Dronken zijn",
+            "Een vracht hebben"
+        ],
+        [
+            "Er zit een steekje bij je los",
+            "Ben je van de commode gevallen"
+        ],
+        [
+            "Even een sigaret roken",
+            "Ff n peukie doen"
+        ],
+        [
+            "Hoog in een flat wonen",
+            "Bijna bij de heere Jezus aan tafel zitten"
+        ],
+        [
+            "in de storm lopen",
+            "uit je jas waaien"
+        ],
+        [
+            "Je bent lui van aard.",
+            "Een beest op je rug hebben."
+        ],
+        [
+            "Je bent lui van aard.",
+            "Te lui om te bibberen."
+        ],
+        [
+            "Je bent lui van aard.",
+            "Te lui om te trillen."
+        ],
+        [
+            "koffie drinken",
+            "een bakkie doen"
+        ],
+        [
+            "langs de haven lopen/wandelen",
+            "ff kantje pikken"
+        ],
+        [
+            "langs de haven wandelen",
+            "een kantje pikken"
+        ],
+        [
+            "naar bed gaan",
+            "naar me kluivebak"
+        ],
+        [
+            "Pijn in je lichaam",
+            "Pijn in je leijer"
+        ],
+        [
+            "sluis open",
+            "klare sluis"
+        ],
+        [
+            "Storm",
+            "Uit je skelet waaien"
+        ],
+        [
+            "wat gaan drinken",
+            "n beetje doen"
+        ],
+        [
+            "weggaan",
+            "We gaan stomen"
+        ]
+    ],
+    "words": [
+        [
+            "A"
+        ],
+        [
+            "Aan",
+            "an"
+        ],
+        [
+            "aardappelen",
+            "aarappols"
+        ],
+        [
+            "aardbei",
+            "aarebei"
+        ],
+        [
+            "Armoedig",
+            "Scraal"
+        ],
+        [
+            "auto",
+            "karretje"
+        ],
+        [
+            "B"
+        ],
+        [
+            "bierglas vaasje",
+            "vaassie"
+        ],
+        [
+            "Biertje",
+            "Potje"
+        ],
+        [
+            "bijna",
+            "bekant"
+        ],
+        [
+            "bijna",
+            "temet"
+        ],
+        [
+            "bodem",
+            "boiem"
+        ],
+        [
+            "bokking",
+            "bokkum"
+        ],
+        [
+            "C"
+        ],
+        [
+            "Canopus plein",
+            "Knoopjes plein"
+        ],
+        [
+            "Casembroot straat",
+            "Kaas en broodstraat"
+        ],
+        [
+            "D"
+        ],
+        [
+            "Daar",
+            "Daaro"
+        ],
+        [
+            "dag",
+            "hohh"
+        ],
+        [
+            "dat durfde ik niet",
+            "dat dorst ik niet"
+        ],
+        [
+            "Dat snap ik",
+            "Duhhh"
+        ],
+        [
+            "Dat zie ik",
+            "Dat zien ik / dat ziet ik"
+        ],
+        [
+            "de haven",
+            "de kant"
+        ],
+        [
+            "de Kennemerlaan",
+            "de Kerremelaan"
+        ],
+        [
+            "De Noordzee",
+            "Haringvijver"
+        ],
+        [
+            "dinsdag",
+            "dinnesdag"
+        ],
+        [
+            "Drank",
+            "Neut"
+        ],
+        [
+            "dropje",
+            "droppie"
+        ],
+        [
+            "E"
+        ],
+        [
+            "Egmonder (aan zee)",
+            "Derreper"
+        ],
+        [
+            "enige",
+            "enigste"
+        ],
+        [
+            "enorm",
+            "genaar"
+        ],
+        [
+            "eten",
+            "vroten"
+        ],
+        [
+            "even",
+            "effe"
+        ],
+        [
+            "F"
+        ],
+        [
+            "fiets",
+            "karretje"
+        ],
+        [
+            "fietstassen",
+            "smeestassen"
+        ],
+        [
+            "frisbee",
+            "pleijer"
+        ],
+        [
+            "G"
+        ],
+        [
+            "Garage",
+            "Graasie"
+        ],
+        [
+            "Gek",
+            "Mesjokke"
+        ],
+        [
+            "gekregen vissie",
+            "een smeesie"
+        ],
+        [
+            "genoeg / opschieten",
+            "horrie op"
+        ],
+        [
+            "gescheiden",
+            "geschee-en"
+        ],
+        [
+            "Gezicht",
+            "Porum"
+        ],
+        [
+            "gezicht",
+            "smoel"
+        ],
+        [
+            "Gezicht",
+            "Treiter"
+        ],
+        [
+            "glijden",
+            "glijen"
+        ],
+        [
+            "goed",
+            "goes"
+        ],
+        [
+            "goedemorgen / dag",
+            "morrie morrie"
+        ],
+        [
+            "Grote zwarte hond",
+            "Kolenzak"
+        ],
+        [
+            "H"
+        ],
+        [
+            "Haarlem",
+            "Haalem"
+        ],
+        [
+            "hachee",
+            "uiensjee"
+        ],
+        [
+            "Hangjongeren",
+            "Schorre morrie"
+        ],
+        [
+            "haring",
+            "heering"
+        ],
+        [
+            "heb je het weer voor mekaar?",
+            "ai'ent weer e doan"
+        ],
+        [
+            "heb jij voor mij",
+            "heb jij voor mijn"
+        ],
+        [
+            "heb jij voor mij",
+            "het jij voor mijn"
+        ],
+        [
+            "heeft",
+            "hebt"
+        ],
+        [
+            "Hier",
+            "hiero"
+        ],
+        [
+            "Hier komen",
+            "Hier komme"
+        ],
+        [
+            "hoofd",
+            "harses"
+        ],
+        [
+            "hoofd",
+            "keumes"
+        ],
+        [
+            "Hoogovens",
+            "Hooghoves"
+        ],
+        [
+            "Horloge",
+            "holosie"
+        ],
+        [
+            "Huis",
+            "Hok"
+        ],
+        [
+            "I"
+        ],
+        [
+            "IJmuiden",
+            "ijmuiee"
+        ],
+        [
+            "ijmuidenaar",
+            "vissenkop"
+        ],
+        [
+            "ijmuidens",
+            "ijmuis"
+        ],
+        [
+            "Ik ga weg",
+            "ik ga pleithuize"
+        ],
+        [
+            "ik hem niet",
+            "ik kan hem nie"
+        ],
+        [
+            "inschenken",
+            "inschuden"
+        ],
+        [
+            "J"
+        ],
+        [
+            "Joint",
+            "Joep"
+        ],
+        [
+            "K"
+        ],
+        [
+            "kaairidder",
+            "kaarridder"
+        ],
+        [
+            "Kade",
+            "Kaaie"
+        ],
+        [
+            "Kan zo zijn",
+            "Ken wezen"
+        ],
+        [
+            "kanaaldijk",
+            "knaaldijk"
+        ],
+        [
+            "kanarie",
+            "knarie"
+        ],
+        [
+            "Kennemerlaan",
+            "Kenner-me-laan"
+        ],
+        [
+            "kijken",
+            "glauwen"
+        ],
+        [
+            "koekje",
+            "koekie"
+        ],
+        [
+            "koffie drinken",
+            "bakkie doen"
+        ],
+        [
+            "konijn",
+            "knijn"
+        ],
+        [
+            "Krijg het heen en weer",
+            "krijg de klere"
+        ],
+        [
+            "L"
+        ],
+        [
+            "Laat (maar) los",
+            "Lekko"
+        ],
+        [
+            "Lekker belangrijk",
+            "Boeiè"
+        ],
+        [
+            "link!",
+            "gaaf man!"
+        ],
+        [
+            "M"
+        ],
+        [
+            "makreel",
+            "makriel"
+        ],
+        [
+            "markt",
+            "mart"
+        ],
+        [
+            "Mezelf",
+            "Me Eiguh"
+        ],
+        [
+            "N"
+        ],
+        [
+            "naar bed of de kooi gaan",
+            "leggeh"
+        ],
+        [
+            "Neer gelegd",
+            "Neer gelegen"
+        ],
+        [
+            "Net als ik",
+            "Net als mij"
+        ],
+        [
+            "Neus",
+            "Gok"
+        ],
+        [
+            "Nogal logisch",
+            "Hèh hèh"
+        ],
+        [
+            "O"
+        ],
+        [
+            "Okee",
+            "Orijt!"
+        ],
+        [
+            "ondanks",
+            "onderlest"
+        ],
+        [
+            "Onderbroek",
+            "Pendek"
+        ],
+        [
+            "Onderuit",
+            "Leko"
+        ],
+        [
+            "Opdonderen",
+            "Opzoute"
+        ],
+        [
+            "opdrinken",
+            "kelen"
+        ],
+        [
+            "oud",
+            "ousig"
+        ],
+        [
+            "ouwe rommel",
+            "achemegisch"
+        ],
+        [
+            "P"
+        ],
+        [
+            "peuk",
+            "tots"
+        ],
+        [
+            "plank",
+            "plankie"
+        ],
+        [
+            "Plat dak",
+            "pladak"
+        ],
+        [
+            "poesje",
+            "mosseltje"
+        ],
+        [
+            "politie",
+            "pliesie"
+        ],
+        [
+            "R"
+        ],
+        [
+            "Reddingboot",
+            "Reddingsboot"
+        ],
+        [
+            "rommelen",
+            "prutten"
+        ],
+        [
+            "Rustig aan",
+            "Kassie an"
+        ],
+        [
+            "S"
+        ],
+        [
+            "sausje",
+            "saussie"
+        ],
+        [
+            "schilderen",
+            "smeeren"
+        ],
+        [
+            "semafoor",
+            "siemusfor"
+        ],
+        [
+            "semafoor",
+            "simmesvoor"
+        ],
+        [
+            "sint-maarten",
+            "sintere-maarten"
+        ],
+        [
+            "spoorbomen",
+            "spobomen"
+        ],
+        [
+            "Spoorbomen",
+            "Spohbómen"
+        ],
+        [
+            "spoorwegovergang",
+            "spobomen"
+        ],
+        [
+            "stelen/gestolen",
+            "klauwen/geklauwd"
+        ],
+        [
+            "stinkbedrijf uit de haven",
+            "puffabriek"
+        ],
+        [
+            "stuiteren",
+            "tippen"
+        ],
+        [
+            "T"
+        ],
+        [
+            "tafel",
+            "tafol"
+        ],
+        [
+            "tandemasser",
+            "tendermaster"
+        ],
+        [
+            "Trawler",
+            "Troller"
+        ],
+        [
+            "trekkracht",
+            "porrie"
+        ],
+        [
+            "troep",
+            "zooi"
+        ],
+        [
+            "trots",
+            "groos"
+        ],
+        [
+            "V"
+        ],
+        [
+            "Verloren van Themaat laan",
+            "verloren van tomaatlaan"
+        ],
+        [
+            "vervelend doen",
+            "niet zijke"
+        ],
+        [
+            "vervelend persoon",
+            "drabber"
+        ],
+        [
+            "visje",
+            "vissie"
+        ],
+        [
+            "vislosser",
+            "kaairidder"
+        ],
+        [
+            "vloeken",
+            "met onze lieve Heer gesproken"
+        ],
+        [
+            "voetballen",
+            "balletje trappen in het parek"
+        ],
+        [
+            "Voetballen",
+            "Voeballe"
+        ],
+        [
+            "voetgangers oversteek spoorbaan",
+            "Klaphekkie"
+        ],
+        [
+            "voor de dag komen",
+            "voor 't gaas gaan"
+        ],
+        [
+            "vork",
+            "vurruk"
+        ],
+        [
+            "W"
+        ],
+        [
+            "wat gaan drinken",
+            "effe un beetje doen"
+        ],
+        [
+            "Wat houd je tegen",
+            "Wat let je"
+        ],
+        [
+            "Wat is er",
+            "wat mot je"
+        ],
+        [
+            "Wat is er?",
+            "Watser"
+        ],
+        [
+            "we gaan weg",
+            "we gaan hobbelen"
+        ],
+        [
+            "we zijn even weg",
+            "we benne effe pleite"
+        ],
+        [
+            "weg wezen",
+            "optieften"
+        ],
+        [
+            "Wegwezen!",
+            "Opzouten!"
+        ],
+        [
+            "wel terusten",
+            "gnagt hoor"
+        ],
+        [
+            "Wij wilden",
+            "We wouden / we wouwe"
+        ],
+        [
+            "wij zijn",
+            "wij benne"
+        ],
+        [
+            "Wij zijn uit geweest",
+            "We benne wezen stappen"
+        ],
+        [
+            "woensdag",
+            "woenesdag"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "zakdoekje",
+            "saddoekkie"
+        ],
+        [
+            "zakdoekje",
+            "zaddoekkie"
+        ],
+        [
+            "Zij",
+            "Hunnie"
+        ],
+        [
+            "Zweet me rot",
+            "Zweet me de niegus"
+        ],
+        [
+            "Zweetvoeten",
+            "Zweetkakkies"
+        ]
+    ]
+}

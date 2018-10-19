@@ -1,0 +1,5927 @@
+{
+    "proverbs": [
+        [
+            "alles wat iemand anders doet is niet goed genoeg (roddelen) ",
+            "Ie hebt de köttel in't dwars veur het gat zitt'n"
+        ],
+        [
+            "Als het mee valt gaat de boer worsten",
+            "at met völt geet de boer worsten."
+        ],
+        [
+            "Als iemand is overleden",
+            "Hi'j hef de klompen achteruut e'gooid"
+        ],
+        [
+            "Als iemand klaagt over de warmte",
+            "He-j 't warm. kroep in'n darm. He-j kold: kroep in't holt. He-j dös, gao naor Jan Terhös. Den hef 'n hundjen, den pies ow lieke in't mundjen"
+        ],
+        [
+            "Als je het niet probeert, lukt het ook niet",
+            "Kannie leg op 't kerhof, Wilnie leg d'r naost"
+        ],
+        [
+            "als je nedersaksisch kan praten moet je het niet laten",
+            "a'j plat könt praoten, mo'j ut neet laoten"
+        ],
+        [
+            "Als je niet naar buiten gaat, kom je ook nergens",
+            "a'j neet naor buutn gaot, kom ie ok nargens"
+        ],
+        [
+            "Als je niks zegt, valt het ook niet op dat je dom bent",
+            "A'j niks zegt, völt't ok niet op da'j dom bunt."
+        ],
+        [
+            "als je zo doorgaat kan je een oplawaai verwachten",
+            "mot ik bej ow kommen"
+        ],
+        [
+            "antwoord voor kinderen die telkens vragen wat ga je doen",
+            "Noar opsterop pispotte bakk'n dan mot ej de oarne dran plakk'n"
+        ],
+        [
+            "bah, dat komt slecht uit.",
+            "Boh foi toch, dat völt mien as `n kei in de schottezak"
+        ],
+        [
+            "Begroeting",
+            "Kom d'r in en do maor net alsof ie in oew eigen huus bunt. Kom't d'r in dan ku'j d'r oet kiek'n"
+        ],
+        [
+            "Bekijk het je",
+            "Bekiek et oe"
+        ],
+        [
+            "bekijk het maar",
+            "zeuk 't ow maor uut, bekiek't"
+        ],
+        [
+            "ben je wel goed bij je hoofd",
+            "Buj wa good snik, Bu'j gek? He-j t goed wies kapot?"
+        ],
+        [
+            "Bidden voor de maaltijd.",
+            "Achter de pette kieken."
+        ],
+        [
+            "Bij het weggaan wordt wel eens gezegd",
+            "Good gaon en plaog mekare neet."
+        ],
+        [
+            "Blijf van me af",
+            "Blief van mien af , I-j mag mien wel an de boks kommen, moar alleen at e an den droad hink"
+        ],
+        [
+            "daar wordt ik kriebelig van",
+            "daor wod ik kregel van"
+        ],
+        [
+            "Dan heb je de poppen aan het dansen",
+            "Dan he'j de schaop'n ant driet'n an"
+        ],
+        [
+            "Dan heb je een probleem",
+            "Dan he'j 't schaop an 't drieten"
+        ],
+        [
+            "Dat heeft geen zin, is onzin.",
+            "Dat het joa ging böksen an."
+        ],
+        [
+            "dat heeft niet veel te betekenen",
+            "dat hef weinig um't lief"
+        ],
+        [
+            "Dat heeft niets te betekenen",
+            "Dà hef niks in"
+        ],
+        [
+            "dat is niet heel erg, ",
+            "dat is neet zo slim"
+        ],
+        [
+            "dat is niet zo erg",
+            "da's nie slim"
+        ],
+        [
+            "Dat kan toch niet zo zijn",
+            "Da kan doch nie woar wéén"
+        ],
+        [
+            "dat maakt niks uit",
+            "dat mek niks uut, gif niks"
+        ],
+        [
+            "Dat wordt niks, Dat gaat niet goed.",
+            "Da wödt nie wat"
+        ],
+        [
+            "de deur is open",
+            "de deure is los"
+        ],
+        [
+            "de wacht aanzeggen",
+            "de levieten elaezen"
+        ],
+        [
+            "Doe het maar rustig aan",
+            "hendig an doon"
+        ],
+        [
+            "draai om de oren geven",
+            "ziege um de aorne gevven"
+        ],
+        [
+            "een flinke hand vol",
+            "ne gepse"
+        ],
+        [
+            "Een klap geven.",
+            "Een striekert um de oorne geven."
+        ],
+        [
+            "een toefje",
+            "een tuufken"
+        ],
+        [
+            "Eigenwijs portret (persoon)",
+            "Eigenwieze pradde"
+        ],
+        [
+            "Elk nadeel heeft zijn voordeel",
+            "He-j kniens, he-j köttels"
+        ],
+        [
+            "Er is een tijd van komen en er is een tijd van gaan",
+            "D'r is een tied van kommen en d'r is een tied van goan."
+        ],
+        [
+            "er niets mee op schieten",
+            "ku-j wel hen gaon en scheet ne kanarie veur 't gat, maor daor scheet i-j niks met op"
+        ],
+        [
+            "Er tijd voor hebben",
+            "Kunnen Wachten"
+        ],
+        [
+            "Ga door en houdt  moed .",
+            "Hol de bene d'r onder en de gang d'r in ."
+        ],
+        [
+            "geen achterhoeker",
+            "kwatjes volk"
+        ],
+        [
+            "Geen onderbroek aan hebben",
+            "Sjoks-onderbokse"
+        ],
+        [
+            "Geen schulden maken",
+            "Lieke op d`n diek blieven"
+        ],
+        [
+            "Geld hebben",
+            "Schoef veur de doem hebben"
+        ],
+        [
+            "gelukkig nieuwjaar, heb je de snoepzak al klaar",
+            "gelukkeg niejjoor, he'j de toete al klaor"
+        ],
+        [
+            "Gescheiden",
+            "'t nös onder 'n boom hebb'n liggen"
+        ],
+        [
+            "goed weer om buiten te vrijen",
+            "heggeweer"
+        ],
+        [
+            "goede morgen",
+            "he'j al e'dretten"
+        ],
+        [
+            "Goedendag mijn waarde vriend",
+            "He swa"
+        ],
+        [
+            "hallo alles goed",
+            "hallo alles good"
+        ],
+        [
+            "heb je haast?",
+            "Mo'j nog hueie?"
+        ],
+        [
+            "heb je hem ook weer",
+            "ha'j hem oak wer"
+        ],
+        [
+            "heb je het al gehoord",
+            "he'j 't al eheurt"
+        ],
+        [
+            "heb je het druk",
+            "he'j 't drok"
+        ],
+        [
+            "heb je wat",
+            "haj wat"
+        ],
+        [
+            "heel erg langzaam",
+            "zo drao as dikken stront, zo trage as dikke stront"
+        ],
+        [
+            "heen gaan",
+            "Hen goan"
+        ],
+        [
+            "helemaal niet",
+            "helemoal neet, gaanie"
+        ],
+        [
+            "het blijft",
+            "'t blif"
+        ],
+        [
+            "Het ergens niet mee eens zijn, ergens twijfels bij hebben",
+            "jao jao"
+        ],
+        [
+            "Het ga je goed!",
+            "Hold oe kreggel!"
+        ],
+        [
+            "het gaat slecht met mij",
+            "'t geet mien dunne deur 'n darm"
+        ],
+        [
+            "Het grootste gebrek is geldgebrek.",
+            "De grootste piene is geldpiene."
+        ],
+        [
+            "het is een gedoe",
+            "t is mien nen spul"
+        ],
+        [
+            "het laten vallen van rogge, hooi, e.d. tijdens transport",
+            "sleujen"
+        ],
+        [
+            "het ligt",
+            "'t lig"
+        ],
+        [
+            "Het maakt mij niks uit",
+            "Zal mien n bal jukke"
+        ],
+        [
+            "Het smaakt lekker",
+            "'k Heb wal ins slechter egèten"
+        ],
+        [
+            "het staat geschreven en gedrukt, men moet krabben waar het jeukt",
+            "et steet eschreven en edrukt, i-j mot krabben waor et jukt"
+        ],
+        [
+            "het vriest",
+            "et vrus"
+        ],
+        [
+            "het zelfde",
+            "krek alens"
+        ],
+        [
+            "Hij heeft de klok horen luiden, maar weet niet niet waar de klepel hangt.",
+            "Hi-j hef de melk heuren klotsen, maor wet neet waor 't titje hunk."
+        ],
+        [
+            "hij is dronken",
+            "hee hef um umme"
+        ],
+        [
+            "hij is erg verward",
+            "hie is in de bonen (an het arwten plukken)"
+        ],
+        [
+            "hij is lekker blond",
+            "hey is lekke blonde"
+        ],
+        [
+            "Hij is overleden.",
+            "Hi'j hef't tiedeleke met't eeuwige verwisseld."
+        ],
+        [
+            "Hij loopt langzaam",
+            "at hi-j nog langzamer lup, luppe achteruut"
+        ],
+        [
+            "Hij voelt zich niet zo lekker.",
+            "Hi-j is luk sloerig in de rakkert"
+        ],
+        [
+            "Hij ziet er niet zeer intelligent uit",
+            "'t Verstand"
+        ],
+        [
+            "Hoe heet je / wat is je afkomst ?  (achternaam / boerderijnaam)",
+            "woar bu'j vaan ? (antw.: vleisch en butte)"
+        ],
+        [
+            "hoe is het met jou",
+            "hoes`t met oe"
+        ],
+        [
+            "hou je goed",
+            "goed goan"
+        ],
+        [
+            "Hou je haaks",
+            "Holt de bene d'r onder"
+        ],
+        [
+            "Houd je rustig, doe eens kalm",
+            "iej mot oe es gebroajen hollen"
+        ],
+        [
+            "Humoristich overdrijven",
+            "At s'maons vrog de hane uut dinxper in aalten kraei'jt ,dan heft s'nachts unmöndig e'waei'jt ."
+        ],
+        [
+            "Iemand de mond snoeren",
+            "A'j niks zegt, verstao ik ow 't best"
+        ],
+        [
+            "Iemand die onzin uitkraamt",
+            "I-j mot neet zo dom ut de nekke lullen"
+        ],
+        [
+            "iemand die opschept",
+            "poch-hans, poch jans"
+        ],
+        [
+            "iemand die zwoegt",
+            "un äöze peter"
+        ],
+        [
+            "iemand een pak rammel geven",
+            "mäöltjen op de latten geven"
+        ],
+        [
+            "iets doen wat absoluut niet kan",
+            "bu'j now helemaol van de pot geruk"
+        ],
+        [
+            "Iets laten vallen/Iets gaat goed fout",
+            "Doar he'j alle proemen in'drek"
+        ],
+        [
+            "Ik ga er maar weer eens vandoor",
+            "Ik gao der hen, ik gao verdan"
+        ],
+        [
+            "ik geloof je niet",
+            "jao jao"
+        ],
+        [
+            "ik hou van jou",
+            "ik holle van oew, ik mag ow geerne"
+        ],
+        [
+            "ik kan maar niet begrijpen dat jij dat doet",
+            "ik kan moar neet begriep'n da-j dat doot\n...kan dur met de kop nie bie"
+        ],
+        [
+            "ik krijg wat ik wil",
+            "krek wa'k wol"
+        ],
+        [
+            "Ik laat me niet gek maken",
+            "ik laot mien de pis niet lauw maken"
+        ],
+        [
+            "ik schop je helemaal in elkaar",
+            "ik schup oe helemaal los"
+        ],
+        [
+            "Ik voel me niet lekker",
+            "'k Bun sloerig in de rakker"
+        ],
+        [
+            "in orde",
+            "veur mekaar"
+        ],
+        [
+            "ja doei",
+            "jao dog"
+        ],
+        [
+            "ja zeggen nee doen",
+            "jao jao"
+        ],
+        [
+            "Je kunt de pot op",
+            "Krieg ie toch un dikk'n"
+        ],
+        [
+            "je kunt m'n rug of de pot op",
+            "Ie könt mie de hakke violen"
+        ],
+        [
+            "je kunt zijn bilnaad zien",
+            "i-j kiekt um tegen 't broodvoorn"
+        ],
+        [
+            "Je moet niet aan me zitten",
+            "I-j mag mien wel an de boks kommen, maor alleen at e an den draod hink"
+        ],
+        [
+            "je niet lekker voelen",
+            "niks te bes in order weazen"
+        ],
+        [
+            "Je praat over anderen.",
+            "I-j hebt de köttel veur het gat zitt'n"
+        ],
+        [
+            "jij bent bleek",
+            "wat bun ie meeps"
+        ],
+        [
+            "kalm aan",
+            "hendig an"
+        ],
+        [
+            "karnemelkse saus met spek",
+            "karnemelkse sauze met spek"
+        ],
+        [
+            "kijk uit",
+            "kiek uut"
+        ],
+        [
+            "klein huisje aangebouwd aan huis",
+            "klein huusken ( oirman aalten )"
+        ],
+        [
+            "Koffie die niet smaakt weggooien",
+            "Aover de scholder drinken"
+        ],
+        [
+            "kom gauw weer eens langs",
+            "weer komm'n keunen kiek'n"
+        ],
+        [
+            "Laat de moed niet zakken",
+            "Hol de bene d'r onder en de gang d'r in ."
+        ],
+        [
+            "lastig persoon",
+            "draodnaegel"
+        ],
+        [
+            "Laten we elkaar niets wijs maken",
+            "lao'w mekare geen mietje neumen"
+        ],
+        [
+            "lekker slapen",
+            "welterust'n, kop in't kussen, gat in'n arm, slaop ie lekker warm"
+        ],
+        [
+            "maakt mij niet uit",
+            "ut stuk mi'j niks, t is mien um t aeven"
+        ],
+        [
+            "Meer dan goed op gewicht, positief bedoeld.",
+            "Poonde (ponden) in 't gat."
+        ],
+        [
+            "Mijn moeder",
+            "Mien neet"
+        ],
+        [
+            "misschien, maar eerder nee",
+            "joa joa"
+        ],
+        [
+            "moet je eens kijken",
+            "mo'j 's kieken"
+        ],
+        [
+            "moet je kijken",
+            "mo'j kieken"
+        ],
+        [
+            "moet je nog ver",
+            "moj nog wiet"
+        ],
+        [
+            "moet kunnen",
+            "mot kunn"
+        ],
+        [
+            "Mooie vrouwen",
+            "As bloem'm in'n hof , daor mo'j alleen maor naor kiek'n maor neet an zitt'n plukk'n ."
+        ],
+        [
+            "na een gezellige avond lekker vrijen",
+            "nao een aovund brekken en zoepen, kuj mooi op de proeme kroepen"
+        ],
+        [
+            "na flink zuipen moet je 's morgens niet zeiken",
+            "'s oavends nen keerl 's moargns nen keerl"
+        ],
+        [
+            "Neem het er van. Maak er het beste van.Kan ook ironisch bedoeld zijn.",
+            "Nem een möpke (koekje) bi-j de koffie."
+        ],
+        [
+            "niet te snel oordelen over iemand",
+            "i-j könt iemand wal veur -, maor neet in de kop kieken"
+        ],
+        [
+            "niet waar",
+            "gaar neet woar"
+        ],
+        [
+            "Niets doen",
+            "Bi-j de pöste lopen, Teumig goan"
+        ],
+        [
+            "Onweer in het kale hout, brengt een voorjaar nat en koud",
+            "Onwaer in et kale holt, breg een veurjoor nat en kolt"
+        ],
+        [
+            "Overdaad",
+            "A'j ow waart veur't aoverdeudige , dan hol i'j genog veur't neudige."
+        ],
+        [
+            "Pas op, ga aan de kant",
+            "Waar oe"
+        ],
+        [
+            "plaat voor de kop hebben",
+            "bret veur de kop hebben"
+        ],
+        [
+            "praat niet over jezelf, dat doen anderen wel, als je weg bent",
+            "praot nie oaver oezelf, da doen andern wel, a'j weg bunt"
+        ],
+        [
+            "schuifkaas",
+            "schoefkaeze a'j 't brood egettene hebt, ku'j de kaeze weer in 't beksken doon"
+        ],
+        [
+            "Slecht in orde",
+            "Sloerig in de rakker"
+        ],
+        [
+            "soms wel, meestal niet",
+            "mangs wa, ait nee"
+        ],
+        [
+            "Steeds herhalen.",
+            "Zoas ne koo uut 't kuuven lekt."
+        ],
+        [
+            "Stel je niet zo aan!",
+            "He-j d'r last van? Ziet da-j d'r gemak van krieg!"
+        ],
+        [
+            "stomdronken",
+            "Een stuk in de krage li'k lomp , een stuk in de bokse li'k stomp ."
+        ],
+        [
+            "super langzaam",
+            "zo trage as dikke stront deur un trechter"
+        ],
+        [
+            "tijd om naar huis tegaan.",
+            "De mölle uut 't kaf trekken"
+        ],
+        [
+            "Tijd van komen, tijd van gaan",
+            "Tied van kommen, tied van gaon"
+        ],
+        [
+            "tjonge jonge, zeer",
+            "alderbastend"
+        ],
+        [
+            "Vaak ben je te bang",
+            "Vake bu'j te bange"
+        ],
+        [
+            "Vast slapen",
+            "Slaopen as ne holt."
+        ],
+        [
+            "Verder nog nieuws",
+            "Apart noch nejs"
+        ],
+        [
+            "verloving of verkering uit",
+            "dee heb 't nus onder 'n boom ligg'n"
+        ],
+        [
+            "vertrouw op God maar doe wel de fiets op slot",
+            "Vertrouw op God maor doo wal de fietse op slot"
+        ],
+        [
+            "voel me niet zo lekker",
+            "ik heb ut neet liek op 'n draod"
+        ],
+        [
+            "vragen of iemand mee gaat vrijen",
+            "gao'j met hen blommen plukken"
+        ],
+        [
+            "vragen of je mee gaat zoenen",
+            "gao'j met hen brommers kiekn"
+        ],
+        [
+            "Vreemdgaan",
+            "Onder den draod deur vrette"
+        ],
+        [
+            "Vrouw met een flink achterwerk.",
+            "God's wark."
+        ],
+        [
+            "Wanneer een paard of een hond maar iets aan hun poten hebben, lopen ze mank",
+            "un peerd en un hond hinkt um de stront"
+        ],
+        [
+            "wat bedoel je?",
+            "hoe zeg ie da?"
+        ],
+        [
+            "Wat ben je dom!",
+            "Wat bu'j toch ok een dom peerd!"
+        ],
+        [
+            "wat ben je vervelend",
+            "stekt ow de broodkrumels"
+        ],
+        [
+            "wat denk je wel (dat je bent )",
+            "wat meen ie noe...."
+        ],
+        [
+            "wat doe je nu?",
+            "wat maak i-j mi-j now dan?"
+        ],
+        [
+            "wat een troep",
+            "wat een drek"
+        ],
+        [
+            "Wat heb je nou weer te zeuren",
+            "Wat he-j now weer an de kont te krabben"
+        ],
+        [
+            "wat krijg ik dan",
+            "wat krieg ik dan"
+        ],
+        [
+            "wat moet dat",
+            "wat mo'j"
+        ],
+        [
+            "wat u niet wilt dat u geschiedt, doe dat ook een ander niet",
+            "Wa'j nie wil dat ow geschiedt, doe dat ook een ander neet"
+        ],
+        [
+            "wat zeg je",
+            "wa zegde gij (Liemers dialect)"
+        ],
+        [
+            "weggaan",
+            "van hand gaon"
+        ],
+        [
+            "Weinig inspanning leveren.",
+            "Slok reep'n. Repen=strengen van het paardentuig."
+        ],
+        [
+            "Wij gaan naar Winterswijk",
+            "Wi-j gaot naor Wenters"
+        ],
+        [
+            "Wij houden van Ruurlo",
+            "Wi-j hold van Reurle"
+        ],
+        [
+            "wij komen uit Brummen",
+            "wi-j komt uut Brumm'n"
+        ],
+        [
+            "Wil je matten",
+            "mo'j een mäöltjen op de pens"
+        ],
+        [
+            "Wil je op je donder krijgen",
+            "Mo'j un portie pitten"
+        ],
+        [
+            "wil je vechten?",
+            "heb ie juk an oe snuutjen?"
+        ],
+        [
+            "zal ik je een draai om de oren geven",
+            "Wol i'j ne ziege um de oarne, za'k ow 's un watjekou gevven?"
+        ],
+        [
+            "ze gaan scheiden",
+            "dee hebt 't nust onder n boom liggene"
+        ],
+        [
+            "Zet maar aan",
+            "Slinger maar an"
+        ],
+        [
+            "zichzelf onderplassen/poepen",
+            "zich bedoon (Ze hef zich bedoane) "
+        ],
+        [
+            "zij praat zonder blad voor de mond!",
+            "zi-j 's nie op 't küpke evall'n!, zi-j 's praot graove uut 'e bek."
+        ],
+        [
+            "zinloos werk",
+            "Met kniens en doeven köj't geld zien stoeven."
+        ],
+        [
+            "zinloze bezigheid",
+            "'n geetjen bozzen in de mangelenkoele"
+        ],
+        [
+            "zoek het uit",
+            "bekiek 't ow maor"
+        ],
+        [
+            "Zoenen",
+            "Brommers kiek'n"
+        ],
+        [
+            "zuinig aan, dan hou je wat over",
+            "Dunne pläkskes sniën, is 't behold van de wörste"
+        ]
+    ],
+    "words": [
+        [
+            " (trek) harmonica of diatonische accordeon",
+            "trekzak, trekbuul"
+        ],
+        [
+            "'s avonds",
+            "'s oavonds"
+        ],
+        [
+            "'s middags",
+            "'s noamedag's"
+        ],
+        [
+            "'s morgens",
+            "vömmedags, van vömmerdag"
+        ],
+        [
+            "'s ochtends vroeg",
+            "smargensvrog"
+        ],
+        [
+            "A"
+        ],
+        [
+            "Aalten en Dinxperlo",
+            "Aalt'n en Dinxper"
+        ],
+        [
+            "aangaan",
+            "angoan"
+        ],
+        [
+            "aangegeven",
+            "annegeven"
+        ],
+        [
+            "aangekomen",
+            "aangekomme, annekomm'n"
+        ],
+        [
+            "aangeven",
+            "angef'n, anlangen, \tangevven"
+        ],
+        [
+            "aanhanger",
+            "koare"
+        ],
+        [
+            "aanrecht",
+            "' t anrecht"
+        ],
+        [
+            "aanspreken",
+            "ansprekk'n"
+        ],
+        [
+            "aantal",
+            "een trop"
+        ],
+        [
+            "aantrekken",
+            "antiegen"
+        ],
+        [
+            "aanvegen",
+            "ankeer'n"
+        ],
+        [
+            "aap",
+            "oap"
+        ],
+        [
+            "aardappel",
+            "earappel, pieper"
+        ],
+        [
+            "aardappelmandje",
+            "Eerpelenmand"
+        ],
+        [
+            "aardappels",
+            "jeppels, eerdappels, earpels, piepers"
+        ],
+        [
+            "aardbei",
+            "eerdbeze, eerdbes, eardbêêze"
+        ],
+        [
+            "Achterhoek",
+            "graafschap\nachterhook"
+        ],
+        [
+            "adem",
+            "oasem"
+        ],
+        [
+            "ademen",
+            "oasemuh, oasem'n"
+        ],
+        [
+            "afkalven (koe) ",
+            "melk wödden"
+        ],
+        [
+            "afrastering",
+            "glind"
+        ],
+        [
+            "afslaan",
+            "afsloan"
+        ],
+        [
+            "alleen",
+            "alenig"
+        ],
+        [
+            "Allochtoon",
+            "buutenlander"
+        ],
+        [
+            "alpinopet",
+            "timmie"
+        ],
+        [
+            "als",
+            "ad, as, wen"
+        ],
+        [
+            "alvast",
+            "mangs"
+        ],
+        [
+            "amsterdammer",
+            "hippie"
+        ],
+        [
+            "angstig",
+            "spochterig"
+        ],
+        [
+            "armpjes",
+            "ermpkes, ermkes"
+        ],
+        [
+            "arrogant figuur / schreeuwlelijk",
+            "bölker"
+        ],
+        [
+            "arrogantie",
+            "aovermood"
+        ],
+        [
+            "asbak",
+            "askebak"
+        ],
+        [
+            "auto",
+            "wagen"
+        ],
+        [
+            "autosnelweg",
+            "autobaan"
+        ],
+        [
+            "avond",
+            "oavend"
+        ],
+        [
+            "avondschemering",
+            "oelenvloch, tweeduuster"
+        ],
+        [
+            "B"
+        ],
+        [
+            "Baak",
+            "Boak"
+        ],
+        [
+            "baard",
+            "board"
+        ],
+        [
+            "bagger",
+            "drek"
+        ],
+        [
+            "balk",
+            "biels"
+        ],
+        [
+            "balk",
+            "sliet"
+        ],
+        [
+            "bandiet",
+            "vlegel"
+        ],
+        [
+            "bangerik",
+            "skeitert, drietert, drietebuul, angsthaze"
+        ],
+        [
+            "bar",
+            "theeke, schap"
+        ],
+        [
+            "Bathmen",
+            "battem"
+        ],
+        [
+            "bbq",
+            "Scheuriezer"
+        ],
+        [
+            "Bed",
+            "bedde"
+        ],
+        [
+            "bedriegen",
+            "'n oor annaain"
+        ],
+        [
+            "beek",
+            "bekke"
+        ],
+        [
+            "beek (dorp) ",
+            "béék"
+        ],
+        [
+            "Beetje",
+            "Betjen, betken, fitsken"
+        ],
+        [
+            "begintijden",
+            "anvangstied`n"
+        ],
+        [
+            "begrafenis",
+            "begraffenisse, grove"
+        ],
+        [
+            "bekijks",
+            "bekieks"
+        ],
+        [
+            "bekvechten",
+            "eksteren, ekstern, praggelen"
+        ],
+        [
+            "ben",
+            "bun, bin"
+        ],
+        [
+            "ben je",
+            "buj"
+        ],
+        [
+            "benauwd, achter adem",
+            "poesterig"
+        ],
+        [
+            "bent",
+            "bunt"
+        ],
+        [
+            "benzine",
+            "peut"
+        ],
+        [
+            "betamen",
+            "heuren"
+        ],
+        [
+            "beter",
+            "better"
+        ],
+        [
+            "beven",
+            "buft"
+        ],
+        [
+            "bezem",
+            "bessem"
+        ],
+        [
+            "bieden",
+            "hendjebakk'n"
+        ],
+        [
+            "bier",
+            "pilsken"
+        ],
+        [
+            "bieten/suikerbieten",
+            "mangels"
+        ],
+        [
+            "big",
+            "keun, pogge"
+        ],
+        [
+            "biggetje",
+            "pöggesken, poetjen"
+        ],
+        [
+            "bij",
+            "bi'j"
+        ],
+        [
+            "bij het",
+            "bie`j"
+        ],
+        [
+            "bijl (korte)",
+            "akse / biele"
+        ],
+        [
+            "bijlsteel",
+            "elfte"
+        ],
+        [
+            "bijna",
+            "bie`nao, bi'jnoa, bekant, zwat"
+        ],
+        [
+            "bijten",
+            "biet'n"
+        ],
+        [
+            "bijverdienen",
+            "beun"
+        ],
+        [
+            "binnenkort",
+            "mangs"
+        ],
+        [
+            "binnenstebuiten",
+            "binnestebuutn, kronk, krange"
+        ],
+        [
+            "blaffen",
+            "blökk'n"
+        ],
+        [
+            "blazen",
+            "blöaz'n"
+        ],
+        [
+            "bleek",
+            "blas"
+        ],
+        [
+            "blij",
+            "brie,j bli-j"
+        ],
+        [
+            "blijf",
+            "blief"
+        ],
+        [
+            "blijven",
+            "blieven"
+        ],
+        [
+            "bliksem",
+            "weerlig, leuchten"
+        ],
+        [
+            "bloed",
+            "blood"
+        ],
+        [
+            "bloedworst",
+            "bloodbrood"
+        ],
+        [
+            "bloem",
+            "bloom"
+        ],
+        [
+            "bloemen",
+            "bluumkes, blömen"
+        ],
+        [
+            "bloesem",
+            "bleuiselblad"
+        ],
+        [
+            "Bluffen",
+            "Ow groter veurdoon da'j bunt"
+        ],
+        [
+            "bob",
+            "puust'nkop , meelop'rrok'r, oneff'nhied"
+        ],
+        [
+            "boek",
+            "book"
+        ],
+        [
+            "boer",
+            "buur"
+        ],
+        [
+            "boerderij",
+            "boerderi'je"
+        ],
+        [
+            "Boerenkool",
+            "Moes of Moos"
+        ],
+        [
+            "boerenkoolplant",
+            "boeskool"
+        ],
+        [
+            "bonensnijden",
+            "fietsen"
+        ],
+        [
+            "boodschappen",
+            "boskoppen"
+        ],
+        [
+            "boos",
+            "grammietig, grammieterig"
+        ],
+        [
+            "Borculo",
+            "Borklo"
+        ],
+        [
+            "bord",
+            "telder"
+        ],
+        [
+            "borden",
+            "telders"
+        ],
+        [
+            "borsten",
+            "mummen, tit 'n"
+        ],
+        [
+            "bos",
+            "loo"
+        ],
+        [
+            "bosbes",
+            "bikbeaze"
+        ],
+        [
+            "bosje",
+            "busken"
+        ],
+        [
+            "bosje bloemen",
+            "busken bloom"
+        ],
+        [
+            "boter",
+            "bötter"
+        ],
+        [
+            "boterham",
+            "stoete"
+        ],
+        [
+            "boterhammen",
+            "stutt'n"
+        ],
+        [
+            "Bowl (met vruchten) ",
+            "Proem'npap"
+        ],
+        [
+            "braam",
+            "brömmel"
+        ],
+        [
+            "Braamt",
+            "Broamp"
+        ],
+        [
+            "braden",
+            "broajen"
+        ],
+        [
+            "braken",
+            "achteruut et'n"
+        ],
+        [
+            "bramenstruik",
+            "brömmelstruuk"
+        ],
+        [
+            "Bredevoort",
+            "Brevoort"
+        ],
+        [
+            "Breedenbroek",
+            "Breembrook"
+        ],
+        [
+            "breken",
+            "break'n"
+        ],
+        [
+            "bretels",
+            "lichten, rippen"
+        ],
+        [
+            "brief",
+            "breef"
+        ],
+        [
+            "broek",
+            "boks, bokse,"
+        ],
+        [
+            "broekzak",
+            "noadzak, tesse, tuk"
+        ],
+        [
+            "broekzakken",
+            "tessen"
+        ],
+        [
+            "broer",
+            "breur"
+        ],
+        [
+            "brood",
+            "wegge/stoete"
+        ],
+        [
+            "broodje",
+            "breudje"
+        ],
+        [
+            "broodjes (wit) ",
+            "kadetjes"
+        ],
+        [
+            "broodkapje",
+            "knoef, meksk'n"
+        ],
+        [
+            "bruiloft",
+            "brulluf, brulfte, brullefte, broedlachte, \tbroedlacht, trouwmoal"
+        ],
+        [
+            "bruin",
+            "broen"
+        ],
+        [
+            "brutaal",
+            "freg, vreg"
+        ],
+        [
+            "buigen",
+            "büüg'n"
+        ],
+        [
+            "buik",
+            "boek"
+        ],
+        [
+            "buikloop",
+            "schöts"
+        ],
+        [
+            "buikpijn",
+            "piene in 't lief"
+        ],
+        [
+            "buil",
+            "bulte"
+        ],
+        [
+            "buis",
+            "buuz'n"
+        ],
+        [
+            "buiten",
+            "buut'n"
+        ],
+        [
+            "buiten (handbereik) ",
+            "buut'n"
+        ],
+        [
+            "buiten adem",
+            "achter'n oasem"
+        ],
+        [
+            "buitenlander",
+            "Dief"
+        ],
+        [
+            "buitenshuis",
+            "boet'n"
+        ],
+        [
+            "bunzing",
+            "ulk"
+        ],
+        [
+            "buren",
+            "noabers"
+        ],
+        [
+            "burenplicht",
+            "noaberplicht, noaberhulp"
+        ],
+        [
+            "burgemeester",
+            "bürgemeister"
+        ],
+        [
+            "bushokje",
+            "bushökske"
+        ],
+        [
+            "buurman",
+            "noaber"
+        ],
+        [
+            "buurtschap",
+            "noaberschop"
+        ],
+        [
+            "C"
+        ],
+        [
+            "caravan",
+            "slephutte, slepkukk'n"
+        ],
+        [
+            "castreren",
+            "lubben"
+        ],
+        [
+            "cervelaatworst",
+            "plokworst"
+        ],
+        [
+            "Chagerijnig",
+            "Knötterig"
+        ],
+        [
+            "clitorus",
+            "knupke"
+        ],
+        [
+            "cola",
+            "coolaa"
+        ],
+        [
+            "collectezak",
+            "pingelbuul"
+        ],
+        [
+            "composthoop",
+            "'n orthoop, mothoop"
+        ],
+        [
+            "computer",
+            "alles in 1 deusken"
+        ],
+        [
+            "D"
+        ],
+        [
+            "daag",
+            "tjuus/ ajuus"
+        ],
+        [
+            "daar",
+            "doar"
+        ],
+        [
+            "daarna",
+            "daornao"
+        ],
+        [
+            "Daarom",
+            "deurumme, durum"
+        ],
+        [
+            "dacht",
+            "dech, duch"
+        ],
+        [
+            "Dag",
+            "Tsjuus"
+        ],
+        [
+            "dal",
+            "delle"
+        ],
+        [
+            "dat",
+            "da"
+        ],
+        [
+            "dazen",
+            "blinzen"
+        ],
+        [
+            "de",
+            "den"
+        ],
+        [
+            "de rest",
+            "vriezeköttel"
+        ],
+        [
+            "deel",
+            "dèle/de delle/d'n deahl"
+        ],
+        [
+            "deeldeur",
+            "enddeur"
+        ],
+        [
+            "deelzolder",
+            "balkens"
+        ],
+        [
+            "deelzolder hooigat",
+            "balkensgat"
+        ],
+        [
+            "deelzolderopening",
+            "slobgat"
+        ],
+        [
+            "dekenkist",
+            "tuugkiste"
+        ],
+        [
+            "deksel",
+            "lit"
+        ],
+        [
+            "denneappel",
+            "fopel, fopels, fopers,"
+        ],
+        [
+            "Deugniet",
+            "ondoch, flankes, rodde"
+        ],
+        [
+            "deuk",
+            "foek, dutte"
+        ],
+        [
+            "deurknop",
+            "klink"
+        ],
+        [
+            "deze",
+            "disse"
+        ],
+        [
+            "diaree",
+            "loperi'j, knieperie`je, Peperienes"
+        ],
+        [
+            "dichterbij",
+            "kotterbi-j"
+        ],
+        [
+            "Didam",
+            "Diem, diiem, diiem"
+        ],
+        [
+            "Diepenheim",
+            "Deep'n"
+        ],
+        [
+            "dieren",
+            "beesten"
+        ],
+        [
+            "dijk",
+            "diek"
+        ],
+        [
+            "dik",
+            "m'rmol"
+        ],
+        [
+            "Dinxperlo",
+            "Dinxper"
+        ],
+        [
+            "Direct",
+            "Stieperstond"
+        ],
+        [
+            "distel",
+            "diesel"
+        ],
+        [
+            "Doei",
+            "Ajuus, Ajouw"
+        ],
+        [
+            "doek",
+            "plodde"
+        ],
+        [
+            "Doesburg",
+            "Smeerburg"
+        ],
+        [
+            "Doetinchem",
+            "Deutekom, Durkum"
+        ],
+        [
+            "dom",
+            "döllig"
+        ],
+        [
+            "dom praten",
+            "kwazzelen, tuttel'n"
+        ],
+        [
+            "Dom varken",
+            "pielente"
+        ],
+        [
+            "dom-dwaas",
+            "noffeleg"
+        ],
+        [
+            "domme kerel",
+            "osse"
+        ],
+        [
+            "domoor",
+            "dökkel"
+        ],
+        [
+            "donder",
+            "donner"
+        ],
+        [
+            "dood",
+            "de piepe uut egaone/ uut de tied gaon, t huuksken um egaone"
+        ],
+        [
+            "doodlopende weg",
+            "kloezediek"
+        ],
+        [
+            "doodskleed",
+            "henneklee"
+        ],
+        [
+            "door",
+            "deur"
+        ],
+        [
+            "doorgaan",
+            "vedan, deurdonderen"
+        ],
+        [
+            "doorgaande",
+            "deurgaonde"
+        ],
+        [
+            "doornat",
+            "drietenat"
+        ],
+        [
+            "doos",
+            "deuze"
+        ],
+        [
+            "dopje",
+            "döpken, düpken"
+        ],
+        [
+            "dorp",
+            "darp"
+        ],
+        [
+            "dorst",
+            "döst, dos"
+        ],
+        [
+            "downloaden",
+            "neerlaaien"
+        ],
+        [
+            "draad",
+            "droad"
+        ],
+        [
+            "draadjesvlees",
+            "fiedeltjesvleis"
+        ],
+        [
+            "draai",
+            "dreaj, draei"
+        ],
+        [
+            "draaien",
+            "draejen"
+        ],
+        [
+            "draaimolen",
+            "drillemolle, dreajschuutje, draeischutje"
+        ],
+        [
+            "drachtig",
+            "dragend"
+        ],
+        [
+            "drank (sterk) ",
+            "foezel"
+        ],
+        [
+            "drank halen",
+            "sloffen"
+        ],
+        [
+            "drie",
+            "dree, dri'j"
+        ],
+        [
+            "drinken (alchol)",
+            "zöttern, zoepen"
+        ],
+        [
+            "dromen",
+            "dreumen"
+        ],
+        [
+            "dronken",
+            "dikke, donne, zat"
+        ],
+        [
+            "droog",
+            "dröge"
+        ],
+        [
+            "dropje",
+            "dröpken"
+        ],
+        [
+            "druif",
+            "druuf"
+        ],
+        [
+            "druiven",
+            "droeven"
+        ],
+        [
+            "druktemaker",
+            "briggel"
+        ],
+        [
+            "duif",
+            "doeve"
+        ],
+        [
+            "duim",
+            "doem, duum"
+        ],
+        [
+            "Duitser",
+            "ne Pruus"
+        ],
+        [
+            "duitsland",
+            "pruusen"
+        ],
+        [
+            "Duiven",
+            "duuve"
+        ],
+        [
+            "duizend",
+            "Duuzend, doezend"
+        ],
+        [
+            "dun",
+            "schrao"
+        ],
+        [
+            "Dun, iel",
+            "meeps"
+        ],
+        [
+            "dunkt",
+            "duch"
+        ],
+        [
+            "durven",
+            "woagen"
+        ],
+        [
+            "E"
+        ],
+        [
+            "editie",
+            "keditie"
+        ],
+        [
+            "Eekhoorn",
+            "Kateeker"
+        ],
+        [
+            "eelt",
+            "zwil"
+        ],
+        [
+            "een",
+            "'n"
+        ],
+        [
+            "een besmettelijke veeziekte",
+            "zuchteri'je"
+        ],
+        [
+            "eend",
+            "ante, pielente"
+        ],
+        [
+            "eenden",
+            "pielen"
+        ],
+        [
+            "eg",
+            "eide"
+        ],
+        [
+            "egel",
+            "stekkelverk'n"
+        ],
+        [
+            "eggen",
+            "sligten"
+        ],
+        [
+            "Eibergen",
+            "Eibadd'n, Eibarge, \twaterrot'n"
+        ],
+        [
+            "eieren",
+            "eijer"
+        ],
+        [
+            "eigenwijs iemand",
+            "Nöthaok, praggel"
+        ],
+        [
+            "eigenzinnig mens",
+            "draodnägel"
+        ],
+        [
+            "eind verder",
+            "gunn'nopper"
+        ],
+        [
+            "Elastiekje",
+            "Piekje, rekkie"
+        ],
+        [
+            "enorm",
+            "alderbastend"
+        ],
+        [
+            "er",
+            "d'r"
+        ],
+        [
+            "er wild uitzien",
+            "bluisterig"
+        ],
+        [
+            "erbij",
+            "durbi'j"
+        ],
+        [
+            "erf",
+            "arf"
+        ],
+        [
+            "erg",
+            "arg, slim"
+        ],
+        [
+            "erg donker",
+            "potduuster"
+        ],
+        [
+            "ernaast",
+            "derneaven"
+        ],
+        [
+            "eromheen",
+            "ummetoe"
+        ],
+        [
+            "erwtensoep",
+            "arfensoep"
+        ],
+        [
+            "eventjes",
+            "efkes, un hötjen"
+        ],
+        [
+            "expres",
+            "extra"
+        ],
+        [
+            "F"
+        ],
+        [
+            "failliet (bij kaartspel) ",
+            "bos"
+        ],
+        [
+            "feesten",
+            "daldeejen, buiz,n"
+        ],
+        [
+            "fiets",
+            "fietse, rabat"
+        ],
+        [
+            "Fietsen",
+            "Foeksen"
+        ],
+        [
+            "fijn achterblijfsel in bv. hooi",
+            "moksel"
+        ],
+        [
+            "fijntjes kauwen",
+            "knewwelen"
+        ],
+        [
+            "Fizzeken",
+            "Goa'j met hen blomm'n pluk k 'n"
+        ],
+        [
+            "fluisteren",
+            "Smiespel'n, fluuster'n"
+        ],
+        [
+            "fluit",
+            "fluite"
+        ],
+        [
+            "framboos",
+            "hennebes"
+        ],
+        [
+            "frituurpan",
+            "frietkettel"
+        ],
+        [
+            "Futloos",
+            "Foel"
+        ],
+        [
+            "G"
+        ],
+        [
+            "ga",
+            "goa"
+        ],
+        [
+            "Gaan",
+            "Goan"
+        ],
+        [
+            "Gaat",
+            " Geet "
+        ],
+        [
+            "gat (achterste) ",
+            "vazel"
+        ],
+        [
+            "gebeten",
+            "e-betten"
+        ],
+        [
+            "Gebonden graan halmen met zaad",
+            "Garven"
+        ],
+        [
+            "geboren",
+            "geboorne"
+        ],
+        [
+            "gecastreerde beer (varken) ",
+            "barg"
+        ],
+        [
+            "gedrocht",
+            "schrötte"
+        ],
+        [
+            "gedroogde ham",
+            "nägelholt"
+        ],
+        [
+            "geel",
+            "geal"
+        ],
+        [
+            "geen",
+            "gin"
+        ],
+        [
+            "geerfd",
+            "georven"
+        ],
+        [
+            "gefeliciteerd",
+            "gefeliciteed"
+        ],
+        [
+            "gehemelte",
+            "gehöl, goagel"
+        ],
+        [
+            "gek",
+            "onwies"
+        ],
+        [
+            "geld",
+            "flappen"
+        ],
+        [
+            "gelijk",
+            "geliek, lieke"
+        ],
+        [
+            "geloven",
+            "geleuven"
+        ],
+        [
+            "Gelselaar",
+            "Gelster"
+        ],
+        [
+            "Gemoedelijk",
+            "Gemuudelijk"
+        ],
+        [
+            "genoeg",
+            "genög"
+        ],
+        [
+            "gepruts",
+            "getuntel"
+        ],
+        [
+            "gerst",
+            "gaste"
+        ],
+        [
+            "gestadig/ferm",
+            "steadig"
+        ],
+        [
+            "getuigen",
+            "getuugen"
+        ],
+        [
+            "gevonden",
+            "'evund'n"
+        ],
+        [
+            "geweest",
+            "gewes"
+        ],
+        [
+            "geweldig",
+            "onmundig"
+        ],
+        [
+            "gezicht",
+            "gevret"
+        ],
+        [
+            "gier",
+            "aalt, ale"
+        ],
+        [
+            "glaasje",
+            "gläësken"
+        ],
+        [
+            "glad",
+            "schamperig"
+        ],
+        [
+            "glasraam",
+            "een roet"
+        ],
+        [
+            "gloeiend",
+            "gleunig, glên"
+        ],
+        [
+            "goed",
+            "good, mot"
+        ],
+        [
+            "goedemorgen",
+            "goeiemarregen, moi"
+        ],
+        [
+            "goedendag",
+            "goeiendag eem"
+        ],
+        [
+            "gootsteen",
+            "geutsteen"
+        ],
+        [
+            "gordijn",
+            "gedien"
+        ],
+        [
+            "gordijnen",
+            "gediene"
+        ],
+        [
+            "goud",
+            "gold"
+        ],
+        [
+            "goudreinet",
+            "rabauw"
+        ],
+        [
+            "Graafschap",
+            "Superboeren"
+        ],
+        [
+            "Graag",
+            "Da mag wel, geerne"
+        ],
+        [
+            "graanschuur",
+            "spieker"
+        ],
+        [
+            "gracht",
+            "grafte, verrabezakt"
+        ],
+        [
+            "Grappenmaker",
+            "Potsenmaker"
+        ],
+        [
+            "gras",
+            "gres, grös"
+        ],
+        [
+            "greep",
+            "greppe"
+        ],
+        [
+            "grens",
+            "geut"
+        ],
+        [
+            "grieperig",
+            "vrustereg"
+        ],
+        [
+            "groen",
+            "grúún"
+        ],
+        [
+            "groenlo",
+            "Groll, grolle"
+        ],
+        [
+            "groente",
+            "gruunte"
+        ],
+        [
+            "grond",
+            "groond"
+        ],
+        [
+            "grondbak",
+            "bussenbak, lumme"
+        ],
+        [
+            "groot",
+            "joekel"
+        ],
+        [
+            "groot massief stuk",
+            "bonke"
+        ],
+        [
+            "groot stuk (b.v. kaas) ",
+            "hompe keeze"
+        ],
+        [
+            "grootmoeder",
+            "grotmoo, meuje"
+        ],
+        [
+            "grote hoop stro",
+            "viemhoop"
+        ],
+        [
+            "H"
+        ],
+        [
+            "haaksbergen",
+            "Hoxebargen"
+        ],
+        [
+            "haar",
+            "heur, eur"
+        ],
+        [
+            "haarroos",
+            "skin"
+        ],
+        [
+            "haast maken",
+            "empen"
+        ],
+        [
+            "hagedis",
+            "èverdasse"
+        ],
+        [
+            "hakmes",
+            "iep"
+        ],
+        [
+            "half volwassen",
+            "halfwas"
+        ],
+        [
+            "hallo",
+            "goeiendag eem, mai, moj"
+        ],
+        [
+            "ham (gedroogde) ",
+            "schinke"
+        ],
+        [
+            "handschoen",
+            "haandske"
+        ],
+        [
+            "handschoenen",
+            "handsen"
+        ],
+        [
+            "handvol",
+            "fosse"
+        ],
+        [
+            "hard fietsen",
+            "knaeien"
+        ],
+        [
+            "hard lopen",
+            "Päöl’n, naegeln"
+        ],
+        [
+            "hard vallen",
+            "plaer'n"
+        ],
+        [
+            "Hard werken",
+            "özen"
+        ],
+        [
+            "Harde trap geven (voetbal)",
+            "Poets'n, pleer'n"
+        ],
+        [
+            "harde werker",
+            "euzerd"
+        ],
+        [
+            "hardlopen, rennen",
+            "gasken"
+        ],
+        [
+            "haring",
+            "hering"
+        ],
+        [
+            "Harmonica",
+            "Trekzak"
+        ],
+        [
+            "Harreveld",
+            "Harvele"
+        ],
+        [
+            "heb",
+            "he'j"
+        ],
+        [
+            "hee",
+            "moi"
+        ],
+        [
+            "heeft",
+            "heft, hef"
+        ],
+        [
+            "heel graag",
+            "liedensgeerne"
+        ],
+        [
+            "heel klein",
+            "mietereg"
+        ],
+        [
+            "Heelweg",
+            "Haelweg"
+        ],
+        [
+            "heen geweest",
+            "hennewes"
+        ],
+        [
+            "heet",
+            "heit, heite"
+        ],
+        [
+            "heide",
+            "heet"
+        ],
+        [
+            "hel",
+            "hölle"
+        ],
+        [
+            "Helemaal",
+            "Kats"
+        ],
+        [
+            "helemaal uit je dak gaan",
+            "Høken"
+        ],
+        [
+            "hem",
+            "um"
+        ],
+        [
+            "hemel",
+            "zwark"
+        ],
+        [
+            "Hengelo",
+            "Hengel"
+        ],
+        [
+            "herenboer",
+            "scholteboer"
+        ],
+        [
+            "herfst",
+            "harfs"
+        ],
+        [
+            "herkauwen",
+            "neerkewen"
+        ],
+        [
+            "hermafrodiet",
+            "kwenne"
+        ],
+        [
+            "Het doet mij niets",
+            "Ut stök mien niks"
+        ],
+        [
+            "heuvel",
+            "bult, barg"
+        ],
+        [
+            "hiernaast",
+            "hier neave"
+        ],
+        [
+            "hij",
+            "hi-j"
+        ],
+        [
+            "hijgen (zwaar) ",
+            "boekslagen"
+        ],
+        [
+            "Hitte",
+            "Hette"
+        ],
+        [
+            "Ho maar!",
+            "Juu"
+        ],
+        [
+            "hobby",
+            "leefhebberieje"
+        ],
+        [
+            "hoek",
+            "timp, timpe"
+        ],
+        [
+            "hoekje",
+            "huukske"
+        ],
+        [
+            "hoer/prostituee",
+            "drel"
+        ],
+        [
+            "hoesten",
+            "blökk'n, kwagg'n"
+        ],
+        [
+            "hond",
+            "keuter, joekel"
+        ],
+        [
+            "hondje",
+            "hundj'n"
+        ],
+        [
+            "Honger",
+            "Smag"
+        ],
+        [
+            "hoofd",
+            "kop, hasses"
+        ],
+        [
+            "hoofdpijn",
+            "koppien"
+        ],
+        [
+            "Hooi",
+            "Heuj"
+        ],
+        [
+            "hooien",
+            "heujen"
+        ],
+        [
+            "hooitransportopening",
+            "slobgat"
+        ],
+        [
+            "hooivork",
+            "gavel"
+        ],
+        [
+            "hoorde",
+            "heurd`n"
+        ],
+        [
+            "hoornaar",
+            "hoorntjen, höörntje, honte"
+        ],
+        [
+            "hoort",
+            "heurt"
+        ],
+        [
+            "hopen",
+            "hopt"
+        ],
+        [
+            "horzels",
+            "blinde hazen, blinzen"
+        ],
+        [
+            "houd",
+            "hold"
+        ],
+        [
+            "houden",
+            "hollen"
+        ],
+        [
+            "hout",
+            "holt"
+        ],
+        [
+            "houten plaat",
+            "bret"
+        ],
+        [
+            "houthakker",
+            "bielleman, bielekearl"
+        ],
+        [
+            "houtmijt",
+            "bussemiete"
+        ],
+        [
+            "houtzagerij",
+            "holtzagerieje"
+        ],
+        [
+            "huilen",
+            "rear'n, liepen, huul,n, janken, blêren"
+        ],
+        [
+            "huis",
+            "hoes, huus"
+        ],
+        [
+            "huishouding",
+            "huusholding"
+        ],
+        [
+            "huisje",
+            "huusken"
+        ],
+        [
+            "humeurig",
+            "nosterig"
+        ],
+        [
+            "Hummelo",
+            "Hummel"
+        ],
+        [
+            "hun",
+            "hulle"
+        ],
+        [
+            "I"
+        ],
+        [
+            "i-pod",
+            "muziekspöller"
+        ],
+        [
+            "ietsjes",
+            "un-bitje, neuzegatvol"
+        ],
+        [
+            "ijs",
+            "ies"
+        ],
+        [
+            "ijsberen (lopen) ",
+            "bizzen"
+        ],
+        [
+            "ijzer",
+            "iezer"
+        ],
+        [
+            "ijzergieterij",
+            "de hut"
+        ],
+        [
+            "ijzerlo",
+            "d'n nestiezern"
+        ],
+        [
+            "ik",
+            "igs"
+        ],
+        [
+            "J"
+        ],
+        [
+            "ja",
+            "joa"
+        ],
+        [
+            "jaar",
+            "joar"
+        ],
+        [
+            "Jammer",
+            "Sunt [hé]"
+        ],
+        [
+            "jarig",
+            "jeurig"
+        ],
+        [
+            "jazeker",
+            "meen ej"
+        ],
+        [
+            "je",
+            "ie, o`w, i'j"
+        ],
+        [
+            "je niet goed voelen",
+            "sloerig"
+        ],
+        [
+            "Jenever",
+            "Voezel"
+        ],
+        [
+            "jeuk",
+            "Jök, jük"
+        ],
+        [
+            "jeukt",
+            "jukt"
+        ],
+        [
+            "jezelf",
+            "oezelf"
+        ],
+        [
+            "jij",
+            "ie, gij, i'j"
+        ],
+        [
+            "joch",
+            "blaag"
+        ],
+        [
+            "jongen",
+            "Blornie"
+        ],
+        [
+            "jongetje",
+            "bözzel, Jönksken"
+        ],
+        [
+            "jou/jij/je",
+            "du"
+        ],
+        [
+            "jouw",
+            "ow"
+        ],
+        [
+            "juist",
+            "krek"
+        ],
+        [
+            "jullie",
+            "owluu, gillie, I-jluu"
+        ],
+        [
+            "jurk",
+            "kleed"
+        ],
+        [
+            "jus",
+            "dip"
+        ],
+        [
+            "K"
+        ],
+        [
+            "K.i. insimenator",
+            "motorbolle"
+        ],
+        [
+            "kaars",
+            "kearse"
+        ],
+        [
+            "kaas",
+            "keeze"
+        ],
+        [
+            "kalfje",
+            "kieseman, pink"
+        ],
+        [
+            "kalverweide",
+            "pinkenweide"
+        ],
+        [
+            "kamille (matricaria) ",
+            "hemdekneupe"
+        ],
+        [
+            "kamper",
+            "kistjeskeal"
+        ],
+        [
+            "Kanker",
+            "dun op de mest"
+        ],
+        [
+            "kanourn",
+            "blorn"
+        ],
+        [
+            "kapot maken",
+            "brekken, verrommenieren, \tvernaggelen"
+        ],
+        [
+            "karretje",
+            "keurk'n"
+        ],
+        [
+            "Kater hebben",
+            "Sloerig in de rakker"
+        ],
+        [
+            "keel schrapen",
+            "kwalsken"
+        ],
+        [
+            "kerel",
+            "keerl, koel, kearl"
+        ],
+        [
+            "kerels",
+            "kèrls"
+        ],
+        [
+            "kerk",
+            "kärke, karke"
+        ],
+        [
+            "kermis",
+            "karmse, karmisse"
+        ],
+        [
+            "kers",
+            "Kars"
+        ],
+        [
+            "kerst (mis) ",
+            "kas (mis) "
+        ],
+        [
+            "Kerstavond",
+            "dikke frets oavend"
+        ],
+        [
+            "kerstboom",
+            "prüttelbeumke"
+        ],
+        [
+            "ketjesoavend",
+            "Ulvenhoutsebos"
+        ],
+        [
+            "kettingzaag",
+            "knetterbiele"
+        ],
+        [
+            "keuken",
+            "köken, kukken"
+        ],
+        [
+            "keuterboer",
+            "köttelboerk`n"
+        ],
+        [
+            "keuvelen",
+            "kuiern"
+        ],
+        [
+            "kieskeurig",
+            "tiems"
+        ],
+        [
+            "kiespijn",
+            "kiespiene"
+        ],
+        [
+            "Kievit",
+            "Kiefte"
+        ],
+        [
+            "kiezen",
+            "koezen"
+        ],
+        [
+            "kijk",
+            "kiek"
+        ],
+        [
+            "kijken",
+            "kiek'n"
+        ],
+        [
+            "kikkervisjes",
+            "dikköppe"
+        ],
+        [
+            "kind",
+            "Broetlachte"
+        ],
+        [
+            "Kind (eren) ",
+            "bern (oetsproake: bean) "
+        ],
+        [
+            "Kinderen",
+            "Kinder, blagen"
+        ],
+        [
+            "kip",
+            "henne, tute, tuute"
+        ],
+        [
+            "kippen",
+            "hoonder, tuten"
+        ],
+        [
+            "kippenluik",
+            "tuuteluuk"
+        ],
+        [
+            "kippenvel",
+            "hoonderhoed, tutenvel"
+        ],
+        [
+            "klaar",
+            "kloar"
+        ],
+        [
+            "klagen",
+            "steend'n, nøhlen"
+        ],
+        [
+            "kleding",
+            "kleren"
+        ],
+        [
+            "kleine kinderen",
+            "potstempels"
+        ],
+        [
+            "kleine veelal hoekvormige weide",
+            "timpe"
+        ],
+        [
+            "kleine wervelwind",
+            "vaezeköttel"
+        ],
+        [
+            "kletsen (onzinnig ) ",
+            "töttelen"
+        ],
+        [
+            "kletskous",
+            "reerbek"
+        ],
+        [
+            "klodder",
+            "kladde"
+        ],
+        [
+            "klokhuis",
+            "kroaze"
+        ],
+        [
+            "klompen",
+            "klômpe, klömp"
+        ],
+        [
+            "klompjes",
+            "klumpkes"
+        ],
+        [
+            "klontje",
+            "kloete, löntjen"
+        ],
+        [
+            "kluis",
+            "kloezen"
+        ],
+        [
+            "kluis",
+            "endelschriene"
+        ],
+        [
+            "knagende hoofdpijn",
+            "sjoekeri-je"
+        ],
+        [
+            "Knakworst",
+            "Knekwürste"
+        ],
+        [
+            "knie",
+            "knee"
+        ],
+        [
+            "knijpen",
+            "kniep'n"
+        ],
+        [
+            "knoeien",
+            "smauzen, zauwen"
+        ],
+        [
+            "knoeipiet",
+            "slampkepeter"
+        ],
+        [
+            "knoeipot",
+            "sopkeune"
+        ],
+        [
+            "knoop (aan jas) ",
+            "knoop"
+        ],
+        [
+            "knoop (touw) ",
+            "Knuppe"
+        ],
+        [
+            "knorrig",
+            "nuttellig"
+        ],
+        [
+            "koe",
+            "ko"
+        ],
+        [
+            "koe krijgt kalf",
+            "melk wordn"
+        ],
+        [
+            "koeien",
+            "beest'n"
+        ],
+        [
+            "koeien",
+            "koone, beeste"
+        ],
+        [
+            "koek",
+            "kooke"
+        ],
+        [
+            "Koekje",
+            "Möpke, plesken, keuksk'n, \tkuukske"
+        ],
+        [
+            "kofferbak",
+            "kattebak"
+        ],
+        [
+            "koffieprut",
+            "zodde, zorre"
+        ],
+        [
+            "koken",
+            "kokken"
+        ],
+        [
+            "kolenhok",
+            "gruushok"
+        ],
+        [
+            "kolenkit",
+            "gruustuite"
+        ],
+        [
+            "kom er aan",
+            "an t"
+        ],
+        [
+            "komen",
+            "komm'n, komme"
+        ],
+        [
+            "kommetje",
+            "Kumken, kummek`n"
+        ],
+        [
+            "komt",
+            "kump"
+        ],
+        [
+            "Konijn",
+            "Knien"
+        ],
+        [
+            "konijnen",
+            "kniens"
+        ],
+        [
+            "Koningin",
+            "Kun'jin"
+        ],
+        [
+            "kooi",
+            "kauwe"
+        ],
+        [
+            "kook",
+            "kaok"
+        ],
+        [
+            "kool",
+            "kabbus"
+        ],
+        [
+            "Koolmees",
+            "Schietintvuur"
+        ],
+        [
+            "koper",
+            "koaper"
+        ],
+        [
+            "koper (metaal) ",
+            "kopper"
+        ],
+        [
+            "kopje",
+            "kupke, köpke"
+        ],
+        [
+            "korenschoven",
+            "Gedörste garven"
+        ],
+        [
+            "Korst",
+            "Makje"
+        ],
+        [
+            "Kortebroek",
+            "Korteboks"
+        ],
+        [
+            "kotsen/spugen",
+            "spaoien, jensen"
+        ],
+        [
+            "koud",
+            "kold"
+        ],
+        [
+            "koude",
+            "kelte, kolde"
+        ],
+        [
+            "koudig",
+            "kollig"
+        ],
+        [
+            "kraai",
+            "kraeje"
+        ],
+        [
+            "kraambezoek doen",
+            "kroamschudd'n"
+        ],
+        [
+            "kraamschudden",
+            "kraomschudden"
+        ],
+        [
+            "krabben",
+            "skuiken"
+        ],
+        [
+            "krekel",
+            "iemken"
+        ],
+        [
+            "krentenbrood",
+            "krintewegge, pillewegge"
+        ],
+        [
+            "kriegel",
+            "kregg'l"
+        ],
+        [
+            "krielaardappel",
+            "smörkes"
+        ],
+        [
+            "krijg",
+            "krieg"
+        ],
+        [
+            "krijgen",
+            "kriegn"
+        ],
+        [
+            "krijgt",
+            "kriegt"
+        ],
+        [
+            "kruik",
+            "kruuk"
+        ],
+        [
+            "kruin",
+            "hANETRAD"
+        ],
+        [
+            "kruipen",
+            "kroep'n"
+        ],
+        [
+            "kruisbes",
+            "stekkelbêze"
+        ],
+        [
+            "kruisbessen",
+            "stekkebaezen"
+        ],
+        [
+            "kruisje",
+            "kruusken"
+        ],
+        [
+            "kruiwagen",
+            "krujwagen, schoefkoare, koare"
+        ],
+        [
+            "kuiken",
+            "kuuk'n"
+        ],
+        [
+            "kuikentje",
+            "tieksk'n, tieksken"
+        ],
+        [
+            "kuil",
+            "koele"
+        ],
+        [
+            "kuilvoer",
+            "persvoer"
+        ],
+        [
+            "Kun",
+            "kúnt"
+        ],
+        [
+            "kusje geven",
+            "Speksnoeten"
+        ],
+        [
+            "kut",
+            "an"
+        ],
+        [
+            "kwaad",
+            "kwoad, mieterig, giftig, hellig"
+        ],
+        [
+            "kwajongens",
+            "buuls, bözzels"
+        ],
+        [
+            "kwalijk nemen",
+            "kwelleke nemmen"
+        ],
+        [
+            "kwaljongens",
+            "buuls"
+        ],
+        [
+            "kweekgras",
+            "kwekk'n"
+        ],
+        [
+            "Kwijt",
+            "Kwiet"
+        ],
+        [
+            "kwijt/onvindbaar",
+            "in de floriebôs"
+        ],
+        [
+            "kwikstaart",
+            "bouwmeister"
+        ],
+        [
+            "kwikstaartje",
+            "ploogdriever"
+        ],
+        [
+            "L"
+        ],
+        [
+            "laan (straatje) ",
+            "loan"
+        ],
+        [
+            "laars",
+            "steffel, stiefel"
+        ],
+        [
+            "Laarzen",
+            "Stieffels, leerzen"
+        ],
+        [
+            "laat het gaan, doe er niks op uit",
+            "loat 't hen drieten lopen"
+        ],
+        [
+            "laatst",
+            "kots"
+        ],
+        [
+            "laatste",
+            "leste, letsten"
+        ],
+        [
+            "ladder",
+            "lere, ledder, leer"
+        ],
+        [
+            "Ladder (in de kous) ",
+            "Reup"
+        ],
+        [
+            "lam",
+            "brak"
+        ],
+        [
+            "landafscheiding",
+            "vrogte"
+        ],
+        [
+            "langpootmug",
+            "heuiwaag'n"
+        ],
+        [
+            "langzaam",
+            "drao"
+        ],
+        [
+            "langzaam gaan",
+            "da geet as dikke stront deur den trechter"
+        ],
+        [
+            "lanterfanten",
+            "strunkebroann"
+        ],
+        [
+            "Laren",
+            "Loarne"
+        ],
+        [
+            "laten",
+            "loaten"
+        ],
+        [
+            "leeftijd",
+            "leaftied"
+        ],
+        [
+            "leeg",
+            "läöge, gust, leug"
+        ],
+        [
+            "lelijke oude vrouw",
+            "foekvel"
+        ],
+        [
+            "lianne",
+            "eekheur'nke"
+        ],
+        [
+            "Lichtenvoorde",
+            "Lechtenvore"
+        ],
+        [
+            "Lichtenvoordenaar",
+            "Keienslöpper"
+        ],
+        [
+            "lieveheersbeestje",
+            "zunnekuuksken"
+        ],
+        [
+            "Lievelde",
+            "Leevelde"
+        ],
+        [
+            "lijn",
+            "lien"
+        ],
+        [
+            "lijntje",
+            "lientje"
+        ],
+        [
+            "Lijster",
+            "Liester"
+        ],
+        [
+            "linnenverkoper",
+            "todden"
+        ],
+        [
+            "litteken",
+            "liekstea"
+        ],
+        [
+            "Lochem",
+            "Koolhaas"
+        ],
+        [
+            "loeien",
+            "bleren"
+        ],
+        [
+            "loltrappen",
+            "höken"
+        ],
+        [
+            "lompe vrouw",
+            "pollesoeze"
+        ],
+        [
+            "loods",
+            "loaze"
+        ],
+        [
+            "loopt",
+            "löp"
+        ],
+        [
+            "lopen",
+            "gaon"
+        ],
+        [
+            "lucht",
+            "loch"
+        ],
+        [
+            "Lucifer",
+            "Striekhöltje, striekwéfel"
+        ],
+        [
+            "lucifers",
+            "strieksweavels"
+        ],
+        [
+            "Lui",
+            "Foel, leu"
+        ],
+        [
+            "luid klagen",
+            "lammetearn"
+        ],
+        [
+            "luik",
+            "loek"
+        ],
+        [
+            "Luilak",
+            "Strunkenbroajer"
+        ],
+        [
+            "Luisteren",
+            "Luusteren"
+        ],
+        [
+            "lukken",
+            "lukk'n"
+        ],
+        [
+            "M"
+        ],
+        [
+            "maal",
+            "moal"
+        ],
+        [
+            "maaltijd",
+            "moaltied, möältjen"
+        ],
+        [
+            "maan",
+            "moan"
+        ],
+        [
+            "Maandag",
+            "Moandag"
+        ],
+        [
+            "maandagmorgen",
+            "maondagmargen"
+        ],
+        [
+            "maar",
+            " moar "
+        ],
+        [
+            "maar ik heb geen zin",
+            "anstelln"
+        ],
+        [
+            "maart",
+            "meert"
+        ],
+        [
+            "machtig voedsel",
+            "zaedig, zedig"
+        ],
+        [
+            "mand",
+            "ben, benne"
+        ],
+        [
+            "manieren",
+            "mennoten"
+        ],
+        [
+            "Mannetje",
+            "Mansluu / Kjels"
+        ],
+        [
+            "marskramer",
+            "kiepenkeal"
+        ],
+        [
+            "masseur",
+            "knokkezetter"
+        ],
+        [
+            "max",
+            "berkelpl'ank, b'rklplanl"
+        ],
+        [
+            "Medicijnen",
+            "millesienen"
+        ],
+        [
+            "meevallen",
+            "toeevallen"
+        ],
+        [
+            "meisje",
+            "deerntje, deerntj`n, deerne, deern, eerntjen, dirn, wichtke"
+        ],
+        [
+            "meisje (mooi) ",
+            "gööje"
+        ],
+        [
+            "meisje/jonge vrouw",
+            "deerntjen"
+        ],
+        [
+            "meisjes",
+            "wichter"
+        ],
+        [
+            "Mensen",
+            "Luu"
+        ],
+        [
+            "merel",
+            "gietling, giet (e) ling, geteling, geeteling"
+        ],
+        [
+            "Mes",
+            "Knief"
+        ],
+        [
+            "mest tank",
+            "ale koare"
+        ],
+        [
+            "mest uitrijden op het land",
+            "aalt vaar'n, ale veuren"
+        ],
+        [
+            "mest-stal binnen in de boerderij",
+            "vaalt-stal"
+        ],
+        [
+            "met moeite lopen",
+            "schraggeln"
+        ],
+        [
+            "meteen",
+            "gelieks / dereks / d'rek, dreks"
+        ],
+        [
+            "metworst",
+            "dreugewos"
+        ],
+        [
+            "middag",
+            "n'umdag"
+        ],
+        [
+            "middagslaap",
+            "effen in de pette kiek'n"
+        ],
+        [
+            "mier",
+            "miegempe, michamp, empe, miegamp"
+        ],
+        [
+            "mieren",
+            "kiemelekamels, empen, miegamp,n"
+        ],
+        [
+            "mijn",
+            "mien"
+        ],
+        [
+            "min",
+            "mieze"
+        ],
+        [
+            "mislukkeling",
+            "kneus"
+        ],
+        [
+            "modder",
+            "drek"
+        ],
+        [
+            "moderne",
+            "nieje moodse"
+        ],
+        [
+            "moeder",
+            "mooder, moo, moet, moer"
+        ],
+        [
+            "moeizaam lopen",
+            "schraggelen"
+        ],
+        [
+            "moeras",
+            "broock, zomp"
+        ],
+        [
+            "moest",
+            "svh"
+        ],
+        [
+            "moet",
+            "moi"
+        ],
+        [
+            "moeten",
+            "motten"
+        ],
+        [
+            "mol",
+            "geure, weule,, wule"
+        ],
+        [
+            "molen",
+            "mölle"
+        ],
+        [
+            "molenaar",
+            "mölder"
+        ],
+        [
+            "molshoop",
+            "weul'nhoop"
+        ],
+        [
+            "mooi",
+            "skier, sköne"
+        ],
+        [
+            "mopperen",
+            "neulen, nösteren"
+        ],
+        [
+            "mopperpot",
+            "nösterpot"
+        ],
+        [
+            "morgen",
+            "maan, margen, moan"
+        ],
+        [
+            "motorzaag",
+            "knetterbiele"
+        ],
+        [
+            "mountain-bike",
+            "bargfietse"
+        ],
+        [
+            "muggenzifter",
+            "pieneköttel"
+        ],
+        [
+            "muis",
+            "moes"
+        ],
+        [
+            "muizen",
+            "muuze, moez`n"
+        ],
+        [
+            "N"
+        ],
+        [
+            "naar",
+            "noar"
+        ],
+        [
+            "naast",
+            "noast, naeven"
+        ],
+        [
+            "naaste buurman",
+            "noasten noaber"
+        ],
+        [
+            "nageboorte",
+            "voel (lange oe) "
+        ],
+        [
+            "nagel",
+            "neag'l"
+        ],
+        [
+            "nagelhout",
+            "neagelholt"
+        ],
+        [
+            "nakomeling",
+            "nustekötjen"
+        ],
+        [
+            "naloopt",
+            "naolöp"
+        ],
+        [
+            "nauwelijks",
+            "kwelleke"
+        ],
+        [
+            "nauwkeurig",
+            "fimmelig"
+        ],
+        [
+            "nederlandse taal",
+            "hoog hollands"
+        ],
+        [
+            "nee",
+            "ne,  jao jao"
+        ],
+        [
+            "Nee",
+            "Ne"
+        ],
+        [
+            "Neede",
+            "Nee, Neee. Neede"
+        ],
+        [
+            "negen",
+            "neggene"
+        ],
+        [
+            "nek",
+            "nack"
+        ],
+        [
+            "nergens",
+            "nörges, nans"
+        ],
+        [
+            "nestkuiken",
+            "nestedulleken"
+        ],
+        [
+            "netjes",
+            "sjiek, kant"
+        ],
+        [
+            "niet",
+            "neet"
+        ],
+        [
+            "Niet gespannen.",
+            "Slok."
+        ],
+        [
+            "Nieuw-Dijk",
+            "Ni-j-Diek"
+        ],
+        [
+            "nieuwsgierig",
+            "ni-jsgierig"
+        ],
+        [
+            "Nijdig",
+            "Niedig, hellig"
+        ],
+        [
+            "nijnagel",
+            "reupe"
+        ],
+        [
+            "nijptang",
+            "knieptange"
+        ],
+        [
+            "nodig",
+            "neudig"
+        ],
+        [
+            "noemen",
+            "nuumt"
+        ],
+        [
+            "Noordijk",
+            "Noarik"
+        ],
+        [
+            "noten",
+            "nöt'n"
+        ],
+        [
+            "nu",
+            "now, no"
+        ],
+        [
+            "O"
+        ],
+        [
+            "ochtend",
+            "v'umdag"
+        ],
+        [
+            "ochtendmist",
+            "vrogmisse"
+        ],
+        [
+            "olie",
+            "Öllie"
+        ],
+        [
+            "oliebol",
+            "ölliekrabbe"
+        ],
+        [
+            "olielampje",
+            "Öllielämpken"
+        ],
+        [
+            "om",
+            "umme"
+        ],
+        [
+            "omruilen",
+            "ummebuten"
+        ],
+        [
+            "omvatten",
+            "umvatten"
+        ],
+        [
+            "omzagen",
+            "dale zagen"
+        ],
+        [
+            "onbenul",
+            "brekkebeen"
+        ],
+        [
+            "ongedurig iemand",
+            "empenstat"
+        ],
+        [
+            "ongeveer",
+            "um en noabi'j"
+        ],
+        [
+            "onkruid",
+            "roet"
+        ],
+        [
+            "onrustig",
+            "rospelig"
+        ],
+        [
+            "onrustig zijn",
+            "briggelen"
+        ],
+        [
+            "ontzettend",
+            "onmundig, alderbastend"
+        ],
+        [
+            "onverschillig",
+            "veurèvenvölle"
+        ],
+        [
+            "onvruchtbaar vrouwelijk mens/dier",
+            "kwenne"
+        ],
+        [
+            "onze",
+            "unze"
+        ],
+        [
+            "onzin",
+            "kwats"
+        ],
+        [
+            "ooievaar",
+            "stoark, stork"
+        ],
+        [
+            "ook",
+            "Uig"
+        ],
+        [
+            "oom",
+            "onkel, eume"
+        ],
+        [
+            "oorvijg",
+            "ziege um de oarne"
+        ],
+        [
+            "oorworm",
+            "gaffeltange"
+        ],
+        [
+            "op de kinderen passen (oppassen) ",
+            "huuswaarn"
+        ],
+        [
+            "Open",
+            "Los"
+        ],
+        [
+            "opfokken",
+            "den kachel anmaak'n"
+        ],
+        [
+            "opjutten",
+            "drieve (n) "
+        ],
+        [
+            "oppassen",
+            "huuswaa'n ,inheun"
+        ],
+        [
+            "oppassen/ babysitten",
+            "huuswaarn"
+        ],
+        [
+            "oppervlaktemaat (1 are ) ",
+            "scheppel zaod"
+        ],
+        [
+            "oprapen",
+            "opgarden"
+        ],
+        [
+            "opruimen",
+            "opruumm"
+        ],
+        [
+            "opscheppen",
+            "pochen"
+        ],
+        [
+            "opschepper",
+            "bloazerd"
+        ],
+        [
+            "opschepperij uit Groenlo",
+            "Grolse wind"
+        ],
+        [
+            "opslag ruimte",
+            "spieker"
+        ],
+        [
+            "Opstaan",
+            "Op t'ende kom'm"
+        ],
+        [
+            "oud",
+            "old"
+        ],
+        [
+            "oude",
+            "oale"
+        ],
+        [
+            "oudere bemoeizuchtige vrouw",
+            "mi'jemeuje"
+        ],
+        [
+            "Ouders",
+            "Oldeluu"
+        ],
+        [
+            "over",
+            "oaver"
+        ],
+        [
+            "overblijven (lunch op school) ",
+            "broodschole"
+        ],
+        [
+            "overeind",
+            "op-t ende"
+        ],
+        [
+            "overgeven (braken)",
+            "speejen"
+        ],
+        [
+            "overhaast",
+            "hoeterdekoets"
+        ],
+        [
+            "overhemd",
+            "spothemp, boezeroen"
+        ],
+        [
+            "P"
+        ],
+        [
+            "Paal",
+            "Post, pos"
+        ],
+        [
+            "paaltje",
+            "postje"
+        ],
+        [
+            "paaltje (langs weiland)",
+            "rikkespösk'n, rasterpöölle"
+        ],
+        [
+            "paard",
+            "peerd, knol"
+        ],
+        [
+            "paardenbloem",
+            "hondepol, kettingspol"
+        ],
+        [
+            "paardenvlieg/horzel",
+            "blinze"
+        ],
+        [
+            "paardrijden",
+            "peerdri'jen , peerd rieden"
+        ],
+        [
+            "paars",
+            "peers"
+        ],
+        [
+            "paasman",
+            "poaskearl"
+        ],
+        [
+            "paasvuur",
+            "poasvuur, poasboake"
+        ],
+        [
+            "pak rammel",
+            "pak smeer"
+        ],
+        [
+            "Palen",
+            "Joep'm / voedel'n"
+        ],
+        [
+            "Pannerden",
+            "Poandre"
+        ],
+        [
+            "pannerden, lobith, aerdt tolkamer tuindorp herwen spijk",
+            "t land van woater en wiend"
+        ],
+        [
+            "pasen",
+            "poasen"
+        ],
+        [
+            "passant",
+            "veurbi'jgänger"
+        ],
+        [
+            "perzik",
+            "marketonze"
+        ],
+        [
+            "petroleum",
+            "peterollie"
+        ],
+        [
+            "pijn",
+            "piene"
+        ],
+        [
+            "Pimpelmees",
+            "Bi-jmees"
+        ],
+        [
+            "plagen",
+            "steggel'n"
+        ],
+        [
+            "plank",
+            "bröt"
+        ],
+        [
+            "plassen",
+            "afwateren, miegen, piss,n, eappels afgeeten, stroezen, \tzeiken"
+        ],
+        [
+            "plassen (water) ",
+            "plässe"
+        ],
+        [
+            "plastic",
+            "plestek"
+        ],
+        [
+            "plastic zak",
+            "toete"
+        ],
+        [
+            "plein",
+            "plasse"
+        ],
+        [
+            "plezier maken",
+            "Schik hebb'n"
+        ],
+        [
+            "ploeg",
+            "ploog"
+        ],
+        [
+            "ploegen",
+            "bouwen"
+        ],
+        [
+            "ploegen (ondiep) ",
+            "braoken, scheuren"
+        ],
+        [
+            "plosteling moe/lui worden",
+            "het veur de krent'n krieg'n"
+        ],
+        [
+            "poep",
+            "driete"
+        ],
+        [
+            "poepen",
+            "drieten"
+        ],
+        [
+            "poffertje",
+            "pufke"
+        ],
+        [
+            "politie",
+            "plietsie, böll'n"
+        ],
+        [
+            "poos",
+            "hötte"
+        ],
+        [
+            "Poosje",
+            "Hötjen"
+        ],
+        [
+            "pop",
+            "puppe"
+        ],
+        [
+            "popje",
+            "pupken"
+        ],
+        [
+            "populier",
+            "peppel"
+        ],
+        [
+            "portomonee",
+            "knippe"
+        ],
+        [
+            "potlepel",
+            "slijf"
+        ],
+        [
+            "praatjes",
+            "präötjes"
+        ],
+        [
+            "praten",
+            "proaten"
+        ],
+        [
+            "precies",
+            "krek"
+        ],
+        [
+            "pret",
+            "skik"
+        ],
+        [
+            "Prikkeldraad",
+            "Puntdroad, takkedroad"
+        ],
+        [
+            "problemen",
+            "trammelant"
+        ],
+        [
+            "processie",
+            "vlöggelen"
+        ],
+        [
+            "proppenschieter",
+            "fletterbusse"
+        ],
+        [
+            "pruim",
+            "pruum, proeme"
+        ],
+        [
+            "prutsen",
+            "moggelen"
+        ],
+        [
+            "R"
+        ],
+        [
+            "raakte",
+            "riek"
+        ],
+        [
+            "raam",
+            "n'roette"
+        ],
+        [
+            "raapstelen",
+            "stengels"
+        ],
+        [
+            "ram",
+            "sikkenbok"
+        ],
+        [
+            "rasp",
+            "rieve"
+        ],
+        [
+            "rasteren",
+            "vrochten, vrugten"
+        ],
+        [
+            "Rat",
+            "Rotte"
+        ],
+        [
+            "ravotten",
+            "rapzakken"
+        ],
+        [
+            "recht (staat dit gelijk) ",
+            "lieke"
+        ],
+        [
+            "regenbui",
+            "een soeze raegen, skoer"
+        ],
+        [
+            "regenen",
+            "reagen'n"
+        ],
+        [
+            "Regenjas",
+            "Gerbedine"
+        ],
+        [
+            "regenworm",
+            "piere"
+        ],
+        [
+            "reu (mannetjes hond) ",
+            "rekkel"
+        ],
+        [
+            "reuzel",
+            "smulte"
+        ],
+        [
+            "ridderzuring",
+            "luikebla"
+        ],
+        [
+            "riek",
+            "greepe"
+        ],
+        [
+            "riem",
+            "reem"
+        ],
+        [
+            "Rietmolen",
+            "Reetmölle, reek kwakers"
+        ],
+        [
+            "rij",
+            "riege"
+        ],
+        [
+            "rijden",
+            "ri-jen,"
+        ],
+        [
+            "Rijden (auto) ",
+            "jagen"
+        ],
+        [
+            "rijn",
+            "Rien"
+        ],
+        [
+            "rijp",
+            "riepe"
+        ],
+        [
+            "rijst",
+            "ries riest"
+        ],
+        [
+            "rijzen",
+            "verliezen"
+        ],
+        [
+            "rillerig",
+            "vrustereg"
+        ],
+        [
+            "rimpels",
+            "foekvel"
+        ],
+        [
+            "rioolgoot",
+            "gottengat"
+        ],
+        [
+            "rode bieten",
+            "kroot'n"
+        ],
+        [
+            "rollen",
+            "tulen"
+        ],
+        [
+            "rollen van paard",
+            "weltern"
+        ],
+        [
+            "rommel",
+            "pröttel, preuttel, krempel"
+        ],
+        [
+            "rommelpot",
+            "foekepot"
+        ],
+        [
+            "rondlopen",
+            "vetraenn"
+        ],
+        [
+            "rook",
+            "smook"
+        ],
+        [
+            "roos (in de haren)",
+            "skin"
+        ],
+        [
+            "Rotzooi",
+            "Pröttel rommél"
+        ],
+        [
+            "rouwmutsje",
+            "sligtemutse"
+        ],
+        [
+            "ruiken",
+            "roek'n"
+        ],
+        [
+            "ruimte",
+            "ruumte"
+        ],
+        [
+            "ruin",
+            "ruun, roen (lange oe)"
+        ],
+        [
+            "rups",
+            "roepe"
+        ],
+        [
+            "rupsen",
+            "roepen"
+        ],
+        [
+            "rupsen in de boerenkool",
+            "roepen in`n moos, rupp'n op 'e moes"
+        ],
+        [
+            "rusten",
+            "rösten"
+        ],
+        [
+            "Rustig",
+            "Kalm an, haenig, røsteg"
+        ],
+        [
+            "rustig aan doen",
+            "hennig an doon"
+        ],
+        [
+            "Ruurlo",
+            " Reurle "
+        ],
+        [
+            "ruzie",
+            "deining vecht'n"
+        ],
+        [
+            "S"
+        ],
+        [
+            "Sacherijnig",
+            "Nöttelig"
+        ],
+        [
+            "scanner",
+            "naokieker"
+        ],
+        [
+            "schaafwond",
+            "brats"
+        ],
+        [
+            "schaap",
+            "schoap"
+        ],
+        [
+            "schaar",
+            "scheer"
+        ],
+        [
+            "schaars",
+            "betuun"
+        ],
+        [
+            "schabrang",
+            "Göttegat"
+        ],
+        [
+            "schaduw",
+            "schum, skemme, schaa"
+        ],
+        [
+            "scharnier",
+            "hengsel"
+        ],
+        [
+            "scheef",
+            "schoeks"
+        ],
+        [
+            "scheenbeen",
+            "schennepiepe"
+        ],
+        [
+            "scheet",
+            "broekhoest"
+        ],
+        [
+            "schei uit",
+            "schei uut"
+        ],
+        [
+            "Schemer",
+            "Tweeduuster"
+        ],
+        [
+            "schemering",
+            "tweiduuster"
+        ],
+        [
+            "schep",
+            "natse, panne, handshovel"
+        ],
+        [
+            "schip",
+            "skib"
+        ],
+        [
+            "schoencrême",
+            "wicks"
+        ],
+        [
+            "schoenen",
+            "schienen"
+        ],
+        [
+            "Schoffie, ondeugd",
+            "Basbender"
+        ],
+        [
+            "schommel",
+            "ruile"
+        ],
+        [
+            "school",
+            "skool skoele"
+        ],
+        [
+            "schoorsteenmantel",
+            "boozem"
+        ],
+        [
+            "schoot",
+            "sluppe"
+        ],
+        [
+            "Schop",
+            "Schuppe, batse, schoevel, handshovel"
+        ],
+        [
+            "schoppen",
+            "schuppen"
+        ],
+        [
+            "Schort",
+            "Brunte"
+        ],
+        [
+            "schouder",
+            "scholder"
+        ],
+        [
+            "schrammen in het gezicht hebben",
+            "bratsen an d'n gevret hebb'n"
+        ],
+        [
+            "schreeuwen",
+            "rear'n, bløkken, reern, skete,n,"
+        ],
+        [
+            "schreeuwerd",
+            "bleerbek"
+        ],
+        [
+            "schrijven",
+            "skrieb'n"
+        ],
+        [
+            "schroevendraaier",
+            "schroevendreijer"
+        ],
+        [
+            "schuim",
+            "broeze"
+        ],
+        [
+            "Schuiven",
+            "Schoeven, \tschoev'n"
+        ],
+        [
+            "schuur",
+            "schoppe/skoppe"
+        ],
+        [
+            "Silvolde",
+            "Zillewold"
+        ],
+        [
+            "sint maarten",
+            "Sinter-Marten"
+        ],
+        [
+            "sinterklaas",
+            "sinterkloas"
+        ],
+        [
+            "slaan",
+            "sloan, houwen, houw,n, bater,n, \tklop gevven"
+        ],
+        [
+            "slaapkamer",
+            "sloapkamer"
+        ],
+        [
+            "slap",
+            "sledderig"
+        ],
+        [
+            "Slapen",
+            "Op de rugge stoan, sloapen"
+        ],
+        [
+            "slenteren",
+            "Kuijeren, smoksen"
+        ],
+        [
+            "slepen",
+            "slüp'n"
+        ],
+        [
+            "slijpen",
+            "sliepen"
+        ],
+        [
+            "slim",
+            "vernunftig"
+        ],
+        [
+            "slingeren",
+            "slakker'n"
+        ],
+        [
+            "slingeren bv met fiets",
+            "schraggelen"
+        ],
+        [
+            "slofjes",
+            "slöfkes"
+        ],
+        [
+            "slokje",
+            "slümpken"
+        ],
+        [
+            "sloom iemand",
+            "draodnaegel draone"
+        ],
+        [
+            "Sloot",
+            "Graven"
+        ],
+        [
+            "slungel (mann./groot) ",
+            "laabes"
+        ],
+        [
+            "smeerpoets",
+            "knoeipot, poetje"
+        ],
+        [
+            "smerig",
+            "smoddelig / smosselig"
+        ],
+        [
+            "smerig (niet goed gewassen)",
+            "schoeterig / poeterig"
+        ],
+        [
+            "smurrie",
+            "drallie"
+        ],
+        [
+            "sneeuw",
+            "snee"
+        ],
+        [
+            "sneeuwvegen",
+            "trao kaern"
+        ],
+        [
+            "snel",
+            "rap, schielik"
+        ],
+        [
+            "snijbonen",
+            "fietsebonen , sne'jbeune, brokkebonen"
+        ],
+        [
+            "snoepje",
+            "baltjen"
+        ],
+        [
+            "Snoepzak (nieuwjaar) ",
+            "toet'n"
+        ],
+        [
+            "snuit",
+            "snoete"
+        ],
+        [
+            "snuiven",
+            "snoev'n"
+        ],
+        [
+            "Soeplepel",
+            "Slieve, sleef"
+        ],
+        [
+            "sokken",
+            "sökke, zökke"
+        ],
+        [
+            "soms",
+            "mangs, manges"
+        ],
+        [
+            "speculaas",
+            "klöske"
+        ],
+        [
+            "speen",
+            "luts"
+        ],
+        [
+            "spelen",
+            "spöllen"
+        ],
+        [
+            "sperziebonen",
+            "slaboon'n"
+        ],
+        [
+            "spijker",
+            "draodnaegel, neagel"
+        ],
+        [
+            "spijkerbroek",
+            "spiekerboks(e)"
+        ],
+        [
+            "spitten",
+            "spaien, umme maken"
+        ],
+        [
+            "Spreeuwen",
+            "Spröne"
+        ],
+        [
+            "staan",
+            "stoan"
+        ],
+        [
+            "staat",
+            "steet"
+        ],
+        [
+            "Stadse manieren",
+            "Stadse fratsen"
+        ],
+        [
+            "Stadsmensen",
+            "Stadsluu"
+        ],
+        [
+            "stampot witte kool",
+            "boeskool"
+        ],
+        [
+            "stamppot",
+            "moes"
+        ],
+        [
+            "stamppot boerenkool",
+            "stamppot moos"
+        ],
+        [
+            "steeds",
+            "egaal"
+        ],
+        [
+            "steegje",
+            "geste, stegge"
+        ],
+        [
+            "steen",
+            "kei"
+        ],
+        [
+            "ster",
+            "starre"
+        ],
+        [
+            "stiekemerd",
+            "glisterpeter gloeper"
+        ],
+        [
+            "stier",
+            "bolle, buurtbolle"
+        ],
+        [
+            "stijgbeugel",
+            "stiegbeugel"
+        ],
+        [
+            "stoel",
+            "stool"
+        ],
+        [
+            "stoelen",
+            "stuule"
+        ],
+        [
+            "stofzuiger",
+            "slöpslurper"
+        ],
+        [
+            "straal",
+            "straol"
+        ],
+        [
+            "straat",
+            "stroat"
+        ],
+        [
+            "strak / mooi",
+            "kaz"
+        ],
+        [
+            "streng gereformeerden",
+            "fienen"
+        ],
+        [
+            "strijken",
+            "striek'n"
+        ],
+        [
+            "strijkijzer",
+            "striekiezer"
+        ],
+        [
+            "stropdas",
+            "strik"
+        ],
+        [
+            "struik",
+            "struuk"
+        ],
+        [
+            "struukduiken",
+            "stroekduuk'n"
+        ],
+        [
+            "stuiven",
+            "stoeven"
+        ],
+        [
+            "stuiver",
+            "stuuver"
+        ],
+        [
+            "stukje",
+            "stuksken"
+        ],
+        [
+            "stukjes",
+            "humpkes"
+        ],
+        [
+            "Stutte",
+            "Stut"
+        ],
+        [
+            "sufferd",
+            "dökkel, noffel, koeze"
+        ],
+        [
+            "suiker",
+            "suuker, sökker"
+        ],
+        [
+            "suikerbieten",
+            "sukerruve"
+        ],
+        [
+            "suikerklontje",
+            "suukerkluntj`n"
+        ],
+        [
+            "Sukkeldrafje",
+            "Sobbedräfken"
+        ],
+        [
+            "T"
+        ],
+        [
+            "taai",
+            "taoi, sproak, sproake"
+        ],
+        [
+            "tafel",
+            "toafel, dis"
+        ],
+        [
+            "tandarts",
+            "smoelsmid"
+        ],
+        [
+            "tarwe",
+            "weite"
+        ],
+        [
+            "Te keer gaan",
+            "Angoan"
+        ],
+        [
+            "tekenen",
+            "teikenen"
+        ],
+        [
+            "telefoon",
+            "reer-iezer, kuierdroad"
+        ],
+        [
+            "Telkens",
+            "Egals"
+        ],
+        [
+            "tepel koe",
+            "memmen"
+        ],
+        [
+            "terras",
+            "stoepe"
+        ],
+        [
+            "terstond",
+            "stond"
+        ],
+        [
+            "terug",
+            "trugge"
+        ],
+        [
+            "theekom",
+            "sömken"
+        ],
+        [
+            "theelepel",
+            "ruuriezer"
+        ],
+        [
+            "thuis",
+            "thuus, toes"
+        ],
+        [
+            "tien",
+            "tiene, teen"
+        ],
+        [
+            "Tijd",
+            "Tied"
+        ],
+        [
+            "toe",
+            "too"
+        ],
+        [
+            "toezenden",
+            "umsgeliek"
+        ],
+        [
+            "tongzoenen",
+            "bi-j mekare uut de krop vretten, bekvech'en"
+        ],
+        [
+            "tot morgen!",
+            "tut margen"
+        ],
+        [
+            "Tot ziens",
+            "Goedgoan, goodgoan, ajuus"
+        ],
+        [
+            "tractor",
+            "trekker"
+        ],
+        [
+            "trapje",
+            "trepske"
+        ],
+        [
+            "trekker (water wegpoetsen) ",
+            "slees"
+        ],
+        [
+            "treurig",
+            "meuielik"
+        ],
+        [
+            "treuzelen",
+            "euzen"
+        ],
+        [
+            "treuzelen (met eten) ",
+            "pliwsen"
+        ],
+        [
+            "troepen",
+            "troppe"
+        ],
+        [
+            "trog",
+            "zomp"
+        ],
+        [
+            "trouwen",
+            "broetlachte"
+        ],
+        [
+            "trouwerij",
+            "breulfte"
+        ],
+        [
+            "tuig",
+            "tuug"
+        ],
+        [
+            "tuin",
+            "goorden, \tn'hof"
+        ],
+        [
+            "tuurlijk",
+            "tuulk"
+        ],
+        [
+            "Twentenaar",
+            "tukker"
+        ],
+        [
+            "twijfelaar",
+            "veulerd"
+        ],
+        [
+            "U"
+        ],
+        [
+            "ui",
+            "look, siepel"
+        ],
+        [
+            "Uien",
+            "Siepels"
+        ],
+        [
+            "uier",
+            "geer"
+        ],
+        [
+            "uierziekte",
+            "wrange"
+        ],
+        [
+            "Uil",
+            "Oele"
+        ],
+        [
+            "uit",
+            "ut"
+        ],
+        [
+            "uitgestrooid",
+            "uutgestreu`jd"
+        ],
+        [
+            "uitkijk",
+            "uutkiek"
+        ],
+        [
+            "uitsteken",
+            "uutsteken"
+        ],
+        [
+            "uitvindingen",
+            "vernufterie`jen"
+        ],
+        [
+            "uitzoeken",
+            "fiegelier'n"
+        ],
+        [
+            "Ulft",
+            "Ulf, Oer"
+        ],
+        [
+            "unster",
+            "trekpunder"
+        ],
+        [
+            "V"
+        ],
+        [
+            "vaak",
+            "duk, mans"
+        ],
+        [
+            "vaars",
+            "moal"
+        ],
+        [
+            "Vaatdoek",
+            "schotteslet, schuttelslet, waskeldook, \twasseldoek"
+        ],
+        [
+            "vader",
+            "va"
+        ],
+        [
+            "vagina",
+            "Vazel, flamoeze, proeme"
+        ],
+        [
+            "vals spelen",
+            "sijbelen"
+        ],
+        [
+            "Valse vouw, rimpel",
+            "foeke"
+        ],
+        [
+            "valsspelen",
+            "steggel'n"
+        ],
+        [
+            "valt",
+            "völt"
+        ],
+        [
+            "van",
+            "von"
+        ],
+        [
+            "Van de wijs gebracht",
+            "verbaldereert."
+        ],
+        [
+            "van lieverlede",
+            "aalenges"
+        ],
+        [
+            "vandaan",
+            "vedan"
+        ],
+        [
+            "varken",
+            "poetjen, pogge, motte, poch, pogge, keun. verk,n, zwien"
+        ],
+        [
+            "Varkens voerschot",
+            "Sleagel"
+        ],
+        [
+            "varkenshok",
+            "poggenschot"
+        ],
+        [
+            "Varkenspoot",
+            "Hepse"
+        ],
+        [
+            "varkensschuur",
+            "kot"
+        ],
+        [
+            "Varsseveld",
+            "Poggendam"
+        ],
+        [
+            "vatje",
+            "fuste"
+        ],
+        [
+            "veel",
+            "veul, veule, vulle, vôlle"
+        ],
+        [
+            "veel plaatsen",
+            "veuldeweges"
+        ],
+        [
+            "veenkolk",
+            "kluungaete"
+        ],
+        [
+            "vegen",
+            "keern"
+        ],
+        [
+            "veiligheidsspeld",
+            "sluutspeld"
+        ],
+        [
+            "Veldschuur",
+            "Karloze"
+        ],
+        [
+            "ver",
+            "wied"
+        ],
+        [
+            "verder",
+            "wieter"
+        ],
+        [
+            "verdriet",
+            "armood"
+        ],
+        [
+            "verdunnen (vloeistof) ",
+            "anlengen"
+        ],
+        [
+            "verf",
+            "varve"
+        ],
+        [
+            "vergeten",
+            "vergaet'n"
+        ],
+        [
+            "Vergiet",
+            "deurslag"
+        ],
+        [
+            "verjaardag",
+            "verjeurdag"
+        ],
+        [
+            "verkeerd om",
+            "Krang"
+        ],
+        [
+            "verknoeid",
+            "vedrett'n"
+        ],
+        [
+            "verkreukeld",
+            "foekepot"
+        ],
+        [
+            "verkreukelen",
+            "verknöttern"
+        ],
+        [
+            "verlegen",
+            "bleuj"
+        ],
+        [
+            "verprutsen/vernielen",
+            "verommenaeren"
+        ],
+        [
+            "verrekijker",
+            "wietgloeperd"
+        ],
+        [
+            "versieren",
+            "brommers kiek'n"
+        ],
+        [
+            "vervelend",
+            "kloten"
+        ],
+        [
+            "verveling",
+            "tiedvervaeling"
+        ],
+        [
+            "verweerd",
+            "verspocht"
+        ],
+        [
+            "veulen",
+            "vul"
+        ],
+        [
+            "vier",
+            "vear (e)"
+        ],
+        [
+            "Viespeuk",
+            "Poetjen, smerkeuj, fatje"
+        ],
+        [
+            "viezerd",
+            "viezen"
+        ],
+        [
+            "viezerik",
+            "knasterd"
+        ],
+        [
+            "vijf",
+            "vief"
+        ],
+        [
+            "vlaamse gaai",
+            "markolver, markolle, markolder, markol"
+        ],
+        [
+            "Vleermuis",
+            "Vleermuze"
+        ],
+        [
+            "vlees",
+            "vleis"
+        ],
+        [
+            "vliegtuig",
+            "vliegtuug"
+        ],
+        [
+            "vlinder",
+            "pannevluggel, Panevoggel, spanvoggel, zommervöggel"
+        ],
+        [
+            "vloed",
+            "vlood"
+        ],
+        [
+            "vlug",
+            "raps, vot, vot maken"
+        ],
+        [
+            "Vochtig",
+            "Klats(z)ig"
+        ],
+        [
+            "Voederbiet",
+            "Mangel"
+        ],
+        [
+            "voederbieten",
+            "mangels"
+        ],
+        [
+            "voel",
+            "veul"
+        ],
+        [
+            "voelen",
+            "vulen"
+        ],
+        [
+            "voeten",
+            "veut,n, plarken, vuut"
+        ],
+        [
+            "vogel",
+            "vöggel"
+        ],
+        [
+            "vogelkruid (plant) ",
+            "hennemier"
+        ],
+        [
+            "voor",
+            "veur"
+        ],
+        [
+            "voordeur",
+            "veurdeur"
+        ],
+        [
+            "voorhamer",
+            "teurhamer"
+        ],
+        [
+            "voorhuis",
+            "veurhuus"
+        ],
+        [
+            "voorkomen",
+            "veurkomm`n"
+        ],
+        [
+            "voornamelijk",
+            "prispaol"
+        ],
+        [
+            "voorraad",
+            "veurraod"
+        ],
+        [
+            "voorraadschuur",
+            "spieker"
+        ],
+        [
+            "vooruit",
+            "vort"
+        ],
+        [
+            "voorwiel",
+            "veurrad"
+        ],
+        [
+            "vos",
+            "vökse"
+        ],
+        [
+            "vouwwagen",
+            "klapkore"
+        ],
+        [
+            "vragen",
+            "vraogen"
+        ],
+        [
+            "Vragender",
+            "Vroagender"
+        ],
+        [
+            "vreemd",
+            "frömd, fremd, vrumd, vrômd"
+        ],
+        [
+            "vreemdgaan",
+            "onder 'n draod deur e vretten, naeven d'n pot epist"
+        ],
+        [
+            "vrienden",
+            "kameraojen, maoten, kameröde, kamerue"
+        ],
+        [
+            "vriendin",
+            "musse, skarel"
+        ],
+        [
+            "vriezenveen",
+            "vene"
+        ],
+        [
+            "vrijdagavond",
+            "vrie`jdagaovend"
+        ],
+        [
+            "vrijen",
+            "blom plukn, go'j met melk bussen tellen"
+        ],
+        [
+            "vrijen",
+            "vri-jen, vozen"
+        ],
+        [
+            "vrijgazel",
+            "eumke"
+        ],
+        [
+            "vroeg",
+            "vrög"
+        ],
+        [
+            "vroeger",
+            "vrogger"
+        ],
+        [
+            "vrouw",
+            "wief, mense"
+        ],
+        [
+            "Vrouwen",
+            "Vrouwluu, vrowuleu, wiem"
+        ],
+        [
+            "vrouwtje",
+            "deerntje"
+        ],
+        [
+            "vuil",
+            "smoks"
+        ],
+        [
+            "vuiligheid",
+            "smoezelerie`j"
+        ],
+        [
+            "vulva",
+            "hanerhölte, promusselken, vazel, proeme"
+        ],
+        [
+            "vulva",
+            "vazel"
+        ],
+        [
+            "vuurtje stoken",
+            "vuurtje stokken"
+        ],
+        [
+            "W"
+        ],
+        [
+            "waaien",
+            "boezen"
+        ],
+        [
+            "waar",
+            "bun"
+        ],
+        [
+            "waard",
+            "weerd"
+        ],
+        [
+            "waarom",
+            "wurrum"
+        ],
+        [
+            "wagenwijd",
+            "wiedwagend"
+        ],
+        [
+            "wang",
+            "kiwwe"
+        ],
+        [
+            "wankel",
+            "tuntelig"
+        ],
+        [
+            "Warm",
+            "Heit"
+        ],
+        [
+            "warme schoorsteen",
+            "gleujende piep"
+        ],
+        [
+            "wasbak onder de pomp",
+            "gutsteen"
+        ],
+        [
+            "wat",
+            "wet"
+        ],
+        [
+            "wat zeg je",
+            "wat zeg i-j"
+        ],
+        [
+            "wat zegt u",
+            "wallee"
+        ],
+        [
+            "water",
+            "waoter"
+        ],
+        [
+            "watje",
+            "titte"
+        ],
+        [
+            "WC",
+            "´t huusken, plee"
+        ],
+        [
+            "wc deksel",
+            "pleedekkel"
+        ],
+        [
+            "we",
+            "wi-j, wie"
+        ],
+        [
+            "weerkomen",
+            "weerkommen"
+        ],
+        [
+            "weg",
+            "wegge"
+        ],
+        [
+            "Weg!",
+            "Vort!"
+        ],
+        [
+            "Weggaan",
+            "Goed gaon, hengoan"
+        ],
+        [
+            "weggenomen",
+            "weg-enommen"
+        ],
+        [
+            "weggeven",
+            "afstaon"
+        ],
+        [
+            "wegjagen",
+            "kassebunen"
+        ],
+        [
+            "wegnemen",
+            "wegnemmen"
+        ],
+        [
+            "Wegwezen",
+            "Moeven"
+        ],
+        [
+            "weide",
+            "wieze"
+        ],
+        [
+            "weidepaal",
+            "rikkespost"
+        ],
+        [
+            "weiderol",
+            "welboom"
+        ],
+        [
+            "weiland",
+            "wiesken, bi,j"
+        ],
+        [
+            "Weinig inspanning leveren.",
+            "Slok reep"
+        ],
+        [
+            "wel",
+            "wal"
+        ],
+        [
+            "welzeker!",
+            "boh jao!"
+        ],
+        [
+            "wentelen",
+            "weltern"
+        ],
+        [
+            "werden",
+            "wierd"
+        ],
+        [
+            "wereld",
+            "welt"
+        ],
+        [
+            "werk",
+            "wark"
+        ],
+        [
+            "werken",
+            "warken"
+        ],
+        [
+            "werkende",
+            "warkende"
+        ],
+        [
+            "werkkleding",
+            "warkklere"
+        ],
+        [
+            "werkloos zijn.",
+            "rond de pöste lopen."
+        ],
+        [
+            "wesp",
+            "wepse, wips"
+        ],
+        [
+            "Wiebelig",
+            "Tuntel"
+        ],
+        [
+            "wieg",
+            "kripsken"
+        ],
+        [
+            "wiers",
+            "kidde"
+        ],
+        [
+            "wifi",
+            "gin droad"
+        ],
+        [
+            "wij",
+            "wi-j / wie"
+        ],
+        [
+            "wijf",
+            "wief"
+        ],
+        [
+            "wijn",
+            "wien"
+        ],
+        [
+            "wijs",
+            "wies"
+        ],
+        [
+            "wil ik je",
+            "wik"
+        ],
+        [
+            "wildebras",
+            "ruusebus, onwat"
+        ],
+        [
+            "Winterkoning",
+            "Nettelkönninksken"
+        ],
+        [
+            "Winterswijk",
+            "Wenters"
+        ],
+        [
+            "Wittekool",
+            "boeskool, kabbes"
+        ],
+        [
+            "woensdag",
+            "goonsdag"
+        ],
+        [
+            "wonder",
+            "merakel"
+        ],
+        [
+            "worden",
+            "wod'n"
+        ],
+        [
+            "wordt",
+            "weurde/wödt"
+        ],
+        [
+            "worst",
+            "wöst"
+        ],
+        [
+            "worstelen (uit blijdschap) ",
+            "froesel'n"
+        ],
+        [
+            "wortel",
+            "wottel"
+        ],
+        [
+            "woud",
+            "wo (o) ld"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "zak",
+            "toete"
+        ],
+        [
+            "zak (broek/jas) ",
+            "tesse"
+        ],
+        [
+            "zakdoek",
+            "snotlap"
+        ],
+        [
+            "zakje",
+            "tuutjen"
+        ],
+        [
+            "zaklamp",
+            "knipslügte, \tpieuwie"
+        ],
+        [
+            "zakmes",
+            "kniepmes"
+        ],
+        [
+            "zal ik",
+            "tesse"
+        ],
+        [
+            "zandweg",
+            "binnenweg"
+        ],
+        [
+            "zaterdag",
+            "zaoterdag"
+        ],
+        [
+            "zaterdagmorgen",
+            "zaoterdagmaon"
+        ],
+        [
+            "zatlap",
+            "natnibbe"
+        ],
+        [
+            "zeem",
+            "ziep'nen"
+        ],
+        [
+            "zeer (in verband met veel)",
+            "aldebastend"
+        ],
+        [
+            "zeiken",
+            "nøhl'n"
+        ],
+        [
+            "zeikerd",
+            "drietebuul"
+        ],
+        [
+            "Zeis",
+            "Swa, wa"
+        ],
+        [
+            "zeis (kort model t.b.v. koren maaien) ",
+            "zig"
+        ],
+        [
+            "zeis aanzetsteen",
+            "strik"
+        ],
+        [
+            "zelf",
+            "eiges"
+        ],
+        [
+            "zelfklusser",
+            "beunhaos"
+        ],
+        [
+            "Zelhem",
+            "Zellem"
+        ],
+        [
+            "zenuwachtig",
+            "rospelig"
+        ],
+        [
+            "zenuwachtig ijsberen",
+            "briggel"
+        ],
+        [
+            "zeug",
+            "motte, zogge"
+        ],
+        [
+            "zeug",
+            "zogge"
+        ],
+        [
+            "zeug (geen biggen gehad) ",
+            "gelte"
+        ],
+        [
+            "zeuren",
+            "notjen, mieren, mauwen, peppels, nôhlen, nôttelen, dramm,n, kwaken"
+        ],
+        [
+            "Zeurpiet",
+            "Fiemel"
+        ],
+        [
+            "zeven (7) ",
+            "zövvene"
+        ],
+        [
+            "Zevenaar",
+            "Zaender, Zender"
+        ],
+        [
+            "ziek",
+            "zeek"
+        ],
+        [
+            "ziekenhuis",
+            "sekenhoes"
+        ],
+        [
+            "ziekjes",
+            "sloerig in den hoed, sloerig in de rakke"
+        ],
+        [
+            "zielig figuur",
+            "stakker"
+        ],
+        [
+            "zien",
+            "zeen"
+        ],
+        [
+            "ziet",
+            "zeet"
+        ],
+        [
+            "Zieuwent",
+            "Söwent, \tt söwent"
+        ],
+        [
+            "zij",
+            "zullie"
+        ],
+        [
+            "zijkant",
+            "ziete"
+        ],
+        [
+            "zijn",
+            "bunt, waen"
+        ],
+        [
+            "zijn (heen) gegaan",
+            "bunt e'oan"
+        ],
+        [
+            "zoek",
+            "zuuk"
+        ],
+        [
+            "zoek het maar uit!",
+            "bak oe maor un ei!"
+        ],
+        [
+            "zoete",
+            "zeute of zuute"
+        ],
+        [
+            "zolder boven de stal",
+            "hilde"
+        ],
+        [
+            "zomer",
+            "zommer"
+        ],
+        [
+            "zonaanbidder",
+            "zunnekuuksken"
+        ],
+        [
+            "zonde",
+            "zünde"
+        ],
+        [
+            "zooi",
+            "kraom"
+        ],
+        [
+            "zoon",
+            "zönne"
+        ],
+        [
+            "zout",
+            "zolt"
+        ],
+        [
+            "zoveel",
+            "zovölle"
+        ],
+        [
+            "zuinig persoon",
+            "knieperd"
+        ],
+        [
+            "zuinig zijn",
+            "neet schöts"
+        ],
+        [
+            "zuipen",
+            "buizen, boez,n, zoep,n"
+        ],
+        [
+            "zuiper",
+            "zoeperd"
+        ],
+        [
+            "zuiplap",
+            "zoeplap, natnibbe"
+        ],
+        [
+            "zuurkool",
+            "hang over de lippe"
+        ],
+        [
+            "zwaar",
+            "zwoar"
+        ],
+        [
+            "zwaar werken",
+            "Äözen"
+        ],
+        [
+            "zwager",
+            "zwaoger"
+        ],
+        [
+            "zwanger",
+            "dee hef n'buul an n'band, \tdikke boek"
+        ],
+        [
+            "zware",
+            "zwaore"
+        ],
+        [
+            "zware donderslag",
+            "braaskerd"
+        ],
+        [
+            "zweet",
+            "zwet, zweit"
+        ],
+        [
+            "zwerfvuil",
+            "vlogpröttel"
+        ],
+        [
+            "zwoegen",
+            "äözen, euse"
+        ]
+    ]
+}

@@ -1,0 +1,643 @@
+{
+    "proverbs": [
+        [
+            "elke keer dat",
+            "telkenmale als"
+        ],
+        [
+            "hoe gaat 't met hem?",
+            "hoe vaart hij?"
+        ]
+    ],
+    "words": [
+        [
+            "A"
+        ],
+        [
+            "aanbellen",
+            "aanschellen"
+        ],
+        [
+            "aangezien",
+            "vermits"
+        ],
+        [
+            "altijd",
+            "altoosch, immer"
+        ],
+        [
+            "Amerikaanse",
+            "Amerikaansche"
+        ],
+        [
+            "Atmosfeer",
+            "Atmospheer"
+        ],
+        [
+            "auto",
+            "automobiel"
+        ],
+        [
+            "B"
+        ],
+        [
+            "Baan",
+            "Betrekking"
+        ],
+        [
+            "bandrecorder",
+            "magnetofoon"
+        ],
+        [
+            "ben jij",
+            "zijt gij"
+        ],
+        [
+            "bereik",
+            "bereijk"
+        ],
+        [
+            "bij ons",
+            "ten onzent"
+        ],
+        [
+            "Bioscoop",
+            "Cineac"
+        ],
+        [
+            "Boerderij",
+            "Bouwhof"
+        ],
+        [
+            "bord",
+            "telder"
+        ],
+        [
+            "Brielle",
+            "Den Briel"
+        ],
+        [
+            "Bruinvis",
+            "Meerzwijn"
+        ],
+        [
+            "C"
+        ],
+        [
+            "Catastrofe",
+            "Catastrophe"
+        ],
+        [
+            "Culemborg",
+            "Kuilenburg"
+        ],
+        [
+            "D"
+        ],
+        [
+            "daarheen",
+            "derwaarts"
+        ],
+        [
+            "dadelijk",
+            "aanstonds"
+        ],
+        [
+            "De",
+            "Den"
+        ],
+        [
+            "Deugd",
+            "Toufleur"
+        ],
+        [
+            "Doetinchem",
+            "Deutekom"
+        ],
+        [
+            "draaiorgel",
+            "pierement"
+        ],
+        [
+            "E"
+        ],
+        [
+            "Een",
+            "Eenen"
+        ],
+        [
+            "elkaar",
+            "elkander, malkander"
+        ],
+        [
+            "Examen kanidaat",
+            "Proeveling"
+        ],
+        [
+            "F"
+        ],
+        [
+            "familie",
+            "maagschap"
+        ],
+        [
+            "Fatsoenlijk",
+            "Ordentelijk"
+        ],
+        [
+            "Fiets",
+            "Rijwiel"
+        ],
+        [
+            "Fietsendief",
+            "Zwijntjesjager"
+        ],
+        [
+            "fototoestel",
+            "kiekkast"
+        ],
+        [
+            "Fysiek",
+            "Physiek"
+        ],
+        [
+            "G"
+        ],
+        [
+            "ga weg",
+            "verleden"
+        ],
+        [
+            "gecastreerde haan",
+            "kapoen"
+        ],
+        [
+            "Geografisch",
+            "Geographisch"
+        ],
+        [
+            "gezicht",
+            "g (h) elaat"
+        ],
+        [
+            "Glaasje frisdrank",
+            "Glaasje Grenadine"
+        ],
+        [
+            "graag",
+            "gaarne"
+        ],
+        [
+            "grapjas",
+            "uientapper"
+        ],
+        [
+            "grappig",
+            "olijk"
+        ],
+        [
+            "grasland",
+            "beemdt"
+        ],
+        [
+            "gratis",
+            "om niet"
+        ],
+        [
+            "H"
+        ],
+        [
+            "Haastig, plotseling",
+            "Schielijk"
+        ],
+        [
+            "helemaal",
+            "helegaar"
+        ],
+        [
+            "heus",
+            "hoofs"
+        ],
+        [
+            "honing",
+            "zeem"
+        ],
+        [
+            "hoop poep",
+            "hoop stront"
+        ],
+        [
+            "huis",
+            "huys"
+        ],
+        [
+            "I"
+        ],
+        [
+            "Iedere keer dat",
+            "telkenmale als"
+        ],
+        [
+            "in bed",
+            "ter sponde"
+        ],
+        [
+            "India, Pakistan, Bangladesj",
+            "Brits Indië"
+        ],
+        [
+            "Indonesië",
+            "Nederlandsch Oost-Indië"
+        ],
+        [
+            "Indonesiër",
+            "inlander"
+        ],
+        [
+            "infertiel",
+            "schraal"
+        ],
+        [
+            "J"
+        ],
+        [
+            "jij",
+            "gij"
+        ],
+        [
+            "Jongen in puberteit",
+            "Vlegel, : in zijn vlegeljaren zijn."
+        ],
+        [
+            "K"
+        ],
+        [
+            "Kalkoen",
+            "Kalikoet"
+        ],
+        [
+            "Kantoor",
+            "Kanteur. R als zachte g."
+        ],
+        [
+            "Kassa",
+            "Cassa"
+        ],
+        [
+            "keukenkachel",
+            "cuisiniere"
+        ],
+        [
+            "kip",
+            "kop"
+        ],
+        [
+            "kleerhanger",
+            "portemetootje"
+        ],
+        [
+            "kroeg",
+            "drinklokaal"
+        ],
+        [
+            "L"
+        ],
+        [
+            "laf",
+            "blode"
+        ],
+        [
+            "leuk iemand",
+            "koddig personage"
+        ],
+        [
+            "lolbroek",
+            "snaak"
+        ],
+        [
+            "lp/elpee",
+            "grammofoonplaat"
+        ],
+        [
+            "M"
+        ],
+        [
+            "maar",
+            "edoch, vermits"
+        ],
+        [
+            "meisje",
+            "deerne"
+        ],
+        [
+            "Memo",
+            "Kattebel"
+        ],
+        [
+            "Mens",
+            "Mensch"
+        ],
+        [
+            "Mensen",
+            "Menschen"
+        ],
+        [
+            "met zijn drieën",
+            "gedrieën"
+        ],
+        [
+            "Meubelen",
+            "Ammeubelementje"
+        ],
+        [
+            "Mitsdien",
+            "Mitsgaders"
+        ],
+        [
+            "mooi",
+            "schoon"
+        ],
+        [
+            "N"
+        ],
+        [
+            "Nederlands",
+            "Diets"
+        ],
+        [
+            "nooit",
+            "nimmer"
+        ],
+        [
+            "nou zeg",
+            "fi donc"
+        ],
+        [
+            "Nou!",
+            "Welnu!"
+        ],
+        [
+            "O"
+        ],
+        [
+            "onderhemd (gebreid wollen hemd)",
+            "borstrok"
+        ],
+        [
+            "ooievaar",
+            "uiver"
+        ],
+        [
+            "openbaring",
+            "obenbaring"
+        ],
+        [
+            "oud apparaat",
+            "oud rabatje"
+        ],
+        [
+            "ouderwets",
+            "archaïsch"
+        ],
+        [
+            "P"
+        ],
+        [
+            "Pabo student",
+            "Proeveling - Kwekeling"
+        ],
+        [
+            "piloot",
+            "vliegenier"
+        ],
+        [
+            "R"
+        ],
+        [
+            "Roken",
+            "Rooken"
+        ],
+        [
+            "S"
+        ],
+        [
+            "Schaatsen",
+            "Schrikschoenen"
+        ],
+        [
+            "schade",
+            "schaden"
+        ],
+        [
+            "Schilder",
+            "Verver"
+        ],
+        [
+            "Schone",
+            "Schoone"
+        ],
+        [
+            "Schrikken",
+            "Verschieten"
+        ],
+        [
+            "Schrok",
+            "Verschoot"
+        ],
+        [
+            "Sigaret",
+            "Cigarette"
+        ],
+        [
+            "Slager",
+            "Slachter, beenhouwer"
+        ],
+        [
+            "slechterik",
+            "snoodaard"
+        ],
+        [
+            "snel",
+            "fluks, in allerijl"
+        ],
+        [
+            "sneuvelen",
+            "sneven"
+        ],
+        [
+            "sorry",
+            "ik vraag u om verschoning"
+        ],
+        [
+            "stalknecht",
+            "maarschalk"
+        ],
+        [
+            "Standaarbuiten",
+            "'t Zand Daar Buiten"
+        ],
+        [
+            "Steen",
+            "Fteen"
+        ],
+        [
+            "Stemmen",
+            "Vozen"
+        ],
+        [
+            "Suriname en de Nederlandse Antillen",
+            "De West"
+        ],
+        [
+            "Surinamer of Antilliaan",
+            "West-Indiër"
+        ],
+        [
+            "T"
+        ],
+        [
+            "Terneuzen",
+            "Neuzen"
+        ],
+        [
+            "Tiener",
+            "Bakvis, doorgaans werden meisjes tot 17 jaar bakvis genoemd."
+        ],
+        [
+            "tienerjongen",
+            "vlegel"
+        ],
+        [
+            "toch",
+            "desalniettemin"
+        ],
+        [
+            "trots",
+            "fier"
+        ],
+        [
+            "Tsaar",
+            "Czaar"
+        ],
+        [
+            "tussen haakjes",
+            "à propos"
+        ],
+        [
+            "U"
+        ],
+        [
+            "Uitstekend",
+            "Eminent"
+        ],
+        [
+            "V"
+        ],
+        [
+            "Vakantie",
+            "Vacantie"
+        ],
+        [
+            "verdrietig",
+            "geprangd"
+        ],
+        [
+            "verstandig",
+            "doorlucht"
+        ],
+        [
+            "verwerpelijk",
+            "abject"
+        ],
+        [
+            "Vis",
+            "Visch"
+        ],
+        [
+            "Vlees",
+            "Vleesch"
+        ],
+        [
+            "vliegtuig",
+            "vliegmachien"
+        ],
+        [
+            "vogel",
+            "vogala"
+        ],
+        [
+            "voordat",
+            "vooraleer"
+        ],
+        [
+            "Voormalig Joegoslavië",
+            "Zuid-Slavië"
+        ],
+        [
+            "vork",
+            "ferket"
+        ],
+        [
+            "vreemd persoon",
+            "schilderachtig heerschap"
+        ],
+        [
+            "Vriend",
+            "Vrind, amice"
+        ],
+        [
+            "Vroedvrouw",
+            "Hevemoeder"
+        ],
+        [
+            "vrouwelijk geslachtsdeel",
+            "flamouce"
+        ],
+        [
+            "vuilnisbak",
+            "asvat"
+        ],
+        [
+            "W"
+        ],
+        [
+            "waaide",
+            "woei"
+        ],
+        [
+            "waarschuwen",
+            "verwittigen"
+        ],
+        [
+            "wassen (schoonmaken) ",
+            "wasschen"
+        ],
+        [
+            "wind of scheet",
+            "veest"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "zakdoek",
+            "tesneuzik"
+        ],
+        [
+            "zich verpozen",
+            "vermeien"
+        ],
+        [
+            "Zo",
+            "Zoo"
+        ],
+        [
+            "zojuist",
+            "zoëven"
+        ],
+        [
+            "zoutzuur",
+            "geest van zout"
+        ]
+    ]
+}

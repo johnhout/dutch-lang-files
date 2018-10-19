@@ -1,0 +1,824 @@
+{
+    "proverbs": [
+        [
+            "Dat is een gluipert.",
+            "`t is ene gie 'edoe'ed."
+        ],
+        [
+            "Dat is een oneerlijke gluipert.",
+            "E'e hat 't neet ierlijk bie'ein geklie'ege"
+        ],
+        [
+            "De koe moet baren",
+            "De kow geit kaave"
+        ],
+        [
+            "de lompenhandelaar bedroog iedereen.",
+            "de, loemelekrie, mer bezeide iederein, e"
+        ],
+        [
+            "De spreker ziet zijn eigenschappen in de beoordeling van de anderen.",
+            "om enne teliere kinne moste loestere wie he euver de angere kalt"
+        ],
+        [
+            "Die heeft stroo in zijn hoofd",
+            "De heid reuberzoad in der kop."
+        ],
+        [
+            "Doe het hek dicht voor het paard.",
+            "Doch, t breer mer toew angesch kumet peard oe, et."
+        ],
+        [
+            "Een goede knecht eet snel.",
+            "Oum ine huye knecht te kinne mooste um eine kier laote mit eite."
+        ],
+        [
+            "Een goede knecht eet snel.",
+            "Oum ine nuye knecht te kinne mooste um eine kier laote mit eite."
+        ],
+        [
+            "een moeilijk mens",
+            "eine garetige"
+        ],
+        [
+            "Een rondje voor allen.",
+            "Ge, ef ze get te zoepe, "
+        ],
+        [
+            "een stuk in de kraag",
+            "ei shuk i de vaan, of i de kloete"
+        ],
+        [
+            "Eten als een paard.",
+            "Ete es ene sjurendescher"
+        ],
+        [
+            "het is goed zo",
+            "laot et mer goan"
+        ],
+        [
+            "Het openbaar vervoer is niet zo geweldig.",
+            "'t buosverveur is kloe, ete"
+        ],
+        [
+            "Het veld cultivateren",
+            "Den akker expatere."
+        ],
+        [
+            "hij is er nog niet mee klaar",
+            "he is nog neet langs smeets bakkes"
+        ],
+        [
+            "Hij laat zich opjagen.",
+            "He lie'et zich get opschwenzen"
+        ],
+        [
+            "Hij ligt daar moe.",
+            "Ee likt dou'e mit de peu'et va zich aaf."
+        ],
+        [
+            "Hij trapt van zich.",
+            "Hee schtuut tich vuur de knoke."
+        ],
+        [
+            "Hij was wel erg dom.",
+            "He wouer graad dom genog um bie de pliese te goun."
+        ],
+        [
+            "Hij weet het nog niet",
+            "he kiek sich 't nog ins aa."
+        ],
+        [
+            "hij wordt oud.",
+            "he lie'et nao"
+        ],
+        [
+            "Houd je weg van slimme adviseurs",
+            "Houwt tich voet va advekate e jude."
+        ],
+        [
+            "Ik mocht van mijn vader wel eens het suikertje uit zijn borrel hebben.",
+            "Ich mo'gde vander pap 't klotje oet 't elske schloeke."
+        ],
+        [
+            "Je loopt in de weg.",
+            "Delops mich in den hinger"
+        ],
+        [
+            "kat in de pan.",
+            "dat wour ene daakhaas"
+        ],
+        [
+            "Laat een schreeuwer maar naar doen.",
+            "Kal neet tieegen ein ouves moel in."
+        ],
+        [
+            "n.v.t.",
+            "Der deste pruus hat ei paerd geklawd."
+        ],
+        [
+            "n.v.t.",
+            "Ierlijk doert het langst (um rik te we'ere) "
+        ],
+        [
+            "naar school gaan",
+            "in de schul gaon."
+        ],
+        [
+            "oliedom",
+            "Zo douom es 'n gaws"
+        ],
+        [
+            "onverwacht zwanger",
+            "der bok hat geschtoe'ete"
+        ],
+        [
+            "Slim en sluw zijn niet hetzelfde.",
+            "schlum en schlauw zind angesch."
+        ]
+    ],
+    "words": [
+        [
+            "A"
+        ],
+        [
+            "aanmaakhout",
+            "vunkelhout"
+        ],
+        [
+            "aardappelen met schil gekookt",
+            "schwelmaenkes"
+        ],
+        [
+            "adolecent",
+            "schneuzel"
+        ],
+        [
+            "afdak",
+            "sjop"
+        ],
+        [
+            "afgraving",
+            "zandkoel"
+        ],
+        [
+            "aftreksel",
+            "bruisel, meirezeik."
+        ],
+        [
+            "appeltaart",
+            "eppelvlaai"
+        ],
+        [
+            "arensprokkelen",
+            "zeumeren"
+        ],
+        [
+            "armoede",
+            "ermoot of ie'eleng"
+        ],
+        [
+            "B"
+        ],
+        [
+            "balkebrij",
+            "kroepoet"
+        ],
+        [
+            "bieten",
+            "kroe.ete."
+        ],
+        [
+            "boeken",
+            "beuk"
+        ],
+        [
+            "bord (waar je van eet) ",
+            "tejer (woeste va its) "
+        ],
+        [
+            "borrel",
+            "drupke"
+        ],
+        [
+            "bricqeleur, amateur handwerker",
+            "kloemeleier"
+        ],
+        [
+            "bronstig",
+            "schpie'elig (mie'estal v.t. bie kuj) "
+        ],
+        [
+            "buik",
+            "boe'ek'pans."
+        ],
+        [
+            "C"
+        ],
+        [
+            "chique gekleed zijn",
+            "d'r klook op stoan."
+        ],
+        [
+            "clown",
+            "flabbes"
+        ],
+        [
+            "D"
+        ],
+        [
+            "De noorderlingen hebben altijd de leidi",
+            "Es dao eine get te zekke had, zal 't waal weer ene hollender zin."
+        ],
+        [
+            "De rijken hebben altijd gelijk.",
+            "de'e feninge he'et hat ummer geliek."
+        ],
+        [
+            "de telefoon",
+            "t reur"
+        ],
+        [
+            "dikkopje",
+            "koelekop"
+        ],
+        [
+            "doei",
+            "hoien wà"
+        ],
+        [
+            "dommerik",
+            "schtom vaerke"
+        ],
+        [
+            "doodmoe",
+            "hundsmeug"
+        ],
+        [
+            "dubieus iemand",
+            "ne vaale"
+        ],
+        [
+            "duwen",
+            "schoepse, duje."
+        ],
+        [
+            "dwarserik",
+            "kophout of shre, ge."
+        ],
+        [
+            "E"
+        ],
+        [
+            "Een bangerik",
+            "Eine ziekere eine."
+        ],
+        [
+            "Een bangerik",
+            "Eine ziekere eine., ein schiethoes, eine wie, esel."
+        ],
+        [
+            "een krenterige",
+            "de'h ge'et neet schie'ete veur 11 oer."
+        ],
+        [
+            "een rijke vent..",
+            "ene mit knabbe"
+        ],
+        [
+            "een vlijer",
+            "uene vottekroeper"
+        ],
+        [
+            "een vrijkous",
+            "ne knoeverleir"
+        ],
+        [
+            "eigendom",
+            "et geutje"
+        ],
+        [
+            "eind van ruggebot",
+            "fotsknou'k"
+        ],
+        [
+            "emmer",
+            "tob, ummer"
+        ],
+        [
+            "F"
+        ],
+        [
+            "fiets (oud model) ",
+            "knoukeshudeleir"
+        ],
+        [
+            "fijntjes, bedekt lachen",
+            "gremele"
+        ],
+        [
+            "flinke borsten",
+            "dieke kneje"
+        ],
+        [
+            "G"
+        ],
+        [
+            "geprikkeld",
+            "cerbinsetich"
+        ],
+        [
+            "goed fietsen",
+            "good fietse"
+        ],
+        [
+            "grollenmaker",
+            "sjouter"
+        ],
+        [
+            "grommen",
+            "grawele"
+        ],
+        [
+            "grootgrondbezitter",
+            "d'n hieer"
+        ],
+        [
+            "H"
+        ],
+        [
+            "haagbeuk",
+            "harrekop"
+        ],
+        [
+            "haagdoorn",
+            "hegkedoeur (altijd meervoud) "
+        ],
+        [
+            "ham",
+            "sjink"
+        ],
+        [
+            "handen",
+            "heng"
+        ],
+        [
+            "harde werker en goede eter",
+            "sjurendeischer"
+        ],
+        [
+            "helemaal",
+            "knatch"
+        ],
+        [
+            "hellingbron",
+            "droe, epnaas"
+        ],
+        [
+            "hemd",
+            "humme"
+        ],
+        [
+            "Het is mooi weer",
+            "'t is sjoen weer"
+        ],
+        [
+            "hij is nergens te vinden",
+            "gank 'm mer ins zeuke."
+        ],
+        [
+            "Hij is nooit verzadigd.",
+            "He kriet de wampe noe, ets vol."
+        ],
+        [
+            "hij is verschrikkelijk zuinig",
+            "he liet zich en briem door de vot riete"
+        ],
+        [
+            "Hij maakt zijn werk nooit af.",
+            "He lieet ummer 't mets in 't verke schteke"
+        ],
+        [
+            "Hoe gaat het?",
+            "Wie geit 't?"
+        ],
+        [
+            "hoe laat zou het zijn?",
+            "wie schpieet wuurt et?"
+        ],
+        [
+            "hoofd",
+            "bo'eles, kop, hui'eres"
+        ],
+        [
+            "hoofdkaas",
+            "huidvleisch"
+        ],
+        [
+            "horloge",
+            "oehr"
+        ],
+        [
+            "houtpopulier",
+            "cannedas"
+        ],
+        [
+            "I"
+        ],
+        [
+            "ik ben om half 3 klaar met school",
+            "ich bin om hoaf drie kloar met sjoel"
+        ],
+        [
+            "Ik ga naar school met de bus",
+            "Ich goan noa sjoel mit de bus"
+        ],
+        [
+            "Ik vind dat meer mensen op deze site hun woorden etc. moeten toevoegen",
+            "ich ving dat mier luu weurd enzoe motte toevoege"
+        ],
+        [
+            "inde grond vroeten",
+            "inde e'erd vreutele"
+        ],
+        [
+            "J"
+        ],
+        [
+            "jong in de zin van te jong",
+            "natsch"
+        ],
+        [
+            "juist",
+            "krek, richtig, allereigel"
+        ],
+        [
+            "K"
+        ],
+        [
+            "kersen",
+            "kieshe"
+        ],
+        [
+            "keukendoek",
+            "sjotelsplak"
+        ],
+        [
+            "kikker",
+            "kwakker"
+        ],
+        [
+            "klaver dorsen",
+            "klei'e dreiche"
+        ],
+        [
+            "koe",
+            "kow"
+        ],
+        [
+            "komies",
+            "kemiek"
+        ],
+        [
+            "kopje, kop",
+            "teske, tas (van het frans) "
+        ],
+        [
+            "koude oostwind in de winter",
+            "bie'es. (frans;bise) "
+        ],
+        [
+            "kruidnageels",
+            "groffelsnaegel"
+        ],
+        [
+            "kruiwagen",
+            "shubkar (heeft een bak) 'e schurgskar (met platte bodem voor hooi e.d.) "
+        ],
+        [
+            "kunstgebid",
+            "valsche teng"
+        ],
+        [
+            "L"
+        ],
+        [
+            "laarzen",
+            "schtievelen"
+        ],
+        [
+            "laat huwelijk",
+            "schtruuvuur"
+        ],
+        [
+            "lafaard",
+            "votloak"
+        ],
+        [
+            "lelek mens",
+            "eine schoewe"
+        ],
+        [
+            "lippestift",
+            "moeleverf"
+        ],
+        [
+            "Lomperik",
+            "ongehoebelde"
+        ],
+        [
+            "lui mens",
+            "e'ne voeleirik'e, 'ne meuge, "
+        ],
+        [
+            "luierik",
+            "voeloer, voele kloe'et"
+        ],
+        [
+            "M"
+        ],
+        [
+            "moeilijk kind",
+            "verekde krouwel"
+        ],
+        [
+            "moeras",
+            "e brook"
+        ],
+        [
+            "N"
+        ],
+        [
+            "nederlander niet uit limburg",
+            "ne hollender"
+        ],
+        [
+            "neus",
+            "naas"
+        ],
+        [
+            "niet bepalen hoe je het moet doen",
+            "kristaliere"
+        ],
+        [
+            "O"
+        ],
+        [
+            "onderdak",
+            "onger de panne zin."
+        ],
+        [
+            "ongedurig",
+            "peiper aa de vot."
+        ],
+        [
+            "onhandigaard",
+            "kluujtje"
+        ],
+        [
+            "onvolwassen jongen",
+            "sneuzel"
+        ],
+        [
+            "onzin",
+            "brazel"
+        ],
+        [
+            "opschepper",
+            "stenser, vreuger eine van de statiestroat"
+        ],
+        [
+            "orthopeed",
+            "knoakedokter"
+        ],
+        [
+            "oude koffie",
+            "bruisel"
+        ],
+        [
+            "P"
+        ],
+        [
+            "pet",
+            "patsch"
+        ],
+        [
+            "praatjesmaker",
+            "moe,elemaker,kwatschkop"
+        ],
+        [
+            "praatjesmaker",
+            "ouw hoor, brazelaer, zeiveraer."
+        ],
+        [
+            "prei",
+            "lauk"
+        ],
+        [
+            "priem",
+            "zuuul"
+        ],
+        [
+            "R"
+        ],
+        [
+            "relatief klein",
+            "e voes hoeger dan e verke"
+        ],
+        [
+            "riek",
+            "gaffel"
+        ],
+        [
+            "S"
+        ],
+        [
+            "scheel kijken",
+            "loensche"
+        ],
+        [
+            "schoenen",
+            "scheun"
+        ],
+        [
+            "school",
+            "sjoel"
+        ],
+        [
+            "slechte luisteraar",
+            "hu.er"
+        ],
+        [
+            "snor",
+            "schnuits"
+        ],
+        [
+            "snurker",
+            "schnarkiezer"
+        ],
+        [
+            "stalknecht",
+            "zweitser"
+        ],
+        [
+            "stamppot",
+            "heite bliksem"
+        ],
+        [
+            "stok",
+            "knuppel, kul, remmel."
+        ],
+        [
+            "surrogaat koffie",
+            "moekefoek (uit d.) "
+        ],
+        [
+            "T"
+        ],
+        [
+            "taart van gedroogde peren",
+            "euoftevlaa"
+        ],
+        [
+            "takkenschaar",
+            "ulebek, baumshier"
+        ],
+        [
+            "trekken",
+            "riete, roepe (v.b.Ze hant te hel geroept en et zeil is grie'ete) "
+        ],
+        [
+            "trots",
+            "schtolz, gru'etsch."
+        ],
+        [
+            "tuin",
+            "gaard, "
+        ],
+        [
+            "V"
+        ],
+        [
+            "varken",
+            "kuusj"
+        ],
+        [
+            "veehandelaar",
+            "verkesjuud"
+        ],
+        [
+            "veel drinken",
+            "zoe, epe wie eine hings."
+        ],
+        [
+            "veldbouquet",
+            "kroetwusch"
+        ],
+        [
+            "verekkeling",
+            "zouaos"
+        ],
+        [
+            "verleidster",
+            "luder"
+        ],
+        [
+            "veter",
+            "riestartel"
+        ],
+        [
+            "vierwielig handtrekwagentje",
+            "bolderwage"
+        ],
+        [
+            "vlinder",
+            "pie, epel"
+        ],
+        [
+            "voetballe",
+            "foebele"
+        ],
+        [
+            "voor het lapje houden",
+            "bezeike"
+        ],
+        [
+            "voorploeg",
+            "coutere"
+        ],
+        [
+            "vrolijk",
+            "sjpassig"
+        ],
+        [
+            "W"
+        ],
+        [
+            "wc",
+            "huuske"
+        ],
+        [
+            "weerbarstig",
+            "strekelig"
+        ],
+        [
+            "wel wel, ",
+            "wat zeis te dan noe"
+        ],
+        [
+            "wie heeft je haren geknipt (kennelijk slecht) ",
+            "beste van de trap aaf gevalle?"
+        ],
+        [
+            "wilg",
+            "wiej"
+        ],
+        [
+            "wimpers",
+            "flumpe"
+        ],
+        [
+            "wind (je) ",
+            "fots, fotske"
+        ],
+        [
+            "woensdag",
+            "knoakedaag"
+        ],
+        [
+            "woest kwaad",
+            "verekdes kou, ed"
+        ],
+        [
+            "wulps",
+            "bretsetig"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "zakdoek",
+            "schnoefdook"
+        ],
+        [
+            "zandkop (in landschap) ",
+            "zandmenke"
+        ],
+        [
+            "zeis",
+            "zeigsel veur kroed en graas en zicht veur ko, ere."
+        ],
+        [
+            "zure wijn",
+            "pensenterger"
+        ],
+        [
+            "zwaluw",
+            "sjwelberke"
+        ],
+        [
+            "zweep",
+            "schmik"
+        ]
+    ]
+}

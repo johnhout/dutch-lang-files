@@ -1,0 +1,514 @@
+{
+    "proverbs": [
+        [
+            "daar komt de vishandelaar",
+            "luppe skarregos es doe (van café de Dikke Linde) "
+        ],
+        [
+            "dat is een vreemde kerel",
+            "da's ne rare wazzje"
+        ],
+        [
+            "dat zijn bedriegers, leugenaars",
+            "gaile zet zeikest van de vosseplaain (alias de Basteleusstraat waar vroeger veel bewoners van de Brussels oude markt kwamen wonen) "
+        ],
+        [
+            "doe het goed bij het vrijen",
+            "korrozzje onder de sozzje (moed, courage onder de deken) "
+        ],
+        [
+            "Het is een klungelaar",
+            "Tes nen dashtereir"
+        ],
+        [
+            "Hij heeft een lui oog",
+            "Ei eit e slashuug"
+        ],
+        [
+            "hij heeft schrik",
+            "ei è puit, t'es ne skrikskeiter"
+        ],
+        [
+            "hij heeft schrik",
+            "ei zit mè de poepers"
+        ],
+        [
+            "hij is blut",
+            "hij zit op druug zoet"
+        ],
+        [
+            "hij is heel dom",
+            "ei es zoe stoem as't achterwerk van e varke"
+        ],
+        [
+            "ik was het volledig vergeten",
+            "ik was da `grat` vergeite"
+        ],
+        [
+            "vooruit",
+            "voech met de koech"
+        ],
+        [
+            "ze overdrijven fel",
+            "ze skieten ie mè spek"
+        ],
+        [
+            "ze ziet er knap uit",
+            "z'es goet verzien van uure en puute"
+        ]
+    ],
+    "words": [
+        [
+            "B"
+        ],
+        [
+            "bakker",
+            "bekker"
+        ],
+        [
+            "beenhouwer",
+            "bienaver"
+        ],
+        [
+            "bier",
+            "bee"
+        ],
+        [
+            "blauw",
+            "blaat"
+        ],
+        [
+            "boekentas",
+            "en kabas"
+        ],
+        [
+            "boom",
+            "buum"
+        ],
+        [
+            "boomstronk (rest dat in grond zit na het kappen van de boom) ",
+            "\"ei-jès\"gat (meer naar pajots toe) of een \"aas\"gat (meer naar hals toe) "
+        ],
+        [
+            "bord",
+            "taluur"
+        ],
+        [
+            "broer",
+            "breu"
+        ],
+        [
+            "brood",
+            "bruut"
+        ],
+        [
+            "D"
+        ],
+        [
+            "dat zijn bedriegers, leugenaars",
+            "ga zet zeiker van de vosseplaain (alias de Basteleusstraat) "
+        ],
+        [
+            "de Basteleusstraat",
+            "de vosseplaain"
+        ],
+        [
+            "de berm",
+            "den hoesjkant"
+        ],
+        [
+            "de Consciencestraat",
+            "de vernisstroet"
+        ],
+        [
+            "de Wittouckstraat",
+            "de neu stroet"
+        ],
+        [
+            "Denken",
+            "Paaze"
+        ],
+        [
+            "Dikke onderlip",
+            "Pjeirelup"
+        ],
+        [
+            "dom",
+            "stoem"
+        ],
+        [
+            "draad",
+            "droet"
+        ],
+        [
+            "E"
+        ],
+        [
+            "een klein restje eten",
+            "ne knanchelenbeit"
+        ],
+        [
+            "ekster",
+            "een anneke"
+        ],
+        [
+            "eksternest",
+            "en annekesnest"
+        ],
+        [
+            "enkels",
+            "knoesels"
+        ],
+        [
+            "F"
+        ],
+        [
+            "Fiets",
+            "Ne Vlo"
+        ],
+        [
+            "fooraap",
+            "mettekau"
+        ],
+        [
+            "G"
+        ],
+        [
+            "gebraden",
+            "gebreie"
+        ],
+        [
+            "H"
+        ],
+        [
+            "Handtas",
+            "Sakkosh"
+        ],
+        [
+            "huis",
+            "en oisj"
+        ],
+        [
+            "I"
+        ],
+        [
+            "Ingewanden",
+            "Pansjeraa"
+        ],
+        [
+            "K"
+        ],
+        [
+            "Kalf",
+            "Meutte"
+        ],
+        [
+            "ketting",
+            "een keit"
+        ],
+        [
+            "kinderen",
+            "kadeie"
+        ],
+        [
+            "kinderwagen",
+            "koech"
+        ],
+        [
+            "kip",
+            "keek"
+        ],
+        [
+            "kippevel",
+            "kiekebiesj"
+        ],
+        [
+            "klokhuis",
+            "nen knansjelbeit"
+        ],
+        [
+            "Klungelen",
+            "Dashtere"
+        ],
+        [
+            "kolenhandelaar",
+            "oelenboor"
+        ],
+        [
+            "kolenhandelaar",
+            "oellenboor"
+        ],
+        [
+            "konijn",
+            "en konaain"
+        ],
+        [
+            "kroeg",
+            "stammenei"
+        ],
+        [
+            "kus",
+            "een beis"
+        ],
+        [
+            "L"
+        ],
+        [
+            "lastigvallen",
+            "ambeteire"
+        ],
+        [
+            "Lelijke knieën",
+            "Meuttekeskneene"
+        ],
+        [
+            "Lui oog",
+            "Slashuug"
+        ],
+        [
+            "M"
+        ],
+        [
+            "meisje",
+            "een wanne"
+        ],
+        [
+            "metser",
+            "macher"
+        ],
+        [
+            "Mijn",
+            "Maa"
+        ],
+        [
+            "modder",
+            "maauwr"
+        ],
+        [
+            "muts",
+            "en moesj"
+        ],
+        [
+            "N"
+        ],
+        [
+            "Niet",
+            "Ni"
+        ],
+        [
+            "nooit",
+            "nuut"
+        ],
+        [
+            "noten",
+            "notches"
+        ],
+        [
+            "O"
+        ],
+        [
+            "ogen",
+            "uge"
+        ],
+        [
+            "onnozelaar",
+            "weutel"
+        ],
+        [
+            "oorveeg",
+            "en lap rond zan ure"
+        ],
+        [
+            "oranje",
+            "orronne"
+        ],
+        [
+            "ouders",
+            "avers"
+        ],
+        [
+            "P"
+        ],
+        [
+            "pantoffels",
+            "slache"
+        ],
+        [
+            "pastoor",
+            "pastuur"
+        ],
+        [
+            "pech",
+            "malchanse"
+        ],
+        [
+            "pennezak",
+            "ne kalpein"
+        ],
+        [
+            "Pensen",
+            "Panshe"
+        ],
+        [
+            "prutsen",
+            "froechele"
+        ],
+        [
+            "R"
+        ],
+        [
+            "regenbui",
+            "en beis"
+        ],
+        [
+            "regenbuitje (kort, om even de sla te verfrissen) ",
+            "e saloebasjke"
+        ],
+        [
+            "rood",
+            "ruut"
+        ],
+        [
+            "S"
+        ],
+        [
+            "Schooltas",
+            "Kabas"
+        ],
+        [
+            "schoonmoeder",
+            "schuumeike"
+        ],
+        [
+            "sinaasappel",
+            "orronnappel"
+        ],
+        [
+            "sinaasappel",
+            "nen arronnappel"
+        ],
+        [
+            "Smossen",
+            "Gozzele"
+        ],
+        [
+            "Snoepen",
+            "Smoshtere"
+        ],
+        [
+            "spook",
+            "spuuk"
+        ],
+        [
+            "staaldraad",
+            "nen tiege filetee"
+        ],
+        [
+            "stoep",
+            "trottoir"
+        ],
+        [
+            "stofjas",
+            "ne kachpoussiere"
+        ],
+        [
+            "Straat",
+            "Stroet"
+        ],
+        [
+            "struik",
+            "ne stroik"
+        ],
+        [
+            "T"
+        ],
+        [
+            "taart",
+            "toet"
+        ],
+        [
+            "Thuis",
+            "Tois"
+        ],
+        [
+            "Toch wel",
+            "Toot"
+        ],
+        [
+            "tot ziens",
+            "saleu en de kost"
+        ],
+        [
+            "Trui",
+            "Vareus"
+        ],
+        [
+            "trui met knopen",
+            "ne kazzekein"
+        ],
+        [
+            "U"
+        ],
+        [
+            "Uitslag, kleine puistjes",
+            "Wuffele"
+        ],
+        [
+            "V"
+        ],
+        [
+            "vervelend",
+            "ambetant"
+        ],
+        [
+            "vlinder",
+            "ne peipel"
+        ],
+        [
+            "vod",
+            "forre"
+        ],
+        [
+            "Vooruitstekende ondertanden/kin",
+            "Waawoeterbakkes of poembaksmool"
+        ],
+        [
+            "vork",
+            "verkèt"
+        ],
+        [
+            "vriend",
+            "kameroet"
+        ],
+        [
+            "vrouw",
+            "vraa"
+        ],
+        [
+            "W"
+        ],
+        [
+            "Water",
+            "Woeter"
+        ],
+        [
+            "wit",
+            "wut"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "Zand",
+            "Zoevel"
+        ],
+        [
+            "zever",
+            "zieveraa, kluuteraa"
+        ],
+        [
+            "zwart",
+            "zwèt"
+        ]
+    ]
+}

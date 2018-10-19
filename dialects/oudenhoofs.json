@@ -1,0 +1,608 @@
+{
+    "proverbs": [
+        [
+            "250 gram",
+            "e kortse kilo"
+        ],
+        [
+            "750 gram",
+            "drei kort(se) kilo"
+        ],
+        [
+            "doe maar gewoon",
+            "doe mor geweune"
+        ],
+        [
+            "doe uw best",
+            "g'eet er koek'n op"
+        ],
+        [
+            "domme vrouw",
+            "wa veur 'n torte e dadde"
+        ],
+        [
+            "dronken vrouw",
+            "'t es e zatte pulle"
+        ],
+        [
+            "God zegene en beware u",
+            "Tcheneworre"
+        ],
+        [
+            "heb je het begrepen",
+            "en't verstoan"
+        ],
+        [
+            "het is aan het motregenen",
+            "'t is ont miezer'n"
+        ],
+        [
+            "het is een deugniet",
+            "'t is ne mérteko"
+        ],
+        [
+            "het is erg",
+            "'t is iet geschét'n"
+        ],
+        [
+            "het rolluik naar beneden doen",
+            "doe de persijne af"
+        ],
+        [
+            "het zal wat zijn",
+            "t'za wa zijne"
+        ],
+        [
+            "hij is hier niet welkom",
+            "ei é ier nit te zoek'n"
+        ],
+        [
+            "iemand die iets onbezonnen doet",
+            "ze'is ze zij nie goe zekerst"
+        ],
+        [
+            "iemand die opgejaagd is",
+            "ei é peper in zij'gat"
+        ],
+        [
+            "iemand met een lelijk uiterlijk",
+            "'t es gelijk e perdemuijle"
+        ],
+        [
+            "iemand stress geven/opjagen",
+            "we zumme or ne keer op 'or perd zett'n"
+        ],
+        [
+            "ik ga hem slaan",
+            "'k go em op zijn muijle smijt'n"
+        ],
+        [
+            "ik hoor lawaai boven",
+            "'k eure lawijt op de paljée"
+        ],
+        [
+            "je moet zwijgen",
+            "ge moet ou muijle ou'en"
+        ],
+        [
+            "kan ik binnenkomen",
+            "is ter gien verlet"
+        ],
+        [
+            "maak dat je weg bent",
+            "kéer mor wérre va wor da ge komt"
+        ],
+        [
+            "moet ik hier zijn",
+            "is t'ier dak moen zijn"
+        ],
+        [
+            "roddelen",
+            "'t za geklapt werr'n"
+        ],
+        [
+            "voor wat is het",
+            "veur wa d'ist"
+        ],
+        [
+            "vrouwen/mannen die buiten op de vensterbank leunen",
+            "de zullezi'tters"
+        ],
+        [
+            "ze heeft hem buiten gegooid",
+            "zé em op de zulle gezet"
+        ],
+        [
+            "ze is van gedacht veranderd",
+            "zé or kére geke'rd"
+        ],
+        [
+            "zie dat je niet naar beneden valt",
+            "zie da je nie nor bené'n boderd"
+        ],
+        [
+            "zie hem gaan",
+            "zie 'd em tért'n"
+        ],
+        [
+            "zo een lawaai",
+            "azu e lawijt"
+        ]
+    ],
+    "words": [
+        [
+            "A"
+        ],
+        [
+            "aardappelen",
+            "petors"
+        ],
+        [
+            "aardbei | aarbeien",
+            "eirebeze | eirebez'n"
+        ],
+        [
+            "achtertuin",
+            "t'ofgat"
+        ],
+        [
+            "amper",
+            "ruizekies"
+        ],
+        [
+            "auto",
+            "kerre"
+        ],
+        [
+            "autovelg | autovelgen",
+            "zjante | zjant'n"
+        ],
+        [
+            "B"
+        ],
+        [
+            "bizar persoon",
+            "oardegord"
+        ],
+        [
+            "bloem | bloemen",
+            "bloume | bloum'n"
+        ],
+        [
+            "braadpan",
+            "panne"
+        ],
+        [
+            "Brakelstraat",
+            "d'Huugstroate"
+        ],
+        [
+            "C"
+        ],
+        [
+            "caravan",
+            "cabbane"
+        ],
+        [
+            "D"
+        ],
+        [
+            "dakgoot",
+            "corniche"
+        ],
+        [
+            "de plaats, de markt",
+            "de pluitse"
+        ],
+        [
+            "deugniet",
+            "mérteko"
+        ],
+        [
+            "deurdrempel",
+            "zulle"
+        ],
+        [
+            "dinsdag",
+            "deis'ndag"
+        ],
+        [
+            "dom wicht",
+            "klinke"
+        ],
+        [
+            "Doorschietweg",
+            "de ketse"
+        ],
+        [
+            "E"
+        ],
+        [
+            "een hautain persoon",
+            "ne zjéstepé"
+        ],
+        [
+            "elektriciteitszekering",
+            "plong"
+        ],
+        [
+            "emmer",
+            "marmiete"
+        ],
+        [
+            "Erwetegem (buurgemeente)",
+            "E'rtegem"
+        ],
+        [
+            "F"
+        ],
+        [
+            "fiets",
+            "vélo"
+        ],
+        [
+            "fles",
+            "pulle"
+        ],
+        [
+            "G"
+        ],
+        [
+            "gang (eerste verdieping)",
+            "paljée"
+        ],
+        [
+            "gazon",
+            "peloeze"
+        ],
+        [
+            "gehakt",
+            "gekapt"
+        ],
+        [
+            "gewoon",
+            "geweune"
+        ],
+        [
+            "gierigoard",
+            "Openveldweg; afkomstig van het ontbreken van cafés op deze route naar de kerk."
+        ],
+        [
+            "H"
+        ],
+        [
+            "hout",
+            "èt"
+        ],
+        [
+            "huilen",
+            "bléten"
+        ],
+        [
+            "J"
+        ],
+        [
+            "jas",
+            "frak"
+        ],
+        [
+            "K"
+        ],
+        [
+            "kaars",
+            "kéese"
+        ],
+        [
+            "kaas",
+            "kées"
+        ],
+        [
+            "kalender",
+            "almenak"
+        ],
+        [
+            "karnemelk",
+            "kieremelk, keremelk"
+        ],
+        [
+            "Kasteel van Lilare, Sint-Franciscus Instituut",
+            "'t Kastielke, de bruintsies"
+        ],
+        [
+            "kat",
+            "katte"
+        ],
+        [
+            "kermis",
+            "kermesse"
+        ],
+        [
+            "kersen",
+            "kieiz'n"
+        ],
+        [
+            "kip",
+            "kiek'n"
+        ],
+        [
+            "Kip aan het spit",
+            "Kiekekot"
+        ],
+        [
+            "kogels",
+            "kardoesj'n"
+        ],
+        [
+            "kolen (voedsel) ",
+            "kabuizen"
+        ],
+        [
+            "kraai",
+            "kraue"
+        ],
+        [
+            "krant",
+            "gazette"
+        ],
+        [
+            "kruiwagen",
+            "brewet"
+        ],
+        [
+            "L"
+        ],
+        [
+            "lade",
+            "schuive"
+        ],
+        [
+            "Lilarestraat",
+            "Neerstroate"
+        ],
+        [
+            "lucifer",
+            "stekske"
+        ],
+        [
+            "M"
+        ],
+        [
+            "man",
+            "pé'ke"
+        ],
+        [
+            "markt op zondag",
+            "mort"
+        ],
+        [
+            "modder",
+            "móre"
+        ],
+        [
+            "molen",
+            "meulne"
+        ],
+        [
+            "molenaar",
+            "meulneire"
+        ],
+        [
+            "N"
+        ],
+        [
+            "neef",
+            "koz'n"
+        ],
+        [
+            "O"
+        ],
+        [
+            "Ontmoetingscentrum",
+            "'t ontmoet"
+        ],
+        [
+            "oom",
+            "nonkle"
+        ],
+        [
+            "oude man",
+            "ou'e pée"
+        ],
+        [
+            "Oudenhove",
+            "Einhove | Einhovne"
+        ],
+        [
+            "P"
+        ],
+        [
+            "paard",
+            "perd"
+        ],
+        [
+            "pantoffels",
+            "sléts'n"
+        ],
+        [
+            "pastoor",
+            "paster"
+        ],
+        [
+            "persoon die uitkering geniet",
+            "dopper"
+        ],
+        [
+            "pet",
+            "klakke"
+        ],
+        [
+            "poort",
+            "purte"
+        ],
+        [
+            "R"
+        ],
+        [
+            "regenworm",
+            "tie'k"
+        ],
+        [
+            "rolluik",
+            "persijne, volé, d'afrolders"
+        ],
+        [
+            "rot | rotten",
+            "vort | vort'n"
+        ],
+        [
+            "Ruggebeekstraat",
+            "Kapellestroate"
+        ],
+        [
+            "ruzie",
+            "ambras"
+        ],
+        [
+            "S"
+        ],
+        [
+            "salami",
+            "beloende"
+        ],
+        [
+            "schatje",
+            "béezeke"
+        ],
+        [
+            "schijnheiliggaard",
+            "carrott'ntrekker"
+        ],
+        [
+            "schort",
+            "veurschut"
+        ],
+        [
+            "schouw",
+            "schoue"
+        ],
+        [
+            "Sint Antonius",
+            "Senten Tuun"
+        ],
+        [
+            "Sint-Hubertusplein (vanaf de kerk) ",
+            "Kerkstroate"
+        ],
+        [
+            "slagboom",
+            "baréele"
+        ],
+        [
+            "smeerlap",
+            "ziékerd"
+        ],
+        [
+            "snede",
+            "schélle"
+        ],
+        [
+            "snoodaard",
+            "lép'n"
+        ],
+        [
+            "spade",
+            "schuppe"
+        ],
+        [
+            "spar",
+            "sperre"
+        ],
+        [
+            "stappen",
+            "tért'n"
+        ],
+        [
+            "straks",
+            "fleust"
+        ],
+        [
+            "T"
+        ],
+        [
+            "taart",
+            "torte"
+        ],
+        [
+            "tegel",
+            "tiegel"
+        ],
+        [
+            "Ten Ede, Faliestraat: kruispunt",
+            "'t Hoeksken, Perdemort, de post"
+        ],
+        [
+            "U"
+        ],
+        [
+            "uitkering",
+            "dop"
+        ],
+        [
+            "urine",
+            "ziéke"
+        ],
+        [
+            "V"
+        ],
+        [
+            "valpartij",
+            "bodderinge"
+        ],
+        [
+            "varken",
+            "tsoe, verk'n"
+        ],
+        [
+            "venijnige vrouw",
+            "pékeltéeve"
+        ],
+        [
+            "verdomme",
+            "vlamstie dzju'e"
+        ],
+        [
+            "vlees",
+            "vlies"
+        ],
+        [
+            "voordeur",
+            "veurdeurre"
+        ],
+        [
+            "vrouwelijk geslachtsdeel",
+            "voore"
+        ],
+        [
+            "W"
+        ],
+        [
+            "werkkoffer",
+            "aloombak"
+        ],
+        [
+            "wortelen",
+            "carrotten"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "zon",
+            "zonne"
+        ],
+        [
+            "zout",
+            "zéit"
+        ]
+    ]
+}

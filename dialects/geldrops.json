@@ -1,0 +1,491 @@
+{
+    "proverbs": [
+        [
+            "ben je tevreden",
+            "zedde content"
+        ],
+        [
+            "binnen plek",
+            "d'n dil"
+        ],
+        [
+            "dat klopt niet",
+            "des nie secuur"
+        ],
+        [
+            "eigenaardige dame",
+            "pruimen madam"
+        ],
+        [
+            "er tegen aan slaan",
+            "er onder sloan"
+        ],
+        [
+            "Geef me eens een handje",
+            "Gift meen us un hendje"
+        ],
+        [
+            "Had ik maar.....",
+            "Hadde hai gevrete, hadde bessems geschete"
+        ],
+        [
+            "Heb jij het al gehoord",
+            "Hedde gij ut al geheurd"
+        ],
+        [
+            "heel veel",
+            "gruwelijk veul"
+        ],
+        [
+            "het is een rommeltje",
+            "het is me unne gribus"
+        ],
+        [
+            "ik zal je straffen met de hand",
+            "ik zal euw kuntje us werrem maoke"
+        ],
+        [
+            "je staat er met je neus bovenop",
+            "ge stot er mi euw snot bai"
+        ],
+        [
+            "Krijg ik van jou een handje",
+            "Kreeg ik van ouiw un heindje"
+        ],
+        [
+            "luister je",
+            "heurde gai"
+        ],
+        [
+            "slaag krijgen",
+            "ze beuren"
+        ],
+        [
+            "wat een ellende!",
+            "da ziet eruijt"
+        ],
+        [
+            "zie je dat",
+            "ziedde gai de"
+        ]
+    ],
+    "words": [
+        [
+            "A"
+        ],
+        [
+            "aardappels",
+            "erpel"
+        ],
+        [
+            "achterom",
+            "achterum"
+        ],
+        [
+            "altijd",
+            "alzeleve"
+        ],
+        [
+            "B"
+        ],
+        [
+            "banden",
+            "beint"
+        ],
+        [
+            "begrijp je me",
+            "verstodde"
+        ],
+        [
+            "Bezem",
+            "Bessem"
+        ],
+        [
+            "bijna",
+            "bekant"
+        ],
+        [
+            "binnenplaats",
+            "hert"
+        ],
+        [
+            "boerenkool stamp",
+            "petzazzie"
+        ],
+        [
+            "bomen",
+            "beum"
+        ],
+        [
+            "boom",
+            "bom"
+        ],
+        [
+            "Broer",
+            "Bruur"
+        ],
+        [
+            "D"
+        ],
+        [
+            "dat is niet zo mooi",
+            "das nie zo skon, nie"
+        ],
+        [
+            "dat zal je bezuren!",
+            "de zalde gai besniete!"
+        ],
+        [
+            "dat ziet er niet best uit",
+            "ge stot er nie goe vur"
+        ],
+        [
+            "direct",
+            "subbiet"
+        ],
+        [
+            "dommerik",
+            "stommen achterovver"
+        ],
+        [
+            "drab",
+            "drebbik"
+        ],
+        [
+            "E"
+        ],
+        [
+            "eieren",
+            "aaier"
+        ],
+        [
+            "G"
+        ],
+        [
+            "gezicht",
+            "fruuwt"
+        ],
+        [
+            "groene knollen plukken",
+            "gruun plukke"
+        ],
+        [
+            "H"
+        ],
+        [
+            "hanen",
+            "haone"
+        ],
+        [
+            "Hangslot",
+            "Kluister"
+        ],
+        [
+            "haren",
+            "hoar"
+        ],
+        [
+            "Hark",
+            "Griesel"
+        ],
+        [
+            "heide",
+            "haai"
+        ],
+        [
+            "honden",
+            "heund"
+        ],
+        [
+            "hoor!",
+            "heurt!"
+        ],
+        [
+            "horloge",
+            "Gelozzie"
+        ],
+        [
+            "J"
+        ],
+        [
+            "jonge nog niet gekafde koe",
+            "moal"
+        ],
+        [
+            "K"
+        ],
+        [
+            "karbonade",
+            "kermenai"
+        ],
+        [
+            "kind",
+            "keint"
+        ],
+        [
+            "kindje",
+            "kientje"
+        ],
+        [
+            "kippen",
+            "henne"
+        ],
+        [
+            "klepel",
+            "klippel"
+        ],
+        [
+            "koeien",
+            "koei"
+        ],
+        [
+            "Konijn",
+            "Kneent"
+        ],
+        [
+            "konijnen",
+            "keneent"
+        ],
+        [
+            "koud",
+            "keiw"
+        ],
+        [
+            "Kruiwagen",
+            "Kreugel"
+        ],
+        [
+            "kwade",
+            "koie"
+        ],
+        [
+            "L"
+        ],
+        [
+            "lepel",
+            "lippel"
+        ],
+        [
+            "lief",
+            "aoirig"
+        ],
+        [
+            "M"
+        ],
+        [
+            "man",
+            "mansk"
+        ],
+        [
+            "markant figuur",
+            "skon mens"
+        ],
+        [
+            "meisje",
+            "durske"
+        ],
+        [
+            "met pasen",
+            "mi posse"
+        ],
+        [
+            "mooi",
+            "skon"
+        ],
+        [
+            "N"
+        ],
+        [
+            "naar persoon",
+            "izzegrem"
+        ],
+        [
+            "nogal",
+            "verr"
+        ],
+        [
+            "O"
+        ],
+        [
+            "opschieten",
+            "avveseren"
+        ],
+        [
+            "oude man",
+            "doemes"
+        ],
+        [
+            "P"
+        ],
+        [
+            "paal",
+            "poal"
+        ],
+        [
+            "paaltje",
+            "pulleke"
+        ],
+        [
+            "patat",
+            "friet"
+        ],
+        [
+            "pesten",
+            "koeienneren"
+        ],
+        [
+            "pijp",
+            "peep"
+        ],
+        [
+            "pinda",
+            "ollienutje"
+        ],
+        [
+            "plankje",
+            "plenkske"
+        ],
+        [
+            "prei",
+            "praai"
+        ],
+        [
+            "S"
+        ],
+        [
+            "schort",
+            "skolk"
+        ],
+        [
+            "schreeuwen",
+            "kweike"
+        ],
+        [
+            "schuur (opslagplaats werktuigen) ",
+            "schop"
+        ],
+        [
+            "Sigaretje",
+            "Lutje"
+        ],
+        [
+            "slaan",
+            "netsen"
+        ],
+        [
+            "slachtmes",
+            "sligmes"
+        ],
+        [
+            "slechte",
+            "koi"
+        ],
+        [
+            "spek",
+            "kaaikes"
+        ],
+        [
+            "T"
+        ],
+        [
+            "Takkenbezem",
+            "Stekkerbessem"
+        ],
+        [
+            "Theedoek",
+            "Schuttelslet"
+        ],
+        [
+            "twijgen",
+            "stekkers"
+        ],
+        [
+            "U"
+        ],
+        [
+            "uien",
+            "juin"
+        ],
+        [
+            "V"
+        ],
+        [
+            "vanzelfsprekend!",
+            "vanneiges!"
+        ],
+        [
+            "varken",
+            "verreke"
+        ],
+        [
+            "Veter",
+            "Runhassel"
+        ],
+        [
+            "Vogeltje",
+            "Vuggelke"
+        ],
+        [
+            "voor",
+            "veur"
+        ],
+        [
+            "vork",
+            "verket"
+        ],
+        [
+            "W"
+        ],
+        [
+            "waard",
+            "wert"
+        ],
+        [
+            "Warm",
+            "Werrum"
+        ],
+        [
+            "wat zul je nu gaan doen",
+            "wa zalde gai now anvange"
+        ],
+        [
+            "water",
+            "wotter"
+        ],
+        [
+            "wetstok",
+            "zicht"
+        ],
+        [
+            "wijfjes",
+            "weefkes"
+        ],
+        [
+            "wind",
+            "weind"
+        ],
+        [
+            "Wortelstamp",
+            "Petazzie"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "zakdoek",
+            "nuzzik"
+        ],
+        [
+            "zeis",
+            "zessie"
+        ],
+        [
+            "zeug",
+            "zog"
+        ],
+        [
+            "zonde",
+            "zund"
+        ]
+    ]
+}

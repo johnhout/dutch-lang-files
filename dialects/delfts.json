@@ -1,0 +1,495 @@
+{
+    "proverbs": [
+        [
+            "Dat is van hem",
+            "Dat is van zijn"
+        ],
+        [
+            "een blokje om lopen",
+            "een klissie lopen"
+        ],
+        [
+            "Een kopje koffie zetten",
+            "Een bakkie zetten"
+        ],
+        [
+            "Even een kopje koffie zetten",
+            "Effe een bakkie zetten"
+        ],
+        [
+            "Moet bij hem wezen",
+            "Mot je bij zijn zijn"
+        ]
+    ],
+    "words": [
+        [
+            "A"
+        ],
+        [
+            "auto",
+            "auwtoh"
+        ],
+        [
+            "auto",
+            "oto"
+        ],
+        [
+            "B"
+        ],
+        [
+            "Baby eendje",
+            "Pijltje"
+        ],
+        [
+            "bakkie koffie",
+            "kop slootwater"
+        ],
+        [
+            "ben je helemaal gek of zo",
+            "van de pot gepleurd"
+        ],
+        [
+            "biscuitje",
+            "kaakie"
+        ],
+        [
+            "blij",
+            "vrook"
+        ],
+        [
+            "boerenkool",
+            "boerenkoow"
+        ],
+        [
+            "bonen",
+            "boowne"
+        ],
+        [
+            "brand",
+            "hens"
+        ],
+        [
+            "briketten",
+            "sloffe"
+        ],
+        [
+            "Brommer",
+            "Brommert"
+        ],
+        [
+            "C"
+        ],
+        [
+            "Choorstraat",
+            "Koorstraat, in de oorlog Koestraat"
+        ],
+        [
+            "cola",
+            "koowla"
+        ],
+        [
+            "Croissantje",
+            "Kroozantje"
+        ],
+        [
+            "D"
+        ],
+        [
+            "daar ben ik vies van",
+            "daar ben ik bunzig van"
+        ],
+        [
+            "De begraafplaats",
+            "Ut graf"
+        ],
+        [
+            "Delft",
+            "Dehelft"
+        ],
+        [
+            "Delft",
+            "Delluf"
+        ],
+        [
+            "Delft",
+            "duh bom"
+        ],
+        [
+            "E"
+        ],
+        [
+            "echt wel",
+            "ech wel"
+        ],
+        [
+            "een kopje koffie",
+            "een bakkie"
+        ],
+        [
+            "een serieuze brand",
+            "het henst as een gek"
+        ],
+        [
+            "electriciën",
+            "elektrisijn"
+        ],
+        [
+            "er",
+            "dur"
+        ],
+        [
+            "F"
+        ],
+        [
+            "Fiets",
+            "Bikaa"
+        ],
+        [
+            "film",
+            "fillum"
+        ],
+        [
+            "G"
+        ],
+        [
+            "gek",
+            "tjappie"
+        ],
+        [
+            "gezellig",
+            "gessellie"
+        ],
+        [
+            "goedenmorgen",
+            "Goeiemorgen"
+        ],
+        [
+            "H"
+        ],
+        [
+            "hallo",
+            "jo"
+        ],
+        [
+            "hallo hoe gaat het?",
+            "hallo hoe gaat ut?"
+        ],
+        [
+            "handvat",
+            "hansvat"
+        ],
+        [
+            "hangertje",
+            "kerenhanger"
+        ],
+        [
+            "hangertje",
+            "knappie"
+        ],
+        [
+            "heb je",
+            "hebbie"
+        ],
+        [
+            "heb je",
+            "hei je"
+        ],
+        [
+            "heb je ruzie?",
+            "hep ie mot"
+        ],
+        [
+            "hier en daar",
+            "hiero en daaro"
+        ],
+        [
+            "I"
+        ],
+        [
+            "iemand die in delft geboren en opgegroeid is",
+            "delvenaar"
+        ],
+        [
+            "iemand die niet uit delft komt maar er wel woont",
+            "delftenaar"
+        ],
+        [
+            "Ik ga",
+            "Ik gaat"
+        ],
+        [
+            "ik ga naar de markt",
+            "ik gaat naar de mart"
+        ],
+        [
+            "In Delft, kost alles de helft",
+            "In Delluf, kos allus de helluf"
+        ],
+        [
+            "inwoners van Vlaardingen/De Lier",
+            "Boeren"
+        ],
+        [
+            "J"
+        ],
+        [
+            "Je bent grappig",
+            "dekelen"
+        ],
+        [
+            "Jongetje",
+            "Piechiempie"
+        ],
+        [
+            "K"
+        ],
+        [
+            "kan",
+            "ken"
+        ],
+        [
+            "kan je het nog gekker maken",
+            "mot je nog peulen"
+        ],
+        [
+            "kappen nou",
+            "kappe nouw"
+        ],
+        [
+            "Klap",
+            "Hezzik"
+        ],
+        [
+            "klap voor je kop",
+            "knal voor je kneiter"
+        ],
+        [
+            "klap voor je kop",
+            "slag voor je waterbledder"
+        ],
+        [
+            "klap voor je kop",
+            "stoot voor je harses"
+        ],
+        [
+            "kledinghanger",
+            "knaapie"
+        ],
+        [
+            "kop koffie",
+            "bakkie leut"
+        ],
+        [
+            "krentenbol",
+            "krentensik"
+        ],
+        [
+            "L"
+        ],
+        [
+            "lampje",
+            "bolletje"
+        ],
+        [
+            "M"
+        ],
+        [
+            "makkelijk",
+            "makkeluk"
+        ],
+        [
+            "markt",
+            "marrek"
+        ],
+        [
+            "markt",
+            "mart"
+        ],
+        [
+            "meisie",
+            "meissie"
+        ],
+        [
+            "melk",
+            "melluk"
+        ],
+        [
+            "met de trein",
+            "met ut spoor"
+        ],
+        [
+            "met je eten knoeien",
+            "dekelen (eerste e is lang, als in deken, tweede e is bijna een u als in eten) "
+        ],
+        [
+            "met jou",
+            "mejouw"
+        ],
+        [
+            "mijn woordenboek",
+            "mein weurdenbeuk"
+        ],
+        [
+            "Modezaak",
+            "Klerezaak"
+        ],
+        [
+            "N"
+        ],
+        [
+            "naar de snackbar gaan",
+            "hangeh bij perry's"
+        ],
+        [
+            "Nederlandse",
+            "Nedurlandsuh"
+        ],
+        [
+            "nou ja",
+            "na ja"
+        ],
+        [
+            "O"
+        ],
+        [
+            "Omdat we",
+            "Omtotteme"
+        ],
+        [
+            "opduvelen",
+            "tieft op"
+        ],
+        [
+            "oud stuk gereedschap/keukengerei",
+            "knurfie"
+        ],
+        [
+            "P"
+        ],
+        [
+            "Phoenixstraat",
+            "Foeniksstraat"
+        ],
+        [
+            "Pigeut",
+            "persoon"
+        ],
+        [
+            "politie",
+            "pliessie"
+        ],
+        [
+            "Politie",
+            "Popo"
+        ],
+        [
+            "politieagent",
+            "ballejatter"
+        ],
+        [
+            "potlood",
+            "pollood"
+        ],
+        [
+            "R"
+        ],
+        [
+            "rommelen",
+            "dekelen"
+        ],
+        [
+            "rozen",
+            "roowze"
+        ],
+        [
+            "S"
+        ],
+        [
+            "Schelen",
+            "Verschelen"
+        ],
+        [
+            "Sinterklaas",
+            "Senikelaas"
+        ],
+        [
+            "Sjaak",
+            "Sjakie"
+        ],
+        [
+            "spercibonen",
+            "knipbonen"
+        ],
+        [
+            "Springplank / duikplank van een zwembad",
+            "Hoge wip of Lage wip"
+        ],
+        [
+            "T"
+        ],
+        [
+            "Twaalf",
+            "Twaaluf"
+        ],
+        [
+            "U"
+        ],
+        [
+            "uil",
+            "èl"
+        ],
+        [
+            "V"
+        ],
+        [
+            "varken",
+            "biek"
+        ],
+        [
+            "viezigheid",
+            "urft"
+        ],
+        [
+            "vlaardingen",
+            "t' boeren gat"
+        ],
+        [
+            "Voetbal",
+            "Foebal"
+        ],
+        [
+            "vuur",
+            "fik"
+        ],
+        [
+            "vuurtje stoken",
+            "fikkie stoken"
+        ],
+        [
+            "W"
+        ],
+        [
+            "Wat is er",
+            "Wat mot je"
+        ],
+        [
+            "we gaan een kopje koffie drinken",
+            "we gaan een bakkie leuten"
+        ],
+        [
+            "wolken",
+            "wollukke"
+        ],
+        [
+            "worst",
+            "wors"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "zakdoek",
+            "zaddoek"
+        ]
+    ]
+}

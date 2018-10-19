@@ -1,0 +1,568 @@
+{
+    "proverbs": [
+        [
+            "Bekijk het maar een tijdje",
+            "Ga maar op een blauw steentje piesen"
+        ],
+        [
+            "dronken",
+            "een stuk in je reet hebben"
+        ],
+        [
+            "Ga jezelf wassen",
+            "Ga je mandieën"
+        ],
+        [
+            "Het koud hebben",
+            "Blauwbekken"
+        ],
+        [
+            "iemand begraven",
+            "iemand naar Huisduinen brengen"
+        ],
+        [
+            "Ik ga er vandoor",
+            "Ik peer m of ik peert m"
+        ],
+        [
+            "In je blootje",
+            "In je nakende flikker"
+        ],
+        [
+            "je meent het / het is niet waar",
+            "nôh jôh"
+        ],
+        [
+            "Je moet je familie in de maling nemen",
+            "Je moet je zooitje in de maling nemen"
+        ],
+        [
+            "Je zal je Moeder bedoelen",
+            "Je ouwe Moer"
+        ],
+        [
+            "je zal je Vader bedoelen",
+            "Je ouwe Vaar"
+        ],
+        [
+            "Naar het Gemini gaan",
+            "Naar de slagerij gaan"
+        ],
+        [
+            "Naar het uitvaartcentrum gaan",
+            "Naar Jan Dop gaan"
+        ],
+        [
+            "op rustige muziek (intiem) dansen",
+            "scharrebakken"
+        ],
+        [
+            "tijdens de week van de grote kermis regent het zo goed als altijd",
+            "kermis in den helder, water in de kelder"
+        ],
+        [
+            "Water in je schoenen.",
+            "Een nat zeikie."
+        ]
+    ],
+    "words": [
+        [
+            "10 gulden",
+            "Joet"
+        ],
+        [
+            "100 gulden",
+            "Meier"
+        ],
+        [
+            "A"
+        ],
+        [
+            "aan",
+            "an"
+        ],
+        [
+            "achteraan",
+            "achter an."
+        ],
+        [
+            "Achtertuin",
+            "Plaats"
+        ],
+        [
+            "Arm (in de zin van: niet ''rijk'') ",
+            "Skeer"
+        ],
+        [
+            "B"
+        ],
+        [
+            "Bed",
+            "Rek"
+        ],
+        [
+            "Beklagenswaardig mens",
+            "Vrommes"
+        ],
+        [
+            "Beneden",
+            "Buneeje"
+        ],
+        [
+            "benen",
+            "Loopstokken/poten"
+        ],
+        [
+            "Betalen",
+            "Dokken"
+        ],
+        [
+            "bijkeuken",
+            "hossie"
+        ],
+        [
+            "bijna",
+            "bekant."
+        ],
+        [
+            "boodschappen",
+            "Bojskappe"
+        ],
+        [
+            "Boodschappen halen",
+            "Sjoppe"
+        ],
+        [
+            "Brakkeveldweg",
+            "De brak"
+        ],
+        [
+            "broek",
+            "bokse"
+        ],
+        [
+            "Broek",
+            "Boksse"
+        ],
+        [
+            "C"
+        ],
+        [
+            "Container",
+            "bak."
+        ],
+        [
+            "D"
+        ],
+        [
+            "dakkapel",
+            "hondenhok"
+        ],
+        [
+            "Den Helder",
+            "naie diep."
+        ],
+        [
+            "Den Helder",
+            "Delly (jeugd uitspraak)"
+        ],
+        [
+            "doof",
+            "staffig"
+        ],
+        [
+            "Dronken",
+            "Lazarus"
+        ],
+        [
+            "Druk en gehaast ergens mee bezig zijn",
+            "Rissig zijn"
+        ],
+        [
+            "Drukte, onrust",
+            "Riboet"
+        ],
+        [
+            "Durven",
+            "Leppen"
+        ],
+        [
+            "E"
+        ],
+        [
+            "een grote neus",
+            "Een grote gok"
+        ],
+        [
+            "Eersteklasser",
+            "Brugpieper / Brugmug"
+        ],
+        [
+            "eigenwijs, koppig",
+            "pokhout"
+        ],
+        [
+            "F"
+        ],
+        [
+            "Frisbeeën",
+            "Pleieren"
+        ],
+        [
+            "G"
+        ],
+        [
+            "gezicht",
+            "klus"
+        ],
+        [
+            "Gezicht",
+            "Klus (''Hij viel met zijn klus op dek'')"
+        ],
+        [
+            "Gierig, overdreven zuinig",
+            "Skraal"
+        ],
+        [
+            "Groot",
+            "Knoert"
+        ],
+        [
+            "Groot",
+            "Lerp"
+        ],
+        [
+            "Grote, enorme",
+            "Lel"
+        ],
+        [
+            "H"
+        ],
+        [
+            "hardlopen",
+            "tuinen"
+        ],
+        [
+            "heb, hebben",
+            "het"
+        ],
+        [
+            "helemaal",
+            "helegaar"
+        ],
+        [
+            "helling",
+            "kluft"
+        ],
+        [
+            "Het nergens kunnen vinden",
+            "Boekiezoek"
+        ],
+        [
+            "hond",
+            "eik"
+        ],
+        [
+            "Huilen",
+            "Peeuwen"
+        ],
+        [
+            "Huis",
+            "Hut"
+        ],
+        [
+            "I"
+        ],
+        [
+            "Iemand die in Den Helder komt wonen maar er niet geboren is",
+            "Bijkomer / Nieuwedieper"
+        ],
+        [
+            "In je gezicht slaan.",
+            "Op je bek pompen."
+        ],
+        [
+            "Indo/ Indonesiër",
+            "Blauwe"
+        ],
+        [
+            "Indonesisch eten",
+            "Blauwe hap"
+        ],
+        [
+            "Indonesische man",
+            "Blauwe jongen"
+        ],
+        [
+            "Inwoner van Den Helder.",
+            "Jutter"
+        ],
+        [
+            "J"
+        ],
+        [
+            "Jongste telg",
+            "Zeun"
+        ],
+        [
+            "K"
+        ],
+        [
+            "knutselen",
+            "kneuen"
+        ],
+        [
+            "koekje",
+            "koekie"
+        ],
+        [
+            "Koffie drinken",
+            "Bakkie doen"
+        ],
+        [
+            "konijnen",
+            "k'nijnen."
+        ],
+        [
+            "kop en schotel",
+            "kop en schottel"
+        ],
+        [
+            "Kraai",
+            "Kraai"
+        ],
+        [
+            "L"
+        ],
+        [
+            "liggen",
+            "legge"
+        ],
+        [
+            "lucifer",
+            "luri"
+        ],
+        [
+            "M"
+        ],
+        [
+            "Marine man (scheldwoord) ",
+            "Snert hol"
+        ],
+        [
+            "Mezelf",
+            "Eigen"
+        ],
+        [
+            "Moe",
+            "Tjappie"
+        ],
+        [
+            "Moeder",
+            "Moer"
+        ],
+        [
+            "mokje/potje",
+            "pulletje"
+        ],
+        [
+            "Mond",
+            "Kanis (houd je kanis..) "
+        ],
+        [
+            "N"
+        ],
+        [
+            "Neus",
+            "gok"
+        ],
+        [
+            "Niet interessant",
+            "Boeien"
+        ],
+        [
+            "O"
+        ],
+        [
+            "onderbroek",
+            "pendek"
+        ],
+        [
+            "onderzetter",
+            "treefje"
+        ],
+        [
+            "Onnodig",
+            "Onnodig"
+        ],
+        [
+            "Op je gemakje ergens mee bezig zijn",
+            "Oeroesen"
+        ],
+        [
+            "Ophouden (ergens mee ____) ",
+            "kappen/nokken"
+        ],
+        [
+            "P"
+        ],
+        [
+            "Parallelweg",
+            "Prelleweg"
+        ],
+        [
+            "pinda",
+            "sausie"
+        ],
+        [
+            "plassen",
+            "zeiken"
+        ],
+        [
+            "Platgeslagen (moe van emoties) ",
+            "Murf"
+        ],
+        [
+            "Platte steen op het water laten springen",
+            "Pleieren"
+        ],
+        [
+            "politie",
+            "popo"
+        ],
+        [
+            "politie agent",
+            "juut"
+        ],
+        [
+            "praten",
+            "lullen"
+        ],
+        [
+            "Proberen",
+            "Leppen"
+        ],
+        [
+            "R"
+        ],
+        [
+            "Rijden! (gebiedende wijs) (met de fiets of auto) ",
+            "karren"
+        ],
+        [
+            "Rimpelloos water",
+            "Blak water"
+        ],
+        [
+            "rot hond / stoute hond",
+            "klere eik"
+        ],
+        [
+            "rustig lopen",
+            "Stiefelen"
+        ],
+        [
+            "S"
+        ],
+        [
+            "Salaris krijgen",
+            "Kat vangen"
+        ],
+        [
+            "schaap",
+            "skaop"
+        ],
+        [
+            "schilderen",
+            "tjetten"
+        ],
+        [
+            "Schillen (aardappels) ",
+            "Jassen"
+        ],
+        [
+            "Schoenen",
+            "Spatoes"
+        ],
+        [
+            "school",
+            "skool"
+        ],
+        [
+            "schoppen",
+            "skoppe"
+        ],
+        [
+            "Schout en Schepenenstraat",
+            "S en S straat"
+        ],
+        [
+            "schuur",
+            "boet"
+        ],
+        [
+            "Schuur",
+            "Boet, skuur"
+        ],
+        [
+            "slapen",
+            "pitten"
+        ],
+        [
+            "Sloot of gracht",
+            "Plomp"
+        ],
+        [
+            "snoepen",
+            "snaaien"
+        ],
+        [
+            "spugen",
+            "kwatten"
+        ],
+        [
+            "T"
+        ],
+        [
+            "Tanden",
+            "vreetkeien / scheehouten"
+        ],
+        [
+            "Trottoir",
+            "Stoep"
+        ],
+        [
+            "V"
+        ],
+        [
+            "Vallen",
+            "Met je klus op dek"
+        ],
+        [
+            "W"
+        ],
+        [
+            "wegwezen bijv. voor politie",
+            "tuinen"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "zeuren",
+            "zeiken"
+        ],
+        [
+            "Zij zijn, ",
+            "Hunnie zijn, "
+        ],
+        [
+            "zoeken, snuffelen",
+            "strunen"
+        ],
+        [
+            "zuinig",
+            "knepser / skraal"
+        ]
+    ]
+}

@@ -1,0 +1,435 @@
+{
+    "proverbs": [
+        [
+            "A"
+        ],
+        [
+            "azijn",
+            "azine"
+        ],
+        [
+            "B"
+        ],
+        [
+            "bereidwillig, hulpvaardig",
+            "bereit, bereet"
+        ],
+        [
+            "bijna",
+            "bijkanst"
+        ],
+        [
+            "Boven genoemd",
+            "Voerscreven, ontmoet"
+        ],
+        [
+            "C"
+        ],
+        [
+            "christen, christelijk",
+            "kersten"
+        ],
+        [
+            "D"
+        ],
+        [
+            "dag",
+            "dach, daghe"
+        ],
+        [
+            "dagen",
+            "daghen"
+        ],
+        [
+            "de",
+            "ten"
+        ],
+        [
+            "des te makkelijker",
+            "te bat"
+        ],
+        [
+            "deur",
+            "dan"
+        ],
+        [
+            "dienaar, knecht, knaap",
+            "cnape"
+        ],
+        [
+            "dood, overleden",
+            "doot"
+        ],
+        [
+            "duivel",
+            "duvel"
+        ],
+        [
+            "duivel, boze geest",
+            "viant"
+        ],
+        [
+            "E"
+        ],
+        [
+            "en",
+            "ende"
+        ],
+        [
+            "G"
+        ],
+        [
+            "ga zitten",
+            "sit neder"
+        ],
+        [
+            "ghij, u, je, jullie",
+            "ghi"
+        ],
+        [
+            "H"
+        ],
+        [
+            "haar (bezitt.vnw.) ",
+            "haer, hare"
+        ],
+        [
+            "het is",
+            "tes"
+        ],
+        [
+            "Het is er",
+            "Tesser"
+        ],
+        [
+            "hetgeen",
+            "'t"
+        ],
+        [
+            "hetgeen",
+            "datwelc"
+        ],
+        [
+            "huishouding",
+            "huushout, huys"
+        ],
+        [
+            "I"
+        ],
+        [
+            "ijverig",
+            "neerachtich"
+        ],
+        [
+            "J"
+        ],
+        [
+            "jonge",
+            "ionghe"
+        ],
+        [
+            "jonkvrouw",
+            "ioncfrouwe"
+        ],
+        [
+            "juist",
+            "iuyst"
+        ],
+        [
+            "K"
+        ],
+        [
+            "kaars",
+            "keers"
+        ],
+        [
+            "kaarsen",
+            "keersen"
+        ],
+        [
+            "kasteelheer, slotvoogd",
+            "casteleyn"
+        ],
+        [
+            "kind",
+            "kint"
+        ],
+        [
+            "klaar, gereed",
+            "bereit, bereet"
+        ],
+        [
+            "kopen",
+            "coopene"
+        ],
+        [
+            "kort",
+            "cort"
+        ],
+        [
+            "kruidenwijn",
+            "ypocras. Naar Hippocrates, de beroemde Griekse arts."
+        ],
+        [
+            "kruik",
+            "pintken"
+        ],
+        [
+            "L"
+        ],
+        [
+            "land",
+            "lant"
+        ],
+        [
+            "later",
+            "namaels"
+        ],
+        [
+            "leed, pijn",
+            "leet"
+        ],
+        [
+            "liefje",
+            "troost"
+        ],
+        [
+            "M"
+        ],
+        [
+            "maagd, meisje",
+            "maecht"
+        ],
+        [
+            "marktdag",
+            "mertdach"
+        ],
+        [
+            "mens",
+            "mensch"
+        ],
+        [
+            "met daglicht",
+            "met schonen daghe"
+        ],
+        [
+            "met de",
+            "metten"
+        ],
+        [
+            "middag",
+            "meer"
+        ],
+        [
+            "mijlen",
+            "milen"
+        ],
+        [
+            "monster (dier), afzichtelijk wezen",
+            "viant, fiant"
+        ],
+        [
+            "mooi, knap",
+            "schoon"
+        ],
+        [
+            "N"
+        ],
+        [
+            "naar",
+            "nae"
+        ],
+        [
+            "netjes",
+            "betaemt"
+        ],
+        [
+            "Nijmegen",
+            "Nimmeghen, Nieumeghen"
+        ],
+        [
+            "nodig hadden",
+            "behoefden"
+        ],
+        [
+            "nodig hebben",
+            "behoeven"
+        ],
+        [
+            "O"
+        ],
+        [
+            "opmaken",
+            "decke"
+        ],
+        [
+            "overleden, dood",
+            "doot"
+        ],
+        [
+            "P"
+        ],
+        [
+            "proloog",
+            "prologhe"
+        ],
+        [
+            "R"
+        ],
+        [
+            "razend (e) ",
+            "verwoed (e) "
+        ],
+        [
+            "S"
+        ],
+        [
+            "samenleefde",
+            "verkeerde"
+        ],
+        [
+            "samenwoonde",
+            "verkeerde"
+        ],
+        [
+            "stad",
+            "stede"
+        ],
+        [
+            "stuiver",
+            "stuver"
+        ],
+        [
+            "T"
+        ],
+        [
+            "tante",
+            "moeye"
+        ],
+        [
+            "te kopen",
+            "te coopene"
+        ],
+        [
+            "tekort",
+            "ghebreck"
+        ],
+        [
+            "thuis, naar huis",
+            "thuys"
+        ],
+        [
+            "toen",
+            "doen"
+        ],
+        [
+            "U"
+        ],
+        [
+            "uien",
+            "enzoene"
+        ],
+        [
+            "uitgeput, suf, krachteloos",
+            "flou, flau"
+        ],
+        [
+            "V"
+        ],
+        [
+            "vijand (znw.) ",
+            "viant, fiant"
+        ],
+        [
+            "vijandig",
+            "viant"
+        ],
+        [
+            "vlakbij",
+            "neven"
+        ],
+        [
+            "vragen, verzoeken",
+            "bidden"
+        ],
+        [
+            "vroom, vrome",
+            "devoet"
+        ],
+        [
+            "W"
+        ],
+        [
+            "waerachtig",
+            "waar"
+        ],
+        [
+            "ware",
+            "waerachtige"
+        ],
+        [
+            "weg (straat) ",
+            "wech"
+        ],
+        [
+            "wekelijkse",
+            "vander weke"
+        ],
+        [
+            "witte wijn",
+            "garnaten"
+        ],
+        [
+            "wonderlijk (e) ",
+            "wonderlijck (e) "
+        ],
+        [
+            "Z"
+        ],
+        [
+            "zeer",
+            "seer"
+        ],
+        [
+            "zeven",
+            "seven"
+        ],
+        [
+            "zij (pers.vnw., vr. enkv. en mv. voor alle geslachten) ",
+            "si"
+        ],
+        [
+            "zijn (bezitt.vnw.) ",
+            "zijnder"
+        ],
+        [
+            "zoals",
+            "ghelijck"
+        ],
+        [
+            "zoete wijn",
+            "romenien"
+        ],
+        [
+            "zoon",
+            "sone"
+        ],
+        [
+            "zout",
+            "soute"
+        ],
+        [
+            "zus, zuster",
+            "suster"
+        ],
+        [
+            "zwavelstokje",
+            "solferpriem"
+        ],
+        [
+            "zwavelstokjes",
+            "solferpriemen"
+        ]
+    ],
+    "words": []
+}

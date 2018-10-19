@@ -1,0 +1,900 @@
+{
+    "proverbs": [
+        [
+            "Boodschappen halen bij Poiesz",
+            "Boadskappen hale bij Puis."
+        ],
+        [
+            "Boodschappen halen bij Poiesz",
+            "Boadskappen doën bij Puis"
+        ],
+        [
+            "Daar heb ik geen belang bij",
+            "Deer hef ik geen ferlet van"
+        ],
+        [
+            "excessief uitgaansgeweld tegen toeristen",
+            "boatsjevolk oppe bek houwe"
+        ],
+        [
+            "Ga jij in je trui naar buiten?",
+            "Gaastou in dien trui naar buten?"
+        ],
+        [
+            "Heb je het al gezien",
+            "Hest ut al sien"
+        ],
+        [
+            "Heb jij Oude Wieltje gekend",
+            "Hèsto Ouwe Wieltsje konnen"
+        ],
+        [
+            "Heeft u mijn zoon gezien?",
+            "Hewwe jou mien seun sien?"
+        ],
+        [
+            "Het is 's avonds kouder dan buiten",
+            "Tis savons kouwer dan buten"
+        ],
+        [
+            "Het kan mij niet schelen",
+            "Wat ken my uit skele"
+        ],
+        [
+            "Het maakt mij niets uit",
+            "Ut ken mij niks skele"
+        ],
+        [
+            "Hij kan wel wat hebben",
+            "Hij ken wel wat lije"
+        ],
+        [
+            "Ik was kapot!",
+            "Ik was stukken!"
+        ],
+        [
+            "ja kan het wel zeggen, maar is het ook zo?",
+            "de kest ut wel zegge, mar ist oek su?"
+        ],
+        [
+            "je kunt het wel vergeten",
+            "kest ut wel schudde"
+        ],
+        [
+            "oh nee, ik moet hier weg!",
+            "oh nee, ik mut hier vut!"
+        ],
+        [
+            "Volgens mij lagen ze te slapen.",
+            "Volgens mij lagen ze te kezen."
+        ],
+        [
+            "Wat krijg je van me?",
+            "Wat krijst van mij?"
+        ],
+        [
+            "Wat zal jij nou?",
+            "Wat sastou nou?"
+        ],
+        [
+            "Wil je even voor me pinnen",
+            "Pin mie euven een meijer!"
+        ],
+        [
+            "Zal ik een winkelhaak in je buik schoppen",
+            "sal ik dy een winkelhaak in e buuk skoppe"
+        ]
+    ],
+    "words": [
+        [
+            "A"
+        ],
+        [
+            "Aardappelen",
+            "Eepels"
+        ],
+        [
+            "Alcoholist",
+            "Genieter"
+        ],
+        [
+            "als",
+            "as"
+        ],
+        [
+            "als je geen geld hebt, kun je niets kopen.",
+            "As je geen kop heve, ken je niet naar buten kieke. (volgens Wopke) "
+        ],
+        [
+            "altijd",
+            "altyd"
+        ],
+        [
+            "azijn",
+            "eek"
+        ],
+        [
+            "B"
+        ],
+        [
+            "band",
+            "baan"
+        ],
+        [
+            "benen",
+            "slaatpoten"
+        ],
+        [
+            "Biertje",
+            "Postje bier"
+        ],
+        [
+            "Bijl",
+            "Bile"
+        ],
+        [
+            "Black Boys",
+            "De Swatte Panters"
+        ],
+        [
+            "Bloedneus",
+            "Bloëddobber"
+        ],
+        [
+            "blubber",
+            "blauwe jeiter"
+        ],
+        [
+            "brand",
+            "brân"
+        ],
+        [
+            "Broekzak",
+            "Bûse"
+        ],
+        [
+            "brood",
+            "brôd"
+        ],
+        [
+            "D"
+        ],
+        [
+            "de zon schijnt",
+            "de son skient"
+        ],
+        [
+            "diarree",
+            "skijterij"
+        ],
+        [
+            "diarree",
+            "snelle"
+        ],
+        [
+            "Doen",
+            "Doën"
+        ],
+        [
+            "E"
+        ],
+        [
+            "een kind",
+            "un kien"
+        ],
+        [
+            "EHBO'er",
+            "EHBJoad"
+        ],
+        [
+            "eigenlijk",
+            "eilukst"
+        ],
+        [
+            "eten",
+            "ete"
+        ],
+        [
+            "eten",
+            "snaaie"
+        ],
+        [
+            "F"
+        ],
+        [
+            "Fantastisch",
+            "Goud'n"
+        ],
+        [
+            "fiets",
+            "biekje"
+        ],
+        [
+            "fietsen",
+            "fytsen"
+        ],
+        [
+            "fietsen",
+            "fietse"
+        ],
+        [
+            "G"
+        ],
+        [
+            "ga je",
+            "gaast"
+        ],
+        [
+            "geld",
+            "lood"
+        ],
+        [
+            "gelijk (direct) ",
+            "vuttendaliks"
+        ],
+        [
+            "Gelovige",
+            "Paul Buma"
+        ],
+        [
+            "geplast",
+            "megen"
+        ],
+        [
+            "Gereformeerde",
+            "viene"
+        ],
+        [
+            "glaasje",
+            "glaske"
+        ],
+        [
+            "glaasje bier",
+            "glaske biër"
+        ],
+        [
+            "glaasje jenever",
+            "een jonkje"
+        ],
+        [
+            "Glaasje water",
+            "Glaske majum"
+        ],
+        [
+            "goed",
+            "lood"
+        ],
+        [
+            "Gratis",
+            "Verkeefs"
+        ],
+        [
+            "Grootzand",
+            "Grootsaan"
+        ],
+        [
+            "H"
+        ],
+        [
+            "Hallo",
+            "Agoeie"
+        ],
+        [
+            "Hallo",
+            "Harree"
+        ],
+        [
+            "Hand",
+            "Hân"
+        ],
+        [
+            "hand",
+            "hààn"
+        ],
+        [
+            "haven",
+            "aabm"
+        ],
+        [
+            "heb je al gepoept",
+            "hest al skeeten"
+        ],
+        [
+            "Heb je nog wat",
+            "Hest noh wat"
+        ],
+        [
+            "heb jij",
+            "hest"
+        ],
+        [
+            "Heel gemakkelijk",
+            "Skietghemakkelijk"
+        ],
+        [
+            "Heel gemakkelijk",
+            "Skietje"
+        ],
+        [
+            "het",
+            "ut"
+        ],
+        [
+            "het is goed hoor",
+            "altiet klaar nou"
+        ],
+        [
+            "hond",
+            "hôn"
+        ],
+        [
+            "hond",
+            "hoan"
+        ],
+        [
+            "hoofdpijn",
+            "pien inne hasses"
+        ],
+        [
+            "hoofdpijn",
+            "koppiene"
+        ],
+        [
+            "huis",
+            "hús"
+        ],
+        [
+            "I"
+        ],
+        [
+            "idioot",
+            "idioöt"
+        ],
+        [
+            "Ik zal een steen door je raam gooien",
+            "ik sal die een klinker door de ruuten gooien"
+        ],
+        [
+            "J"
+        ],
+        [
+            "jas",
+            "jaske"
+        ],
+        [
+            "je",
+            "dou"
+        ],
+        [
+            "je",
+            "jou"
+        ],
+        [
+            "je (bn) ",
+            "dien"
+        ],
+        [
+            "jij",
+            "dou"
+        ],
+        [
+            "jij gaat",
+            "Dou gaast"
+        ],
+        [
+            "jongen",
+            "jonkje"
+        ],
+        [
+            "jongen",
+            "snaakje"
+        ],
+        [
+            "jouw",
+            "dien"
+        ],
+        [
+            "jullie",
+            "jim"
+        ],
+        [
+            "jullie",
+            "jum"
+        ],
+        [
+            "K"
+        ],
+        [
+            "kaas",
+            "kees"
+        ],
+        [
+            "Kaasschaaf",
+            "Keessf"
+        ],
+        [
+            "Kaasschaaf",
+            "Keesskeef"
+        ],
+        [
+            "kaatsen",
+            "kaatse"
+        ],
+        [
+            "kan",
+            "ken"
+        ],
+        [
+            "kan",
+            "kan"
+        ],
+        [
+            "kan je het zien",
+            "kest ut sien juh"
+        ],
+        [
+            "Kapot",
+            "Stukken"
+        ],
+        [
+            "kijken",
+            "siën"
+        ],
+        [
+            "kijken",
+            "kieke"
+        ],
+        [
+            "klap voor je hoofd",
+            "Slag foar dien hasses"
+        ],
+        [
+            "kratje bier",
+            "kissje bier"
+        ],
+        [
+            "kun je",
+            "kest"
+        ],
+        [
+            "L"
+        ],
+        [
+            "Legend",
+            "Lichtboei"
+        ],
+        [
+            "lelijkerd",
+            "honnekop"
+        ],
+        [
+            "Lichaam",
+            "Billug"
+        ],
+        [
+            "Ludiek",
+            "Luda Bar"
+        ],
+        [
+            "M"
+        ],
+        [
+            "mens",
+            "mees"
+        ],
+        [
+            "Meteen",
+            "Futtendaliks"
+        ],
+        [
+            "miezerig",
+            "miegerug"
+        ],
+        [
+            "mijn vader",
+            "mien ouwe heer"
+        ],
+        [
+            "moeder",
+            "moeke"
+        ],
+        [
+            "moet",
+            "mut"
+        ],
+        [
+            "moet je",
+            "must"
+        ],
+        [
+            "moet je horen",
+            "must höre juh"
+        ],
+        [
+            "moet je zien",
+            "must s siën"
+        ],
+        [
+            "N"
+        ],
+        [
+            "Neus",
+            "Snotkoker"
+        ],
+        [
+            "Niet geslapen",
+            "niet ke-pit"
+        ],
+        [
+            "Noten",
+            "Nuten"
+        ],
+        [
+            "O"
+        ],
+        [
+            "ook",
+            "ok"
+        ],
+        [
+            "ook",
+            "oek"
+        ],
+        [
+            "Oosterdijk",
+            "Oosterdiek"
+        ],
+        [
+            "op het randje",
+            "skunnig"
+        ],
+        [
+            "opschieten",
+            "must opskiete"
+        ],
+        [
+            "Opschieten",
+            "Awesèère"
+        ],
+        [
+            "opschieten",
+            "awesere"
+        ],
+        [
+            "Optreden",
+            "Sjouwtsje"
+        ],
+        [
+            "Oude vrouw",
+            "Ouwe traanpreut"
+        ],
+        [
+            "P"
+        ],
+        [
+            "Paard",
+            "Peerd"
+        ],
+        [
+            "pappa",
+            "pappe"
+        ],
+        [
+            "Pijn in de buik",
+            "Pien iene buuk"
+        ],
+        [
+            "pijnlijk hoofd",
+            "piene hasses"
+        ],
+        [
+            "plassen",
+            "seike"
+        ],
+        [
+            "plassen",
+            "miege"
+        ],
+        [
+            "pleite",
+            "poater"
+        ],
+        [
+            "poepen",
+            "skiete"
+        ],
+        [
+            "Poepen",
+            "Bouten"
+        ],
+        [
+            "Poiesz",
+            "Puis"
+        ],
+        [
+            "politie",
+            "pliesie"
+        ],
+        [
+            "politiebureau",
+            "woutenkit"
+        ],
+        [
+            "Potverdorie",
+            "Gkotvergeemie"
+        ],
+        [
+            "prachtig",
+            "magtig"
+        ],
+        [
+            "R"
+        ],
+        [
+            "randgroepjongere",
+            "snotbongel"
+        ],
+        [
+            "ranzig",
+            "skunnig"
+        ],
+        [
+            "rooie",
+            "beus"
+        ],
+        [
+            "S"
+        ],
+        [
+            "schaatsen",
+            "skaatse"
+        ],
+        [
+            "schat",
+            "skat"
+        ],
+        [
+            "schele",
+            "skele"
+        ],
+        [
+            "Schep",
+            "Skep"
+        ],
+        [
+            "schlemiel",
+            "mieger"
+        ],
+        [
+            "schoenen",
+            "skoenn"
+        ],
+        [
+            "school",
+            "skool"
+        ],
+        [
+            "schoolplein",
+            "skoolplein"
+        ],
+        [
+            "schoonmoeder",
+            "skooënmoeke"
+        ],
+        [
+            "shag",
+            "pude J"
+        ],
+        [
+            "Sinterklaas",
+            "Snitterklaas"
+        ],
+        [
+            "slapen",
+            "koese"
+        ],
+        [
+            "Snekenaren",
+            "Snekers"
+        ],
+        [
+            "sneker nieuwsblad",
+            "t suffertsje"
+        ],
+        [
+            "Spelen",
+            "Speule"
+        ],
+        [
+            "straks",
+            "ásen"
+        ],
+        [
+            "Sufferd",
+            "Soegh"
+        ],
+        [
+            "T"
+        ],
+        [
+            "toch",
+            "nèt jong"
+        ],
+        [
+            "Tot ziens",
+            "De heu"
+        ],
+        [
+            "Treurig",
+            "Mankeliek"
+        ],
+        [
+            "Trutje",
+            "Sjutsje"
+        ],
+        [
+            "twitteren",
+            "Snitteren"
+        ],
+        [
+            "U"
+        ],
+        [
+            "Ui",
+            "Siepel"
+        ],
+        [
+            "uit",
+            "út"
+        ],
+        [
+            "uitsteken",
+            "útsteke"
+        ],
+        [
+            "V"
+        ],
+        [
+            "vervelende jongen",
+            "misseluk jonkje"
+        ],
+        [
+            "vijf (5) ",
+            "Feif"
+        ],
+        [
+            "vuistslag op je hoofd",
+            "fuustslag op dien skedel"
+        ],
+        [
+            "W"
+        ],
+        [
+            "Wat doe je?",
+            "Wat doest?"
+        ],
+        [
+            "wat moet je",
+            "wat must"
+        ],
+        [
+            "wat voor?",
+            "hoeken?"
+        ],
+        [
+            "Wat zou jij nou!",
+            "Wat suust dou nou!"
+        ],
+        [
+            "Wat, mijn moeder",
+            "WAT MIEN MOEKE"
+        ],
+        [
+            "Weet je wel",
+            "Weest wel"
+        ],
+        [
+            "weg",
+            "vut"
+        ],
+        [
+            "Wie zegt dat",
+            "Wie seit dat!"
+        ],
+        [
+            "Wie zijn je ouders",
+            "Fan wie bistau een"
+        ],
+        [
+            "Wijn",
+            "Wien"
+        ],
+        [
+            "Wil je worst hebben",
+            "Must wust he"
+        ],
+        [
+            "woonboot",
+            "woanskip"
+        ],
+        [
+            "worden",
+            "wurre"
+        ],
+        [
+            "Worst",
+            "Wust"
+        ],
+        [
+            "Wortel",
+            "Wuttel"
+        ],
+        [
+            "Z"
+        ],
+        [
+            "Zak",
+            "Pude"
+        ],
+        [
+            "Zak speed",
+            "Pude pep"
+        ],
+        [
+            "zal je",
+            "Sast"
+        ],
+        [
+            "Zeikerd",
+            "Mieger"
+        ],
+        [
+            "zeilboot",
+            "Sielboat"
+        ],
+        [
+            "Zeilen",
+            "Siele"
+        ],
+        [
+            "Zeuren",
+            "Krimmeneren"
+        ],
+        [
+            "Zijn jullie EHBO'ers",
+            "Binnejum ehhh EHBJoaden"
+        ],
+        [
+            "zodadelijk",
+            "aasens"
+        ],
+        [
+            "Zoiets",
+            "Suksawat"
+        ],
+        [
+            "zoon",
+            "seun"
+        ],
+        [
+            "Zuigen",
+            "Sûge"
+        ],
+        [
+            "Zuinig",
+            "Súnug"
+        ],
+        [
+            "Zulken",
+            "Sukken"
+        ],
+        [
+            "zwerver",
+            "beut"
+        ],
+        [
+            "Zwetsen",
+            "Afwaait praat"
+        ]
+    ]
+}
